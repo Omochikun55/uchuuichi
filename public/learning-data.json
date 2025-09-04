@@ -1,0 +1,1207 @@
+{
+  "cards": [
+    {
+      "id": "hq_001",
+      "question": "モル（mol）とは何ですか？",
+      "answer": "6.02×10²³個の粒子の集まりを表す単位。アボガドロ数と呼ばれ、原子や分子の数を数える際に使用される",
+      "type": "definition",
+      "difficulty": 2,
+      "subject": "chemistry",
+      "chapter": "物質量",
+      "page": 30,
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0,
+      "tags": [
+        "物質量",
+        "モル",
+        "基本概念"
+      ]
+    },
+    {
+      "id": "hq_002",
+      "question": "イオン化エネルギーとは何ですか？",
+      "answer": "気体状態の原子から電子を1個取り去って陽イオンにするのに必要なエネルギー。周期表で右上にいくほど大きくなる",
+      "type": "definition",
+      "difficulty": 3,
+      "subject": "chemistry",
+      "chapter": "原子の構造",
+      "page": 45,
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0,
+      "tags": [
+        "原子",
+        "イオン化エネルギー",
+        "周期表"
+      ]
+    },
+    {
+      "id": "hq_003",
+      "question": "理想気体の状態方程式を答えてください",
+      "answer": "PV = nRT（P：圧力、V：体積、n：物質量、R：気体定数、T：絶対温度）",
+      "type": "formula",
+      "difficulty": 2,
+      "subject": "chemistry",
+      "chapter": "気体の性質",
+      "page": 60,
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0,
+      "tags": [
+        "気体",
+        "状態方程式",
+        "公式"
+      ]
+    },
+    {
+      "id": "hq_004",
+      "question": "酸化還元反応とは何ですか？",
+      "answer": "電子の授受を伴う化学反応。酸化は電子を失うこと、還元は電子を受け取ること",
+      "type": "definition",
+      "difficulty": 2,
+      "subject": "chemistry",
+      "chapter": "酸化還元",
+      "page": 80,
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0,
+      "tags": [
+        "酸化還元",
+        "電子",
+        "反応"
+      ]
+    },
+    {
+      "id": "hq_005",
+      "question": "中和反応について説明してください",
+      "answer": "酸と塩基が反応して塩と水を生成する反応。H⁺とOH⁻が結合してH₂Oを作る",
+      "type": "definition",
+      "difficulty": 2,
+      "subject": "chemistry",
+      "chapter": "酸と塩基",
+      "page": 100,
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0,
+      "tags": [
+        "酸塩基",
+        "中和",
+        "反応"
+      ]
+    },
+    {
+      "id": "hq_006",
+      "question": "ニュートンの運動の第2法則を答えてください",
+      "answer": "F = ma（力＝質量×加速度）。物体に働く力は、その物体の質量と加速度の積に等しい",
+      "type": "formula",
+      "difficulty": 2,
+      "subject": "physics",
+      "chapter": "力学",
+      "page": 10,
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0,
+      "tags": [
+        "力学",
+        "ニュートン",
+        "運動法則"
+      ]
+    },
+    {
+      "id": "hq_007",
+      "question": "運動エネルギーの公式を答えてください",
+      "answer": "K = (1/2)mv²（K：運動エネルギー、m：質量、v：速度）",
+      "type": "formula",
+      "difficulty": 2,
+      "subject": "physics",
+      "chapter": "エネルギー",
+      "page": 30,
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0,
+      "tags": [
+        "エネルギー",
+        "運動エネルギー",
+        "公式"
+      ]
+    },
+    {
+      "id": "hq_008",
+      "question": "波の基本式を答えてください",
+      "answer": "v = fλ（v：波の速さ、f：振動数、λ：波長）",
+      "type": "formula",
+      "difficulty": 2,
+      "subject": "physics",
+      "chapter": "波動",
+      "page": 50,
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0,
+      "tags": [
+        "波動",
+        "波",
+        "公式"
+      ]
+    },
+    {
+      "id": "chemistry_1c674c18",
+      "question": "純物質とは何ですか？",
+      "answer": "02やH20,NaClなど,化学式1つで表せるもののこと",
+      "type": "definition",
+      "difficulty": 1,
+      "subject": "chemistry",
+      "chapter": "物質の成り立ち",
+      "page": 4,
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0,
+      "tags": [
+        "定義"
+      ]
+    },
+    {
+      "id": "chemistry_63210f60",
+      "question": "H₂Oは何を表しますか？",
+      "answer": "水。水素原子2個と酸素原子1個からなる化合物",
+      "type": "formula",
+      "difficulty": 1,
+      "subject": "chemistry",
+      "chapter": "物質の成り立ち",
+      "page": 5,
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0,
+      "tags": [
+        "公式"
+      ]
+    },
+    {
+      "id": "chemistry_2f852965",
+      "question": "NaClは何を表しますか？",
+      "answer": "塩化ナトリウム（食塩）。ナトリウムイオンと塩化物イオンからなるイオン結晶",
+      "type": "formula",
+      "difficulty": 1,
+      "subject": "chemistry",
+      "chapter": "物質の成り立ち",
+      "page": 5,
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0,
+      "tags": [
+        "公式"
+      ]
+    },
+    {
+      "id": "chemistry_8692c784",
+      "question": "N₂は何を表しますか？",
+      "answer": "窒素分子。窒素原子2個が三重結合した単体。空気の約78%を占める",
+      "type": "formula",
+      "difficulty": 1,
+      "subject": "chemistry",
+      "chapter": "物質の成り立ち",
+      "page": 5,
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0,
+      "tags": [
+        "公式"
+      ]
+    },
+    {
+      "id": "chemistry_8d29193d",
+      "question": "CO₂は何を表しますか？",
+      "answer": "二酸化炭素。炭素原子1個と酸素原子2個からなる化合物",
+      "type": "formula",
+      "difficulty": 1,
+      "subject": "chemistry",
+      "chapter": "物質の成り立ち",
+      "page": 5,
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0,
+      "tags": [
+        "公式"
+      ]
+    },
+    {
+      "id": "chemistry_77bf1d9b",
+      "question": "NaClの特性について説明してください",
+      "answer": "塩化ナトリウムは水に溶けやすく、融点が高い（801℃）ため通常の条件では気体にならない。イオン結晶の典型例",
+      "type": "formula",
+      "difficulty": 1,
+      "subject": "chemistry",
+      "chapter": "物質の成り立ち",
+      "page": 8,
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0,
+      "tags": [
+        "公式"
+      ]
+    },
+    {
+      "id": "chemistry_c132d9fb",
+      "question": "Arは何を表しますか？",
+      "answer": "アルゴン。希ガスの一種で単原子分子として存在する単体",
+      "type": "formula",
+      "difficulty": 1,
+      "subject": "chemistry",
+      "chapter": "物質の成り立ち",
+      "page": 17,
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0,
+      "tags": [
+        "公式"
+      ]
+    },
+    {
+      "id": "chemistry_64d66235",
+      "question": "H₂は何を表しますか？",
+      "answer": "水素分子。水素原子2個が共有結合した単体",
+      "type": "formula",
+      "difficulty": 1,
+      "subject": "chemistry",
+      "chapter": "物質の成り立ち",
+      "page": 17,
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0,
+      "tags": [
+        "公式"
+      ]
+    },
+    {
+      "id": "chem_theory_ecffd14d",
+      "question": "純物質と混合物の違いを説明してください",
+      "answer": "純物質は化学式1つで表せる物質（H₂O、NaCl等）。混合物は純物質が複数混ざったもの（海水、空気等）",
+      "type": "definition",
+      "difficulty": 1,
+      "subject": "chemistry",
+      "chapter": "物質の成り立ち",
+      "page": 1,
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0,
+      "tags": [
+        "物質の成り立ち",
+        "definition"
+      ]
+    },
+    {
+      "id": "chem_theory_e2e920a6",
+      "question": "単体と化合物の違いは何ですか？",
+      "answer": "単体は1種類の元素からなる純物質（O₂、H₂等）。化合物は2種類以上の元素からなる純物質（H₂O、CO₂等）",
+      "type": "definition",
+      "difficulty": 1,
+      "subject": "chemistry",
+      "chapter": "物質の成り立ち",
+      "page": 2,
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0,
+      "tags": [
+        "物質の成り立ち",
+        "definition"
+      ]
+    },
+    {
+      "id": "chem_theory_298aa536",
+      "question": "蒸留の原理を説明してください",
+      "answer": "液体を加熱して気体にし、冷却して再び液体にすることで、沸点の違いを利用して分離する方法",
+      "type": "separation",
+      "difficulty": 2,
+      "subject": "chemistry",
+      "chapter": "物質の分離",
+      "page": 3,
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0,
+      "tags": [
+        "物質の分離",
+        "separation"
+      ]
+    },
+    {
+      "id": "chem_theory_d78a82a1",
+      "question": "再結晶の原理とは？",
+      "answer": "温度による溶解度の差を利用して、固体を精製する方法。高温で飽和溶液を作り、冷却して純粋な結晶を得る",
+      "type": "separation",
+      "difficulty": 2,
+      "subject": "chemistry",
+      "chapter": "物質の分離",
+      "page": 4,
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0,
+      "tags": [
+        "物質の分離",
+        "separation"
+      ]
+    },
+    {
+      "id": "chem_theory_be402fa4",
+      "question": "クロマトグラフィーの原理を説明してください",
+      "answer": "移動相と固定相への物質の吸着力の差を利用して混合物を分離する方法",
+      "type": "separation",
+      "difficulty": 3,
+      "subject": "chemistry",
+      "chapter": "物質の分離",
+      "page": 5,
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0,
+      "tags": [
+        "物質の分離",
+        "separation"
+      ]
+    },
+    {
+      "id": "chem_theory_dbe50b31",
+      "question": "原子番号と質量数の違いは？",
+      "answer": "原子番号は陽子数（＝電子数）を表す。質量数は陽子数と中性子数の和を表す",
+      "type": "definition",
+      "difficulty": 2,
+      "subject": "chemistry",
+      "chapter": "原子の構造",
+      "page": 6,
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0,
+      "tags": [
+        "原子の構造",
+        "definition"
+      ]
+    },
+    {
+      "id": "chem_theory_1eddf415",
+      "question": "同位体（アイソトープ）とは何ですか？",
+      "answer": "原子番号が同じで質量数が異なる原子。陽子数は同じだが中性子数が異なる",
+      "type": "definition",
+      "difficulty": 2,
+      "subject": "chemistry",
+      "chapter": "原子の構造",
+      "page": 7,
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0,
+      "tags": [
+        "原子の構造",
+        "definition"
+      ]
+    },
+    {
+      "id": "chem_theory_fc723fa6",
+      "question": "アボガドロ定数の値と意味は？",
+      "answer": "6.02×10²³個/mol。1モルの物質に含まれる粒子（原子・分子等）の数",
+      "type": "formula",
+      "difficulty": 2,
+      "subject": "chemistry",
+      "chapter": "物質量",
+      "page": 8,
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0,
+      "tags": [
+        "物質量",
+        "formula"
+      ]
+    },
+    {
+      "id": "chem_theory_8306e359",
+      "question": "モル質量の求め方を説明してください",
+      "answer": "原子量または分子量に g/mol の単位をつけたもの。例：H₂Oの分子量18なら、モル質量は18g/mol",
+      "type": "formula",
+      "difficulty": 2,
+      "subject": "chemistry",
+      "chapter": "物質量",
+      "page": 9,
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0,
+      "tags": [
+        "物質量",
+        "formula"
+      ]
+    },
+    {
+      "id": "chem_theory_f3a529b0",
+      "question": "モル濃度の公式を答えてください",
+      "answer": "モル濃度[mol/L] = 溶質の物質量[mol] ÷ 溶液の体積[L]",
+      "type": "formula",
+      "difficulty": 2,
+      "subject": "chemistry",
+      "chapter": "物質量",
+      "page": 10,
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0,
+      "tags": [
+        "物質量",
+        "formula"
+      ]
+    },
+    {
+      "id": "chem_theory_b5dc7f09",
+      "question": "化学反応式の係数の決め方は？",
+      "answer": "両辺で各元素の原子数が等しくなるように最小の整数比で係数を決める",
+      "type": "application",
+      "difficulty": 2,
+      "subject": "chemistry",
+      "chapter": "化学反応",
+      "page": 11,
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0,
+      "tags": [
+        "化学反応",
+        "application"
+      ]
+    },
+    {
+      "id": "chem_theory_867d2fc1",
+      "question": "限定反応物（律速段階）とは？",
+      "answer": "複数の反応物がある時、最初になくなって反応を制限する物質のこと",
+      "type": "definition",
+      "difficulty": 3,
+      "subject": "chemistry",
+      "chapter": "化学反応",
+      "page": 12,
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0,
+      "tags": [
+        "化学反応",
+        "definition"
+      ]
+    },
+    {
+      "id": "chem_theory_9aebc5d5",
+      "question": "ボイルの法則を述べてください",
+      "answer": "温度一定で、気体の圧力と体積は反比例する。PV = 一定",
+      "type": "formula",
+      "difficulty": 2,
+      "subject": "chemistry",
+      "chapter": "気体の性質",
+      "page": 13,
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0,
+      "tags": [
+        "気体の性質",
+        "formula"
+      ]
+    },
+    {
+      "id": "chem_theory_a8684c42",
+      "question": "シャルルの法則を述べてください",
+      "answer": "圧力一定で、気体の体積は絶対温度に比例する。V/T = 一定",
+      "type": "formula",
+      "difficulty": 2,
+      "subject": "chemistry",
+      "chapter": "気体の性質",
+      "page": 14,
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0,
+      "tags": [
+        "気体の性質",
+        "formula"
+      ]
+    },
+    {
+      "id": "chem_theory_f046b48a",
+      "question": "理想気体と実在気体の違いは？",
+      "answer": "理想気体は分子間力と分子自身の体積を無視。実在気体は高圧・低温でこれらの影響が大きくなる",
+      "type": "definition",
+      "difficulty": 3,
+      "subject": "chemistry",
+      "chapter": "気体の性質",
+      "page": 15,
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0,
+      "tags": [
+        "気体の性質",
+        "definition"
+      ]
+    },
+    {
+      "id": "chem_theory_6fc23605",
+      "question": "ヘスの法則とは何ですか？",
+      "answer": "反応熱は反応経路によらず、始状態と終状態だけで決まるという法則",
+      "type": "definition",
+      "difficulty": 3,
+      "subject": "chemistry",
+      "chapter": "熱化学",
+      "page": 16,
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0,
+      "tags": [
+        "熱化学",
+        "definition"
+      ]
+    },
+    {
+      "id": "chem_theory_98fca5be",
+      "question": "生成熱と燃焼熱の違いは？",
+      "answer": "生成熱は単体から化合物1molを生成する際の反応熱。燃焼熱は物質1molが完全燃焼する際の反応熱",
+      "type": "definition",
+      "difficulty": 2,
+      "subject": "chemistry",
+      "chapter": "熱化学",
+      "page": 17,
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0,
+      "tags": [
+        "熱化学",
+        "definition"
+      ]
+    },
+    {
+      "id": "chem_theory_ef1c138c",
+      "question": "アレニウスの定義による酸・塩基とは？",
+      "answer": "酸：水溶液中でH⁺を放出する物質。塩基：水溶液中でOH⁻を放出する物質",
+      "type": "definition",
+      "difficulty": 2,
+      "subject": "chemistry",
+      "chapter": "酸と塩基",
+      "page": 18,
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0,
+      "tags": [
+        "酸と塩基",
+        "definition"
+      ]
+    },
+    {
+      "id": "chem_theory_f765030d",
+      "question": "ブレンステッド・ローリーの定義による酸・塩基とは？",
+      "answer": "酸：H⁺を与える物質（プロトン供与体）。塩基：H⁺を受け取る物質（プロトン受容体）",
+      "type": "definition",
+      "difficulty": 3,
+      "subject": "chemistry",
+      "chapter": "酸と塩基",
+      "page": 19,
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0,
+      "tags": [
+        "酸と塩基",
+        "definition"
+      ]
+    },
+    {
+      "id": "chem_theory_b2d1a973",
+      "question": "pHの定義と計算式は？",
+      "answer": "pH = -log[H⁺]。水素イオン濃度の常用対数の符号を逆にしたもの",
+      "type": "formula",
+      "difficulty": 2,
+      "subject": "chemistry",
+      "chapter": "酸と塩基",
+      "page": 20,
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0,
+      "tags": [
+        "酸と塩基",
+        "formula"
+      ]
+    },
+    {
+      "id": "chem_theory_a1cdeaea",
+      "question": "緩衝溶液とは何ですか？",
+      "answer": "弱酸とその共役塩基（または弱塩基とその共役酸）の混合溶液で、pHが変化しにくい溶液",
+      "type": "definition",
+      "difficulty": 3,
+      "subject": "chemistry",
+      "chapter": "酸と塩基",
+      "page": 21,
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0,
+      "tags": [
+        "酸と塩基",
+        "definition"
+      ]
+    },
+    {
+      "id": "chem_theory_45993171",
+      "question": "酸化数の求め方のルールを説明してください",
+      "answer": "単体は0、単原子イオンは電荷と同じ、化合物中のHは+1、Oは-2（例外あり）、化合物全体の酸化数の和は0",
+      "type": "application",
+      "difficulty": 2,
+      "subject": "chemistry",
+      "chapter": "酸化還元",
+      "page": 22,
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0,
+      "tags": [
+        "酸化還元",
+        "application"
+      ]
+    },
+    {
+      "id": "chem_theory_560a7dd8",
+      "question": "半反応式の作り方の手順は？",
+      "answer": "①酸化数変化の確認 ②電子の授受を書く ③電荷をH⁺またはOH⁻で調整 ④H₂Oで原子数を調整",
+      "type": "application",
+      "difficulty": 3,
+      "subject": "chemistry",
+      "chapter": "酸化還元",
+      "page": 23,
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0,
+      "tags": [
+        "酸化還元",
+        "application"
+      ]
+    },
+    {
+      "id": "chem_theory_c32652bc",
+      "question": "ボルタ電池の仕組みを説明してください",
+      "answer": "亜鉛板（負極）と銅板（正極）を希硫酸に浸した電池。Znが酸化されZn²⁺となり、H⁺が還元されH₂が発生",
+      "type": "application",
+      "difficulty": 3,
+      "subject": "chemistry",
+      "chapter": "電池",
+      "page": 24,
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0,
+      "tags": [
+        "電池",
+        "application"
+      ]
+    },
+    {
+      "id": "chem_theory_17e4f822",
+      "question": "ダニエル電池の特徴は？",
+      "answer": "亜鉛板をZnSO₄水溶液に、銅板をCuSO₄水溶液に浸し、素焼き板で仕切った電池。分極が起こらない",
+      "type": "application",
+      "difficulty": 3,
+      "subject": "chemistry",
+      "chapter": "電池",
+      "page": 25,
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0,
+      "tags": [
+        "電池",
+        "application"
+      ]
+    },
+    {
+      "id": "chem_theory_cd285b88",
+      "question": "ルシャトリエの原理とは？",
+      "answer": "平衡状態にある系に外部から変化を加えると、その変化を和らげる方向に平衡が移動するという原理",
+      "type": "definition",
+      "difficulty": 3,
+      "subject": "chemistry",
+      "chapter": "化学平衡",
+      "page": 26,
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0,
+      "tags": [
+        "化学平衡",
+        "definition"
+      ]
+    },
+    {
+      "id": "chem_theory_a738d685",
+      "question": "平衡定数の意味と温度依存性は？",
+      "answer": "平衡状態での生成物と反応物の濃度比。温度のみに依存し、濃度や圧力には依存しない",
+      "type": "definition",
+      "difficulty": 3,
+      "subject": "chemistry",
+      "chapter": "化学平衡",
+      "page": 27,
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0,
+      "tags": [
+        "化学平衡",
+        "definition"
+      ]
+    },
+    {
+      "id": "phys_2dba1de7",
+      "question": "等速直線運動の公式を答えてください",
+      "answer": "x = v₀t（x：変位、v₀：初速度、t：時間）",
+      "type": "formula",
+      "difficulty": 1,
+      "subject": "physics",
+      "chapter": "力学",
+      "page": 1,
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0,
+      "tags": [
+        "力学",
+        "formula"
+      ]
+    },
+    {
+      "id": "phys_509cc72d",
+      "question": "等加速度直線運動の3つの公式を答えてください",
+      "answer": "v = v₀ + at、x = v₀t + (1/2)at²、v² - v₀² = 2ax",
+      "type": "formula",
+      "difficulty": 2,
+      "subject": "physics",
+      "chapter": "力学",
+      "page": 2,
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0,
+      "tags": [
+        "力学",
+        "formula"
+      ]
+    },
+    {
+      "id": "phys_62775a21",
+      "question": "自由落下の公式を答えてください",
+      "answer": "v = gt、h = (1/2)gt²、v² = 2gh（g：重力加速度9.8m/s²）",
+      "type": "formula",
+      "difficulty": 2,
+      "subject": "physics",
+      "chapter": "力学",
+      "page": 3,
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0,
+      "tags": [
+        "力学",
+        "formula"
+      ]
+    },
+    {
+      "id": "phys_c97d817a",
+      "question": "慣性の法則（ニュートンの第1法則）とは？",
+      "answer": "物体に外力が働かなければ、静止している物体は静止し続け、運動している物体は等速直線運動を続ける",
+      "type": "definition",
+      "difficulty": 2,
+      "subject": "physics",
+      "chapter": "力学",
+      "page": 4,
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0,
+      "tags": [
+        "力学",
+        "definition"
+      ]
+    },
+    {
+      "id": "phys_5b095234",
+      "question": "作用・反作用の法則（ニュートンの第3法則）とは？",
+      "answer": "物体Aが物体Bに力を及ぼすとき、物体Bも物体Aに大きさが等しく向きが反対の力を及ぼす",
+      "type": "definition",
+      "difficulty": 2,
+      "subject": "physics",
+      "chapter": "力学",
+      "page": 5,
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0,
+      "tags": [
+        "力学",
+        "definition"
+      ]
+    },
+    {
+      "id": "phys_f086a2a4",
+      "question": "摩擦力の公式を答えてください",
+      "answer": "静止摩擦力：f ≤ μ₀N、動摩擦力：f = μN（μ：摩擦係数、N：垂直抗力）",
+      "type": "formula",
+      "difficulty": 2,
+      "subject": "physics",
+      "chapter": "力学",
+      "page": 6,
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0,
+      "tags": [
+        "力学",
+        "formula"
+      ]
+    },
+    {
+      "id": "phys_d48448cc",
+      "question": "円運動の向心力の公式は？",
+      "answer": "F = mv²/r = mrω²（m：質量、v：速さ、r：半径、ω：角速度）",
+      "type": "formula",
+      "difficulty": 3,
+      "subject": "physics",
+      "chapter": "力学",
+      "page": 7,
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0,
+      "tags": [
+        "力学",
+        "formula"
+      ]
+    },
+    {
+      "id": "phys_6a797d06",
+      "question": "単振動の周期の公式を答えてください",
+      "answer": "T = 2π√(m/k)（ばね）、T = 2π√(l/g)（単振り子）",
+      "type": "formula",
+      "difficulty": 3,
+      "subject": "physics",
+      "chapter": "力学",
+      "page": 8,
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0,
+      "tags": [
+        "力学",
+        "formula"
+      ]
+    },
+    {
+      "id": "phys_27e426ae",
+      "question": "位置エネルギーの公式を答えてください",
+      "answer": "U = mgh（m：質量、g：重力加速度、h：高さ）",
+      "type": "formula",
+      "difficulty": 1,
+      "subject": "physics",
+      "chapter": "エネルギー",
+      "page": 9,
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0,
+      "tags": [
+        "エネルギー",
+        "formula"
+      ]
+    },
+    {
+      "id": "phys_b6cd7eb7",
+      "question": "弾性エネルギーの公式を答えてください",
+      "answer": "U = (1/2)kx²（k：ばね定数、x：変位）",
+      "type": "formula",
+      "difficulty": 2,
+      "subject": "physics",
+      "chapter": "エネルギー",
+      "page": 10,
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0,
+      "tags": [
+        "エネルギー",
+        "formula"
+      ]
+    },
+    {
+      "id": "phys_bddae1fb",
+      "question": "力学的エネルギー保存則とは？",
+      "answer": "保存力のみが働く系では、運動エネルギーと位置エネルギーの和（力学的エネルギー）が一定に保たれる",
+      "type": "definition",
+      "difficulty": 2,
+      "subject": "physics",
+      "chapter": "エネルギー",
+      "page": 11,
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0,
+      "tags": [
+        "エネルギー",
+        "definition"
+      ]
+    },
+    {
+      "id": "phys_28129bea",
+      "question": "仕事率（パワー）の公式を答えてください",
+      "answer": "P = W/t = Fv（P：仕事率、W：仕事、t：時間、F：力、v：速度）",
+      "type": "formula",
+      "difficulty": 2,
+      "subject": "physics",
+      "chapter": "エネルギー",
+      "page": 12,
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0,
+      "tags": [
+        "エネルギー",
+        "formula"
+      ]
+    },
+    {
+      "id": "phys_40158713",
+      "question": "波の反射の法則とは？",
+      "answer": "入射角と反射角は等しい。入射波、反射波、法線は同一平面上にある",
+      "type": "definition",
+      "difficulty": 2,
+      "subject": "physics",
+      "chapter": "波動",
+      "page": 13,
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0,
+      "tags": [
+        "波動",
+        "definition"
+      ]
+    },
+    {
+      "id": "phys_01355975",
+      "question": "波の屈折の法則（スネルの法則）を答えてください",
+      "answer": "n₁sinθ₁ = n₂sinθ₂（n：屈折率、θ：角度）",
+      "type": "formula",
+      "difficulty": 3,
+      "subject": "physics",
+      "chapter": "波動",
+      "page": 14,
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0,
+      "tags": [
+        "波動",
+        "formula"
+      ]
+    },
+    {
+      "id": "phys_e071a1f2",
+      "question": "ドップラー効果の公式を答えてください",
+      "answer": "f' = f × (V ± v₀)/(V ∓ vₛ)（観測者が近づく時＋、音源が近づく時－）",
+      "type": "formula",
+      "difficulty": 3,
+      "subject": "physics",
+      "chapter": "波動",
+      "page": 15,
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0,
+      "tags": [
+        "波動",
+        "formula"
+      ]
+    },
+    {
+      "id": "phys_f658d66d",
+      "question": "定常波の条件を説明してください",
+      "answer": "振幅、波長、振動数が等しく、進行方向が逆向きの2つの波が重なり合うときに生じる",
+      "type": "definition",
+      "difficulty": 3,
+      "subject": "physics",
+      "chapter": "波動",
+      "page": 16,
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0,
+      "tags": [
+        "波動",
+        "definition"
+      ]
+    },
+    {
+      "id": "phys_4fd62063",
+      "question": "熱力学第1法則を答えてください",
+      "answer": "ΔU = Q - W（内部エネルギーの変化 = 加えた熱量 - 気体がした仕事）",
+      "type": "formula",
+      "difficulty": 3,
+      "subject": "physics",
+      "chapter": "熱力学",
+      "page": 17,
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0,
+      "tags": [
+        "熱力学",
+        "formula"
+      ]
+    },
+    {
+      "id": "phys_c3a21233",
+      "question": "理想気体の内部エネルギーの特徴は？",
+      "answer": "温度のみに依存し、体積や圧力には依存しない。U = (3/2)nRT（単原子分子理想気体）",
+      "type": "definition",
+      "difficulty": 3,
+      "subject": "physics",
+      "chapter": "熱力学",
+      "page": 18,
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0,
+      "tags": [
+        "熱力学",
+        "definition"
+      ]
+    },
+    {
+      "id": "phys_6dc57b96",
+      "question": "クーロンの法則を答えてください",
+      "answer": "F = k(q₁q₂/r²)（F：力、k：クーロン定数、q：電荷、r：距離）",
+      "type": "formula",
+      "difficulty": 2,
+      "subject": "physics",
+      "chapter": "電磁気",
+      "page": 19,
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0,
+      "tags": [
+        "電磁気",
+        "formula"
+      ]
+    },
+    {
+      "id": "phys_3f175321",
+      "question": "オームの法則を答えてください",
+      "answer": "V = IR（V：電圧、I：電流、R：抵抗）",
+      "type": "formula",
+      "difficulty": 1,
+      "subject": "physics",
+      "chapter": "電磁気",
+      "page": 20,
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0,
+      "tags": [
+        "電磁気",
+        "formula"
+      ]
+    },
+    {
+      "id": "phys_c6d0ffe2",
+      "question": "抵抗の直列接続と並列接続の合成抵抗は？",
+      "answer": "直列：R = R₁ + R₂ + ...、並列：1/R = 1/R₁ + 1/R₂ + ...",
+      "type": "formula",
+      "difficulty": 2,
+      "subject": "physics",
+      "chapter": "電磁気",
+      "page": 21,
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0,
+      "tags": [
+        "電磁気",
+        "formula"
+      ]
+    },
+    {
+      "id": "phys_de9bbef1",
+      "question": "ジュール熱の公式を答えてください",
+      "answer": "Q = I²Rt = V²t/R = IVt（Q：熱量、I：電流、R：抵抗、V：電圧、t：時間）",
+      "type": "formula",
+      "difficulty": 2,
+      "subject": "physics",
+      "chapter": "電磁気",
+      "page": 22,
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0,
+      "tags": [
+        "電磁気",
+        "formula"
+      ]
+    },
+    {
+      "id": "phys_1d929a86",
+      "question": "光電効果とは何ですか？",
+      "answer": "金属に光を当てると電子が飛び出す現象。光の粒子性を示す証拠",
+      "type": "definition",
+      "difficulty": 3,
+      "subject": "physics",
+      "chapter": "原子",
+      "page": 23,
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0,
+      "tags": [
+        "原子",
+        "definition"
+      ]
+    },
+    {
+      "id": "phys_7af0534c",
+      "question": "アインシュタインの光電効果の式を答えてください",
+      "answer": "hν = W + (1/2)mv²（hν：光子のエネルギー、W：仕事関数、(1/2)mv²：光電子の運動エネルギー）",
+      "type": "formula",
+      "difficulty": 3,
+      "subject": "physics",
+      "chapter": "原子",
+      "page": 24,
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0,
+      "tags": [
+        "原子",
+        "formula"
+      ]
+    },
+    {
+      "id": "basic_001",
+      "question": "原子と分子の違いは何ですか？",
+      "answer": "原子は物質を構成する最小単位。分子は原子が結合してできた粒子で、物質の性質を示す最小単位",
+      "type": "definition",
+      "difficulty": 1,
+      "subject": "chemistry",
+      "chapter": "物質の成り立ち",
+      "page": 5,
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0,
+      "tags": [
+        "基本概念",
+        "原子",
+        "分子"
+      ]
+    },
+    {
+      "id": "basic_002",
+      "question": "元素と単体の違いは何ですか？",
+      "answer": "元素は原子の種類を表す概念（H、O、Nなど）。単体は1種類の元素のみからなる物質（H₂、O₂、N₂など）",
+      "type": "definition",
+      "difficulty": 2,
+      "subject": "chemistry",
+      "chapter": "物質の成り立ち",
+      "page": 6,
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0,
+      "tags": [
+        "基本概念",
+        "元素",
+        "単体"
+      ]
+    },
+    {
+      "id": "basic_003",
+      "question": "化学式と化学反応式の違いは何ですか？",
+      "answer": "化学式は物質の組成を表す（H₂O、CO₂など）。化学反応式は化学変化を表す（2H₂ + O₂ → 2H₂Oなど）",
+      "type": "definition",
+      "difficulty": 2,
+      "subject": "chemistry",
+      "chapter": "化学反応",
+      "page": 20,
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0,
+      "tags": [
+        "化学式",
+        "化学反応式",
+        "基本概念"
+      ]
+    }
+  ],
+  "metadata": {
+    "totalCards": 70,
+    "subjects": [
+      "chemistry",
+      "physics"
+    ],
+    "lastUpdated": "2025-09-04",
+    "chemistryCards": 43,
+    "physicsCards": 27
+  }
+}
