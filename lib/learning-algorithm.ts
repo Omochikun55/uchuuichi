@@ -77,8 +77,7 @@ export class LearningAlgorithm {
   // 学習セッション用のカードデッキを生成
   static generateStudyDeck(
     cards: FlashCard[],
-    deckSize: number = 20,
-    focusOnWeak: boolean = true
+    deckSize: number = 20
   ): FlashCard[] {
     const now = new Date();
     const deck: FlashCard[] = [];
@@ -154,7 +153,7 @@ export class LearningAlgorithm {
     });
 
     const weakestTopics = Object.entries(tagStats)
-      .filter(([_, stats]) => stats.weak / stats.total > 0.5)
+      .filter(([, stats]) => stats.weak / stats.total > 0.5)
       .sort((a, b) => (b[1].weak / b[1].total) - (a[1].weak / a[1].total))
       .slice(0, 3)
       .map(([tag]) => tag);

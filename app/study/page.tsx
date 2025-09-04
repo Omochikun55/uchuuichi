@@ -5,7 +5,7 @@ import { AnimatePresence } from 'framer-motion';
 import SwipeCard from '@/components/SwipeCard';
 import { FlashCard } from '@/lib/types';
 import { LearningAlgorithm } from '@/lib/learning-algorithm';
-import { ArrowLeft, RefreshCw, Trophy, Target, Zap, BookOpen } from 'lucide-react';
+import { ArrowLeft, RefreshCw, Trophy, Target, Zap } from 'lucide-react';
 import Link from 'next/link';
 
 export default function StudyPage() {
@@ -42,7 +42,7 @@ export default function StudyPage() {
     try {
       const response = await fetch('/learning-data.json');
       const data = await response.json();
-      const loadedCards = data.cards.map((card: any) => ({
+      const loadedCards = data.cards.map((card: FlashCard) => ({
         ...card,
         lastReviewed: card.lastReviewed ? new Date(card.lastReviewed) : undefined,
         nextReview: card.nextReview ? new Date(card.nextReview) : undefined,
@@ -151,7 +151,7 @@ export default function StudyPage() {
     if (saved) {
       const progress = JSON.parse(saved);
       const updatedCards = cards.map(card => {
-        const savedCard = progress.find((p: any) => p.id === card.id);
+        const savedCard = progress.find((p: { id: string }) => p.id === card.id);
         if (savedCard) {
           return {
             ...card,
@@ -262,7 +262,7 @@ export default function StudyPage() {
           <div className="flex items-center justify-center gap-4 mb-2">
             <select
               value={selectedSubject}
-              onChange={(e) => setSelectedSubject(e.target.value as any)}
+              onChange={(e) => setSelectedSubject(e.target.value as 'all' | 'chemistry' | 'physics')}
               className="px-4 py-2 bg-white border border-gray-200 rounded-lg text-sm"
             >
               <option value="all">全教科</option>

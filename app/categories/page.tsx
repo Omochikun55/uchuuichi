@@ -3,12 +3,13 @@
 import { useState, useEffect } from 'react';
 import Link from 'next/link';
 import { ArrowLeft, BookOpen, Brain, Atom, FlaskRound, Zap, Calculator, Waves } from 'lucide-react';
+import { FlashCard } from '@/lib/types';
 
 interface Category {
   id: string;
   name: string;
   subject: 'chemistry' | 'physics';
-  icon: any;
+  icon: React.ComponentType<{ className?: string }>;
   color: string;
   cardCount: number;
   chapters: string[];
@@ -32,8 +33,8 @@ export default function CategoriesPage() {
       const categoryMap = new Map<string, Category>();
 
       // 化学カテゴリー
-      const chemChapters = [...new Set(cards.filter((c: any) => c.subject === 'chemistry').map((c: any) => c.chapter))];
-      const chemCards = cards.filter((c: any) => c.subject === 'chemistry');
+      const chemChapters = [...new Set(cards.filter((c: FlashCard) => c.subject === 'chemistry').map((c: FlashCard) => c.chapter))];
+      const chemCards = cards.filter((c: FlashCard) => c.subject === 'chemistry');
       
       if (chemChapters.length > 0) {
         categoryMap.set('chemistry-all', {
@@ -48,8 +49,8 @@ export default function CategoriesPage() {
       }
 
       // 物理カテゴリー
-      const physChapters = [...new Set(cards.filter((c: any) => c.subject === 'physics').map((c: any) => c.chapter))];
-      const physCards = cards.filter((c: any) => c.subject === 'physics');
+      const physChapters = [...new Set(cards.filter((c: FlashCard) => c.subject === 'physics').map((c: FlashCard) => c.chapter))];
+      const physCards = cards.filter((c: FlashCard) => c.subject === 'physics');
       
       if (physChapters.length > 0) {
         categoryMap.set('physics-all', {
@@ -64,7 +65,7 @@ export default function CategoriesPage() {
       }
 
       // チャプター別カテゴリー（化学）
-      const chemistryChapterIcons: { [key: string]: any } = {
+      const chemistryChapterIcons: { [key: string]: React.ComponentType<{ className?: string }> } = {
         '物質の成り立ち': Flask,
         '物質の分離': Zap,
         '原子の構造': Atom,
@@ -77,7 +78,7 @@ export default function CategoriesPage() {
 
       chemChapters.forEach(chapter => {
         if (chapter) {
-          const chapterCards = cards.filter((c: any) => c.subject === 'chemistry' && c.chapter === chapter);
+          const chapterCards = cards.filter((c: FlashCard) => c.subject === 'chemistry' && c.chapter === chapter);
           categoryMap.set(`chem-${chapter}`, {
             id: `chem-${chapter}`,
             name: `化学: ${chapter}`,
@@ -91,7 +92,7 @@ export default function CategoriesPage() {
       });
 
       // チャプター別カテゴリー（物理）
-      const physicsChapterIcons: { [key: string]: any } = {
+      const physicsChapterIcons: { [key: string]: React.ComponentType<{ className?: string }> } = {
         '力学': Calculator,
         'エネルギー': Zap,
         '波動': Waves,
@@ -101,7 +102,7 @@ export default function CategoriesPage() {
 
       physChapters.forEach(chapter => {
         if (chapter) {
-          const chapterCards = cards.filter((c: any) => c.subject === 'physics' && c.chapter === chapter);
+          const chapterCards = cards.filter((c: FlashCard) => c.subject === 'physics' && c.chapter === chapter);
           categoryMap.set(`phys-${chapter}`, {
             id: `phys-${chapter}`,
             name: `物理: ${chapter}`,

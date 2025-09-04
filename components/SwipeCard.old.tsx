@@ -1,9 +1,9 @@
 'use client';
 
-import { useState, useEffect, useRef } from 'react';
+import { useState } from 'react';
 import { motion, PanInfo, useMotionValue, useTransform } from 'framer-motion';
 import { FlashCard } from '@/lib/types';
-import { ChevronLeft, ChevronRight, Star, RotateCcw } from 'lucide-react';
+import { ChevronLeft, ChevronRight, Star } from 'lucide-react';
 
 interface SwipeCardProps {
   card: FlashCard;
@@ -23,12 +23,12 @@ export default function SwipeCard({
   const [showAnswer, setShowAnswer] = useState(false);
   const [exitX, setExitX] = useState(0);
   const [exitY, setExitY] = useState(0);
-  const [isDragging, setIsDragging] = useState(false);
+  const [, setIsDragging] = useState(false);
 
   const x = useMotionValue(0);
   const y = useMotionValue(0);
   const rotate = useTransform(x, [-200, 200], [-30, 30]);
-  const opacity = 1; // 常に不透明にする
+  // const opacity = 1; // 常に不透明にする
 
   // スワイプ方向のインジケーター
   const leftIndicatorOpacity = useTransform(x, [-100, 0], [1, 0]);
@@ -39,7 +39,7 @@ export default function SwipeCard({
     setIsDragging(true);
   };
 
-  const handleDragEnd = (_: any, info: PanInfo) => {
+  const handleDragEnd = (_: unknown, info: PanInfo) => {
     setIsDragging(false);
     const threshold = 100;
     

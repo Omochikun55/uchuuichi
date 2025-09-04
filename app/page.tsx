@@ -36,7 +36,7 @@ export default function HomePage() {
       if (saved) {
         const progress = JSON.parse(saved);
         updatedCards = cards.map(card => {
-          const savedCard = progress.find((p: any) => p.id === card.id);
+          const savedCard = progress.find((p: { id: string }) => p.id === card.id);
           if (savedCard) {
             return { ...card, ...savedCard };
           }
