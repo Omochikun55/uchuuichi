@@ -19,7 +19,7 @@ export default function StudyPage() {
     streak: 0,
     maxStreak: 0,
   });
-  const [selectedSubject, setSelectedSubject] = useState<'all' | 'chemistry' | 'physics'>('all');
+  const [selectedChapter, setSelectedChapter] = useState<'all' | '理論化学' | '無機化学' | '有機化学'>('all');
   const [deckSize, setDeckSize] = useState(20);
   const [studyMode, setStudyMode] = useState<'normal' | 'weak' | 'quick' | 'new'>('normal');
 
@@ -60,8 +60,9 @@ export default function StudyPage() {
     const cardsToUse = allCards || cards;
     let filteredCards = cardsToUse;
     
-    if (selectedSubject !== 'all') {
-      filteredCards = cardsToUse.filter(card => card.subject === selectedSubject);
+    // 化学の章で絞り込み
+    if (selectedChapter !== 'all') {
+      filteredCards = cardsToUse.filter(card => card.chapter === selectedChapter);
     }
 
     // モードに応じてカードをフィルタリング
@@ -173,7 +174,7 @@ export default function StudyPage() {
       const updatedCards = loadProgress();
       generateNewDeck(updatedCards);
     }
-  }, [selectedSubject, deckSize]);
+  }, [selectedChapter, deckSize]);
 
   if (loading) {
     return (
@@ -261,13 +262,14 @@ export default function StudyPage() {
         <div className="max-w-4xl mx-auto">
           <div className="flex items-center justify-center gap-4 mb-2">
             <select
-              value={selectedSubject}
-              onChange={(e) => setSelectedSubject(e.target.value as 'all' | 'chemistry' | 'physics')}
+              value={selectedChapter}
+              onChange={(e) => setSelectedChapter(e.target.value as 'all' | '理論化学' | '無機化学' | '有機化学')}
               className="px-4 py-2 bg-white border border-gray-200 rounded-lg text-sm"
             >
-              <option value="all">全教科</option>
-              <option value="chemistry">化学のみ</option>
-              <option value="physics">物理のみ</option>
+              <option value="all">全範囲</option>
+              <option value="理論化学">理論化学</option>
+              <option value="無機化学">無機化学</option>
+              <option value="有機化学">有機化学</option>
             </select>
             <select
               value={deckSize}

@@ -1,0 +1,2925 @@
+{
+  "metadata": {
+    "created_at": "2025-09-05T06:39:06.303777",
+    "source_pdf": "【有機・化学】宇宙一わかりやすい化学.pdf",
+    "totalCards": 173,
+    "version": "2.0"
+  },
+  "cards": [
+    {
+      "id": "uch_0001_img",
+      "question": "この図が示している内容を説明してください",
+      "answer": "図を参照して理解してください",
+      "type": "graph",
+      "image_path": "images/p1_img0.png",
+      "subject": "chemistry",
+      "page": 1,
+      "difficulty": 2,
+      "tags": [
+        "図解"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0002_000",
+      "question": "Chapter\n|まじめ↓こ\n有機化学の基礎\nさて′みなさんとは何ですか？",
+      "answer": "これから有機化学について勉強していくわけ",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 2,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "Chapter\n|まじめ↓こ\n有機化学の"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0002_001",
+      "question": "が\n有機化学を勉強する目的ととは何ですか？",
+      "answer": "一体何でしょうか?\nルナー燃料を探しに,地球にやつてきたハカセたち",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 2,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "が\n有機化学を勉強する目的と"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0002_002",
+      "question": "しかし′ この量でとは何ですか？",
+      "answer": "少量すぎて月を救うことはできないよう",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 2,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "しかし′ この量で"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0002_003",
+      "question": "「一体′ルナ…燃料とは何ですか？",
+      "answer": "どんな物質なんじやろうか",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 2,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "「一体′ルナ…燃料"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0002_004",
+      "question": "まずとは何ですか？",
+      "answer": "有機化学のキホンを理解しなければなりません",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 2,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "まず"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0004_000",
+      "question": "そのための第一歩として,Chapter lでとは何ですか？",
+      "answer": ",次のような基本的な知識を頭に入れ\nていきましょう",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 4,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "そのための第一歩として,Chapter "
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0004_001",
+      "question": "有機化合物の特徴\n炭素の特徴\n有機化合物の書き表しかた\nこの本を読み終える頃にとは何ですか？",
+      "answer": "「次のような操作を行つたところ,以下のような反応をした",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 4,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "有機化合物の特徴\n炭素の特徴\n有機化合物"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0004_img",
+      "question": "この図が示している内容を説明してください",
+      "answer": "図を参照して理解してください",
+      "type": "graph",
+      "image_path": "images/p4_img0.png",
+      "subject": "chemistry",
+      "page": 4,
+      "difficulty": 2,
+      "tags": [
+        "図解"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0005_000",
+      "question": "19\n=  \n、\nヽ ノ\nゴール\nその有機化合物とは何ですか？",
+      "answer": "一体何なのかを突き止めること\nヽ\n　\n．\n・\n′\nす\nずは基礎となる\nジヤーン\nルナー燃料も\n一体どんな物質\nなんでしょう\nCH3COOH\n■,  '\nH\nワ\n．\nつ\n．\n＋\nＩ\nＬ\nＨ\nＩ\nＣ\nＩ\nＣ\n一\nＨ\nＣ\n千\nＩ\nＬ\n,tま\n一\n　\n　\n一\n　\n　\n　\n　\n　\n　\n　\n　\n・\n・\n‐\n・\nO\nC)\nZOfcr/>lzfu?fiq\nること\n・有機化合物の特徴\n・炭素の特徴\n0有機化合物の書",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": ",  '",
+      "page": 5,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "19\n=  \n、\nヽ ノ\nゴール\nその有"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0005_img",
+      "question": "この図が示している内容を説明してください",
+      "answer": "図を参照して理解してください",
+      "type": "graph",
+      "image_path": "images/p5_img0.png",
+      "subject": "chemistry",
+      "page": 5,
+      "difficulty": 2,
+      "tags": [
+        "図解"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0006_000",
+      "question": "勒\n例外として,CO′ C02,炭酸塩(CaC03など)′\nシアン化物(KCNなど)とは何ですか？",
+      "answer": "有機化合物\nではなく,無機物質に分類することになっています",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 6,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "勒\n例外として,CO′ C02,炭酸塩("
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0006_001",
+      "question": "無機化学とは何ですか？",
+      "answer": "すでに勉強したと思いますが′そこではたくさんの元素(原子の種類)\nが出てきて,\n「その元素の単体や化含物の性質を1つひとつ覚えていくこと」\nが最も大事なポイントでした",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 6,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "無機化学"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0006_002",
+      "question": "一方′有機化学でとは何ですか？",
+      "answer": ",限られた数の元素しか出てきませんが,\n(炭素C,水素H′\n酸素0′\n窒素N′\n硫黄S, リンP′\n塩素CI′\n臭素Brなど)\nこれらを組合せたり′結びつきかたを変えることで′1億種類もの化合物となり\nます",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 6,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "一方′有機化学で"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0006_003",
+      "question": "ここでとは何ですか？",
+      "answer": ",とにかく「有機化合物は,限られた元素の組合せかたや結合のしかた\nでさまざまな物質になる」ということを理解していただけたらOK",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 6,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "ここで"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0007_000",
+      "question": "CO,C02,炭酸塩,\nシアン化物とは何ですか？",
+      "answer": "炭素を含むが\n無機物質に\n分類されるぞい\n=炭素Cを含む化合物\n■\n■\nご\n、\n=炭素Cを含まない物質\n無機化学…さまざま\nが出てくる\n圃膠熙\n0\n無機物質\n無機化学を\n一緒に学んだ\nニャンタローは\n澤鞣翁\nいぜ\n′\nt==′\n元気かな\n・\n一\n一\n２\n一\n３\n一\n・\n４\n一\n５\n一\n６\n一\n７\n一\n　\n　\n一\n　\n　\n一\n二\n　\n●\n一\n　\n　\n一\n2He\nlH\n=B\ntC\n7N\n、0\n,F\n|",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "ご",
+      "page": 7,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "CO,C02,炭酸塩,\nシアン化物"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0007_001",
+      "question": "この式の意味を説明してください",
+      "answer": "CH₂♀=CH~CH₂",
+      "type": "formula",
+      "subject": "chemistry",
+      "chapter": "ご",
+      "page": 7,
+      "difficulty": 2,
+      "tags": [
+        "公式"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0008_000",
+      "question": "化学反応とは何ですか？",
+      "answer": ",物質そのものが変化する反応",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "有機化含物のほうが,反応速度が比較的遅い。",
+      "page": 8,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "化学反応"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0008_001",
+      "question": "【理由】\n有機化合物中の結合の大部分とは何ですか？",
+      "answer": ",結びつきが比較的強い共有結合",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "有機化含物のほうが,反応速度が比較的遅い。",
+      "page": 8,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "【理由】\n有機化合物中の結合の大部分"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0008_002",
+      "question": "化学反応ととは何ですか？",
+      "answer": ",物質そのものが変化する反応",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "有機化含物のほうが,反応速度が比較的遅い。",
+      "page": 8,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "化学反応と"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0008_003",
+      "question": "化学反応が起こるときとは何ですか？",
+      "answer": ",原子どうしの結合が切れて′新たな原子の組合せがで\nきるので′結合を切るのにたくさんのエネルギーが必要な共有結合をもつ有機化\n合物は,その分′化学反応に時間がかかつてしまうの",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "有機化含物のほうが,反応速度が比較的遅い。",
+      "page": 8,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "化学反応が起こるとき"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0008_004",
+      "question": "一方′無機物質とは何ですか？",
+      "answer": ",イオン結合や金属結合′配位結合など,共有結合より弱い結\n合でできているものが多いため′反応速度は有機化合物に比べて速くなります",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "有機化含物のほうが,反応速度が比較的遅い。",
+      "page": 8,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "一方′無機物質"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0008_005",
+      "question": "・有機化合物とは何ですか？",
+      "answer": ",水に溶けにくく,有機溶媒に溶けやすい",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "有機化含物のほうが,反応速度が比較的遅い。",
+      "page": 8,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "・有機化合物"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0010_000",
+      "question": "融点とは何ですか？",
+      "answer": ",固体(分子どうしがくつついた状態)から′\n液体(分子どうしがゆるくつながつた状態)になる温度のことであり′\n沸点とは,液体(分子どうしがゆるくつながつた状態)から′\n気体(分子どうしがバラバラになつた状態)になる温度",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 10,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "融点"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0010_001",
+      "question": "【理由】\n前のページでとは何ですか？",
+      "answer": ",原子どうしの結びつきに注目しましたが,\nここでは′分子どうしの結びつきに注目します",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 10,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "【理由】\n前のページで"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0010_002",
+      "question": "無機物質の多くとは何ですか？",
+      "answer": "′分子どうしがイオン結含(結びつきが比較的強い)によつてイ\nオン結晶となっていますが′有機化合物では,主に分子どうしの分子間力(結び\nつきが比較的弱い)による′分子結晶からなるものが多い",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 10,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "無機物質の多く"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0010_003",
+      "question": "緒議)>無\n機物質である金属とは何ですか？",
+      "answer": ",金属結合による結晶構造をとつています",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 10,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "緒議)>無\n機物質である金属"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0010_004",
+      "question": "結合の強さにとは何ですか？",
+      "answer": "次のような大小関係がありましたね・",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 10,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "結合の強さに"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0010_005",
+      "question": "状態変化とは何ですか？",
+      "answer": "′物質は変化しませんが,物質(分子)の結びつきの様子が変化します",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 10,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "状態変化"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0010_006",
+      "question": "融点ととは何ですか？",
+      "answer": ",固体(分子どうしがくつついた状態)から′\n液体(分子どうしがゆるくつながつた状態)になる温度のことであり′\n沸点とは,液体(分子どうしがゆるくつながつた状態)から′\n気体(分子どうしがバラバラになつた状態)になる温度",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 10,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "融点と"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0010_007",
+      "question": "よつて,有機化含物とは何ですか？",
+      "answer": "無機物質と比較して,一般的に融点や沸点が低いの",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 10,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "よつて,有機化含物"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0011_000",
+      "question": "有機化合物\nボクたちとは何ですか？",
+      "answer": "結びつきは\n3]いck\n無機物質\nオレたち\n結びつき強いぜ\nガ\nル\nチ\nリ\n①CsCI\nCs+\nイオン結晶\nなる温度のこと\n融点とは,\n分子どうしが並んだ状態から動ける状態に\n有機化合物は\n集合としての\n結びつきは\n弱いんじゃ\nGく意}O\nヽ\nCC祭獄Э\n＼\n＼\nO{§}0\nノ\n/\n機\n理論化学の\nおさらいだよ\nれは\n共有結合>イオン結合>金属結合>分子間力\n結合の強さ\n口有機化合物のほうが,沸点",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 11,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "有機化合物\nボクたち"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0012_000",
+      "question": "極性とは何ですか？",
+      "answer": ",分子内で電子が偏つて存在している状態のことで′\n(原子どうしで電子の引つ張り合いをしているイメージ",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 12,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "極性"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0012_001",
+      "question": "【理由】\n「水に溶けるか,有機溶媒に溶けるか」にとは何ですか？",
+      "answer": "′\n「極性があるか′ないか」が大きくかかわっています",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 12,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "【理由】\n「水に溶けるか,有機溶媒に溶け"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0012_002",
+      "question": "極性ととは何ですか？",
+      "answer": ",分子内で電子が偏つて存在している状態のことで′\n(原子どうしで電子の引つ張り合いをしているイメージ",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 12,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "極性と"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0012_003",
+      "question": "\")\n極性があると,分子内に+の電荷と一の電荷が存在するようになり′\n極性があるものどうしとは何ですか？",
+      "answer": "+と―で引き合い′ くつつくようになります",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 12,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "\")\n極性があると,分子内に+の電荷と一"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0012_004",
+      "question": "水にとは何ですか？",
+      "answer": "極性があるので,極性のある分子(多くの無機物質)は水に溶けやすいので\nす",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 12,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "水に"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0012_005",
+      "question": "一方′極性のないものとは何ですか？",
+      "answer": ",ないものどうしで混ざり合います",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 12,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "一方′極性のないもの"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0012_006",
+      "question": "有機溶媒(有機化合物からなる液体)とは何ですか？",
+      "answer": "極性がほとんどないので,\n同じく極性がほとんどない有機化含物は,有機溶媒によく溶けるの",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 12,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "有機溶媒(有機化合物からなる液体)"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0012_007",
+      "question": "有機溶媒にとは何ですか？",
+      "answer": "′エーテル(ジエチルエーテル)がよく用いられます",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 12,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "有機溶媒に"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0012_008",
+      "question": "「似たものどうしとは何ですか？",
+      "answer": "くっつきやすい」′「類は友を呼ぶ」というのが\n分子の世界にもあるみたい",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 12,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "「似たものどうし"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0013_img",
+      "question": "この図が示している内容を説明してください",
+      "answer": "図を参照して理解してください",
+      "type": "graph",
+      "image_path": "images/p13_img0.png",
+      "subject": "chemistry",
+      "page": 13,
+      "difficulty": 2,
+      "tags": [
+        "図解"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0014_000",
+      "question": "ガソリンや灯油とは何ですか？",
+      "answer": "有機化合物からできています",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 14,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "ガソリンや灯油"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0014_001",
+      "question": "これらとは何ですか？",
+      "answer": "火をつけると燃えますよね",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 14,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "これら"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0014_002",
+      "question": "一方′無機物質とは何ですか？",
+      "answer": "一般的に空気中では燃えないものが多い",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 14,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "一方′無機物質"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0014_003",
+      "question": "食塩NaClや鉄Feとは何ですか？",
+      "answer": "空気中で燃えませんよね",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 14,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "食塩NaClや鉄Fe"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0014_004",
+      "question": "◎有機化合物にとは何ですか？",
+      "answer": "分子間力がはたらいている",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 14,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "◎有機化合物に"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0016_000",
+      "question": "「有機化含物とは何ですか？",
+      "answer": ",元事の組合せによつて,数多く\nの化含物になる」という点に注目してみましょう",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 16,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "「有機化含物"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0016_001",
+      "question": "有機化合物とは何ですか？",
+      "answer": "′どうしてこのような特徴をもつのでしょうか?\nそれは,有機化合物が必ずもつている炭素原子どうしが,\nさまざまな結合をつくることができるから",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 16,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "有機化合物"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0016_002",
+      "question": "炭素にとは何ですか？",
+      "answer": ",\n炭素どうしが強い共有結合によつて結びつく\n結合に使われる“手\"が4本もある\nという性質があります",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 16,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "炭素に"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0016_003",
+      "question": "この両方の性質が炭素に備わつているからこそ,炭素どうしとは何ですか？",
+      "answer": "さまざまな結びつ\nきかたをすることができ,数多くの有機化合物になるの",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 16,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "この両方の性質が炭素に備わつているからこ"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0016_004",
+      "question": "炭素とは何ですか？",
+      "answer": ",いわば有機化合物の骨格となつているので,\n炭素の連なりのことを′炭素骨格(または炭素鎖)と呼びます",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 16,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "炭素"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0016_005",
+      "question": "(おや′右ページでとは何ですか？",
+      "answer": ",クマが恐竜の化石を見つけたよう",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 16,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "(おや′右ページで"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0016_006",
+      "question": ")\nこのように有機化学でとは何ですか？",
+      "answer": ",炭素を中心にして,有機化含物の構造を考えていきます",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 16,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        ")\nこのように有機化学で"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0018_000",
+      "question": "でも′結合に使われる″手″の正体とは何ですか？",
+      "answer": "一体何でしようか?\nそれについては次でお話しします",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 18,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "でも′結合に使われる″手″の正体"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0018_001",
+      "question": "単結合のときとは何ですか？",
+      "answer": "′結合している手を中心にくるくると回転することが可能",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 18,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "単結合のとき"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0018_002",
+      "question": "他にも′炭素どうしで\n(またとは何ですか？",
+      "answer": "酸素と)手をつなぐときに′2本の手で握手して結\nびついたり(二重結合),炭素どうしで,3本の手で握手することもあります(三重\n結合)",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 18,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "他にも′炭素どうしで\n(また"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0018_003",
+      "question": "二重結合や三重結合の場合,炭素とは何ですか？",
+      "answer": "回転することができません",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 18,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "二重結合や三重結合の場合,炭素"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0018_004",
+      "question": "ちなみに,有機化学に出てくる炭素以外の元素の″手″の本数とは何ですか？",
+      "answer": "′それぞれ\n水素HEl本 酸素0:2本 窒素N:3本 硫黄S:2本 リンP:3本",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 18,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "ちなみに,有機化学に出てくる炭素以外の元"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0018_005",
+      "question": "でも′結合に使われる″手″の正体ととは何ですか？",
+      "answer": "一体何でしようか?\nそれについては次でお話しします",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 18,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "でも′結合に使われる″手″の正体と"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0019_img",
+      "question": "この図が示している内容を説明してください",
+      "answer": "図を参照して理解してください",
+      "type": "graph",
+      "image_path": "images/p19_img0.png",
+      "subject": "chemistry",
+      "page": 19,
+      "difficulty": 2,
+      "tags": [
+        "図解"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0020_000",
+      "question": "叫〉\n閣議>\n不対電子とは何ですか？",
+      "answer": ",最外殻電子のうち′対になつていない電子",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 20,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "叫〉\n閣議>\n不対電子"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0020_001",
+      "question": "非共有電子対は′無機化学に登場した「錯イオンの配位結合」に用いられることは何ですか？",
+      "answer": "あ\nりますが,有機化学では′結合には使われないと思つてください",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 20,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "非共有電子対は′無機化学に登場した「錯イ"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0020_002",
+      "question": "原子の周りにとは何ですか？",
+      "answer": "2× 4の電子の席があるの",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 20,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "原子の周りに"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0020_003",
+      "question": "叫〉\n閣議>\n不対電子ととは何ですか？",
+      "answer": ",最外殻電子のうち′対になつていない電子のこと",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 20,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "叫〉\n閣議>\n不対電子と"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0020_004",
+      "question": "非共有電子対とは何ですか？",
+      "answer": "′無機化学に登場した「錯イオンの配位結合」に用いられることはあ\nりますが,有機化学では′結合には使われないと思つてください",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 20,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "非共有電子対"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0020_005",
+      "question": "不対電子を使った結合でも′電子を共有し合うのでとは何ですか？",
+      "answer": "なく′片方の原子がもう片方の\n原子に電子を受け渡してできた′陽イオンと陰イオンの間に生じる静電気力\n(クーロ\nンカ)で結びつく結合もあります",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 20,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "不対電子を使った結合でも′電子を共有し合"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0021_img",
+      "question": "この図が示している内容を説明してください",
+      "answer": "図を参照して理解してください",
+      "type": "graph",
+      "image_path": "images/p21_img0.png",
+      "subject": "chemistry",
+      "page": 21,
+      "difficulty": 2,
+      "tags": [
+        "図解"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0022_000",
+      "question": "分子式とは何ですか？",
+      "answer": "′分子に含まれる元素の種類とその原子の数を表した式",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 22,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "分子式"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0022_001",
+      "question": "一方′組成式とは何ですか？",
+      "answer": ",分子をつくつている原子の数を最も簡単な整数比で\n表した式",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 22,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "一方′組成式"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0022_002",
+      "question": "でとは何ですか？",
+      "answer": "一体′ どのように結合を書き表したらよいのでしようか?\n構成する元素のみに着目して書き表したのが分子式と組成式",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 22,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "で"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0022_003",
+      "question": "分子式ととは何ですか？",
+      "answer": "′分子に含まれる元素の種類とその原子の数を表した式",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 22,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "分子式と"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0022_004",
+      "question": "一方′組成式ととは何ですか？",
+      "answer": ",分子をつくつている原子の数を最も簡単な整数比で\n表した式のこと",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 22,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "一方′組成式と"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0022_005",
+      "question": "しかし,分子式や組成式でとは何ですか？",
+      "answer": "′有機化合物の性質を正しく表現しているとはいえ\nません",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 22,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "しかし,分子式や組成式で"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0022_006",
+      "question": "なぜなら,有機化合物とは何ですか？",
+      "answer": "無機物質と違い′同じ元素の原子から構成され\nていても′結びつきかたなどによつて違つた化合物になるから",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 22,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "なぜなら,有機化合物"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0022_007",
+      "question": "例えば,右ページのC5H12のように,分子式だけでとは何ですか？",
+      "answer": "1つの有機化合物に特定でき\nない場合があります",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 22,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "例えば,右ページのC5H12のように,分"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0022_img",
+      "question": "この図が示している内容を説明してください",
+      "answer": "図を参照して理解してください",
+      "type": "graph",
+      "image_path": "images/p22_img0.png",
+      "subject": "chemistry",
+      "page": 22,
+      "difficulty": 2,
+      "tags": [
+        "図解"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0023_img",
+      "question": "この図が示している内容を説明してください",
+      "answer": "図を参照して理解してください",
+      "type": "graph",
+      "image_path": "images/p23_img0.png",
+      "subject": "chemistry",
+      "page": 23,
+      "difficulty": 2,
+      "tags": [
+        "図解"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0024_000",
+      "question": "構造式とは何ですか？",
+      "answer": "′元素とその結合を1本の線\n(この線を価標ということもあります)で\n表した式",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 24,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "構造式"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0024_001",
+      "question": "構造式ととは何ですか？",
+      "answer": "′元素とその結合を1本の線\n(この線を価標ということもあります)で\n表した式",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 24,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "構造式と"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0024_002",
+      "question": "酢酸の場合でとは何ですか？",
+      "answer": "ただし′すべての結合を1本の線で表すのは大変",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 24,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "酢酸の場合で"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0024_003",
+      "question": "示性式というのとは何ですか？",
+      "answer": ",官能基という特別な性質をもつた原子団を明示した式",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 24,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "示性式というの"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0024_004",
+      "question": "(くわしくとは何ですか？",
+      "answer": "p.40で説明します)\n酢酸の場合ではCH3C00Hとなります",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 24,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "(くわしく"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0024_005",
+      "question": "例えば′エタノール(分子式C2H60)にとは何ですか？",
+      "answer": "ヒドロキシ基-OHという官能基があるの\nで′示性式はCH3CH20H(またはC2H≦り)となるの",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 24,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "例えば′エタノール(分子式C2H60)に"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0024_006",
+      "question": "組成式と分子式′構造式と示性式とは何ですか？",
+      "answer": "それぞれまつたく関係のないものではなく\n「元素の分析から組成式と分子式を決め,そこから構造式(示性式)を決める」\nという流れで有機化合物を決めていく際に,それぞれ使われます",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 24,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "組成式と分子式′構造式と示性式"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0024_007",
+      "question": "でとは何ですか？",
+      "answer": ",続いて構造式や示性式を書くときに必要となる′官能基について見ていき\nましょう",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 24,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "で"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0024_img",
+      "question": "この図が示している内容を説明してください",
+      "answer": "図を参照して理解してください",
+      "type": "graph",
+      "image_path": "images/p24_img0.png",
+      "subject": "chemistry",
+      "page": 24,
+      "difficulty": 2,
+      "tags": [
+        "図解"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0025_img",
+      "question": "この図が示している内容を説明してください",
+      "answer": "図を参照して理解してください",
+      "type": "graph",
+      "image_path": "images/p25_img0.png",
+      "subject": "chemistry",
+      "page": 25,
+      "difficulty": 2,
+      "tags": [
+        "図解"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0026_000",
+      "question": "アルコールとは何ですか？",
+      "answer": ",水に溶かすと中性を示すなど,特徴的な性質を示します",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 26,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "アルコール"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0026_001",
+      "question": "官能基とは何ですか？",
+      "answer": "′化合物の特徴を知るのに大事な指標となるため,示性式では,どんな\n官能基をもつているのかを一目でわかるように書き表すの",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 26,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "官能基"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0026_002",
+      "question": "これらの官能基をもつ有機化合物の特徴\nについてとは何ですか？",
+      "answer": ",Chapter 6以降でくわしく説明します",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 26,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "これらの官能基をもつ有機化合物の特徴\nに"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0026_img",
+      "question": "この図が示している内容を説明してください",
+      "answer": "図を参照して理解してください",
+      "type": "graph",
+      "image_path": "images/p26_img0.png",
+      "subject": "chemistry",
+      "page": 26,
+      "difficulty": 2,
+      "tags": [
+        "図解"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0027_img",
+      "question": "この図が示している内容を説明してください",
+      "answer": "図を参照して理解してください",
+      "type": "graph",
+      "image_path": "images/p27_img0.png",
+      "subject": "chemistry",
+      "page": 27,
+      "difficulty": 2,
+      "tags": [
+        "図解"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0028_000",
+      "question": "有機化合物ととは何ですか？",
+      "answer": ",炭素を含む化合物のこと",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 28,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "有機化合物と"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0028_001",
+      "question": "ただし,CO,C02,\n炭酸塩(CaC03など),シアン化物(KCNなど)とは何ですか？",
+      "answer": "例外的に有機化合物\nではない",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 28,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "ただし,CO,C02,\n炭酸塩(CaC0"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0028_002",
+      "question": "有機化合物中の結合の大部分とは何ですか？",
+      "answer": "共有結合からなるため,無機物質に比べ\nて反応速度が遅い",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 28,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "有機化合物中の結合の大部分"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0028_003",
+      "question": "有機化合物の分子どうしとは何ですか？",
+      "answer": ",分子間力により弱く結びついているので,\n無機物質に比べて沸点や融点が低い",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 28,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "有機化合物の分子どうし"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0028_004",
+      "question": "有機化合物とは何ですか？",
+      "answer": "極性をほとんどもたないため,水に溶けにくく,有機溶媒\nに溶けやすい",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 28,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "有機化合物"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0028_005",
+      "question": "E]炭素原子とは何ですか？",
+      "answer": "不対電子を4つもつており,正四面体の配置をしている",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 28,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "E]炭素原子"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0028_img",
+      "question": "この図が示している内容を説明してください",
+      "answer": "図を参照して理解してください",
+      "type": "graph",
+      "image_path": "images/p28_img0.png",
+      "subject": "chemistry",
+      "page": 28,
+      "difficulty": 2,
+      "tags": [
+        "図解"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0030_000",
+      "question": "Chapter\n分子式の決定\nヽ   /とは何ですか？",
+      "answer": "じめに\nChapterlでは有機化合物の基礎について学びましたが,\nChapter2からは有機化合物の決定をしていきます",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 30,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "Chapter\n分子式の決定\nヽ   /"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0030_001",
+      "question": "「そ′それじやあ分析を始めるぞい」\n希少なルナー燃料を無駄にしないよう′ハカセとは何ですか？",
+      "answer": "慎重に分析を始めました",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 30,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "「そ′それじやあ分析を始めるぞい」\n希少"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0030_002",
+      "question": "有機化合物を決定するにとは何ですか？",
+      "answer": "′次のような順番で進める必要があります",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 30,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "有機化合物を決定するに"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0030_003",
+      "question": "具体的にとは何ですか？",
+      "answer": ",次の2つの段階を踏んで勉強していきますよ",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 30,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "具体的に"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0030_004",
+      "question": "□ 元素分析をして組成式を決定する\n□ 分子式を決定する\nChapter 2でとは何ですか？",
+      "answer": ",分子式を決定する方法について勉強します",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 30,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "□ 元素分析をして組成式を決定する\n□ "
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0032_000",
+      "question": "と,その前に′組成式とは何ですか？",
+      "answer": "何か,覚えていますか?\n組成式とは,「物質を構成している元素の原子が,どんな割合で含まれているのか」\nを,最も簡単な整数比で表した式のことでしたね(p.36)",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 32,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "と,その前に′組成式"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0032_001",
+      "question": "組成式とは何ですか？",
+      "answer": "「分子に含まれている元素の原子の個数比」",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 32,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "組成式"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0032_002",
+      "question": "と,その前に′組成式ととは何ですか？",
+      "answer": "何か,覚えていますか?\n組成式とは,「物質を構成している元素の原子が,どんな割合で含まれているのか」\nを,最も簡単な整数比で表した式のことでしたね(p.36)",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 32,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "と,その前に′組成式と"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0032_003",
+      "question": "分子式を求めるにとは何ですか？",
+      "answer": "′まず最初に,この組成式を知る必要があるの",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 32,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "分子式を求めるに"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0032_004",
+      "question": "組成式ととは何ですか？",
+      "answer": "「分子に含まれている元素の原子の個数比」",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 32,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "組成式と"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0032_img",
+      "question": "この図が示している内容を説明してください",
+      "answer": "図を参照して理解してください",
+      "type": "graph",
+      "image_path": "images/p32_img0.png",
+      "subject": "chemistry",
+      "page": 32,
+      "difficulty": 2,
+      "tags": [
+        "図解"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0033_000",
+      "question": "|□ 【元素分析をして組成式の決定をする】\n|□ 【分子式を決定する】\n3・・組成式とは何ですか？",
+      "answer": "…\n「物質を構成している元素の原子が,どんな割合で含まれている\nのか」を表した式\n・式量とは¨",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 33,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "|□ 【元素分析をして組成式の決定をする"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0033_001",
+      "question": "|□ 【元素分析をして組成式の決定をする】\n|□ 【分子式を決定する】\n3・・組成式ととは何ですか？",
+      "answer": "…\n「物質を構成している元素の原子が,どんな割合で含まれている\nのか」を表した式\n・式量とは¨",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 33,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "|□ 【元素分析をして組成式の決定をする"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0033_002",
+      "question": "この式の意味を説明してください",
+      "answer": "CH₂なら,12+1× 2=14",
+      "type": "formula",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 33,
+      "difficulty": 2,
+      "tags": [
+        "公式"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0033_img",
+      "question": "この図が示している内容を説明してください",
+      "answer": "図を参照して理解してください",
+      "type": "graph",
+      "image_path": "images/p33_img0.png",
+      "subject": "chemistry",
+      "page": 33,
+      "difficulty": 2,
+      "tags": [
+        "図解"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0034_000",
+      "question": "=l:コ\nをおさえよう!\n組威式の決定をするにとは何ですか？",
+      "answer": ",次のようなステップを踏む必要があります",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 34,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "=l:コ\nをおさえよう!\n組威式の決定を"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0034_001",
+      "question": "ここからとは何ですか？",
+      "answer": ",炭素C′\n水素H′\n酸素○からなる\n有機化合物の元素分析を流れに沿つて見ていきましょう",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 34,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "ここから"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0036_000",
+      "question": "ここからとは何ですか？",
+      "answer": ",C,H′ Oがそれぞれどれだけ含まれているかを調べていきましょう",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 36,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "ここから"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0036_001",
+      "question": "【H20とは何ですか？",
+      "answer": "何g生成したか?】\nH20は塩化カルシウムCaC:2に吸収させます",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 36,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "【H20"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0036_002",
+      "question": "【C02とは何ですか？",
+      "answer": "何g生成したか?】\nC02はソ~ダ石灰に吸収させます",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 36,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "【C02"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0036_003",
+      "question": "匡園ソーダ石灰とは何ですか？",
+      "answer": "C02だけでなくH20も吸収してしまうため′\n先に塩化カルシウムCaCi2でH20を吸収したあと′\nソ…ダ石灰ではC02のみが吸収されるようにする必要があります",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 36,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "匡園ソーダ石灰"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0036_004",
+      "question": "しかし,知りたいのとは何ですか？",
+      "answer": "「どれだけの質量のH,Cが含まれているか」ということ",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 36,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "しかし,知りたいの"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0036_005",
+      "question": "から′次とは何ですか？",
+      "answer": ",生成したH20,C02の質量から,有機化合物に含まれていたH\nとCの質量を求めます",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 36,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "から′次"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0036_006",
+      "question": "この式の意味を説明してください",
+      "answer": "H₂0の質量×fき=Hの質量,C02の質量×",
+      "type": "formula",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 36,
+      "difficulty": 2,
+      "tags": [
+        "公式"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0037_000",
+      "question": "不完全燃焼によつてできた\nCOを酸化してC02にするの\nヒ銅(Ⅱ)とは何ですか？",
+      "answer": "元素分析装置\nヒ銅(1)\n(試料を完全燃焼させるため)\n試料\n02\n塩化カルシウムCaC12\n(H20の吸収)\n(A)と(B)の乾燥管は,この順に設定する",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "1レ",
+      "page": 37,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "不完全燃焼によつてできた\nCOを酸化して"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0037_001",
+      "question": "逆にすると,ソーダ石灰とは何ですか？",
+      "answer": "H20も吸収するので,正しい結果が得られない",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "1レ",
+      "page": 37,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "逆にすると,ソーダ石灰"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0038_000",
+      "question": "H原子の原子量とは何ですか？",
+      "answer": "1,0原子の原子量は16",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 38,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "H原子の原子量"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0038_001",
+      "question": "また,H20分子の分子量とは何ですか？",
+      "answer": "1 × 2 + 16 = 18",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 38,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "また,H20分子の分子量"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0038_002",
+      "question": "C02の分子量 44\nこれを用いると,生成したC02▲g中にとは何ですか？",
+      "answer": "▲×\n:矛gの炭素Cが含まれていることがわかります",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 38,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "C02の分子量 44\nこれを用いると,生"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0038_003",
+      "question": "【Cとは何ですか？",
+      "answer": "何g含まれていたか?】\nHの質量を求めたときと同じように考えます",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 38,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "【C"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0038_004",
+      "question": "C原子の原子量とは何ですか？",
+      "answer": "12,0原子の原子量は16",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 38,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "C原子の原子量"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0038_005",
+      "question": "また,C02分子の分子量とは何ですか？",
+      "answer": "12 + 16 × 2 =44",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 38,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "また,C02分子の分子量"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0040_000",
+      "question": "元素分析O H,C,0の\nmol比を求める\nあとは何ですか？",
+      "answer": "質量を原子量で割れば,mO:(≒個数)が求められます",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 40,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "元素分析O H,C,0の\nmol比を求め"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0040_001",
+      "question": "だから′Oの質量とは何ですか？",
+      "answer": ",試料の質量から,HとCの質量を引けば求められます",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 40,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "だから′Oの質量"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0040_002",
+      "question": "元素分析O H,C,0の\nmol比を求める\nあととは何ですか？",
+      "answer": "質量を原子量で割れば,mO:(≒個数)が求められます",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 40,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "元素分析O H,C,0の\nmol比を求め"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0040_003",
+      "question": "具体的にとは何ですか？",
+      "answer": ",H,C,0の\n原子量はそれぞれ1,12,16なので\n●\n,\nHのmol:Cのmol:0のmol=ぅユ\n▲g\n12\n□g\n16\nあとは\n」\n≒\n旦\n|ザL奇\n警\n―を最も簡単な整数比に直すことで\n組成式が求められ\n組成式の決定\nます",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 40,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "具体的に"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0040_004",
+      "question": "この式の意味を説明してください",
+      "answer": "Hのmol:Cのmol:0のmol=ぅユ",
+      "type": "formula",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 40,
+      "difficulty": 2,
+      "tags": [
+        "公式"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0041_000",
+      "question": "この式の意味を説明してください",
+      "answer": "IH C O=キ:ザ:雫",
+      "type": "formula",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 41,
+      "difficulty": 2,
+      "tags": [
+        "公式"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0042_000",
+      "question": "□ 分子式を決定する\n分子式を決定するためにとは何ですか？",
+      "answer": ",次の2ステップが必要",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 42,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "□ 分子式を決定する\n分子式を決定するた"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0042_001",
+      "question": "(1)分子量を求める\n(2)分子式を求める\nここでとは何ですか？",
+      "answer": "′分子量についてお話ししましょう",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 42,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "(1)分子量を求める\n(2)分子式を求め"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0042_002",
+      "question": "分子量とは何ですか？",
+      "answer": "問題文に\n「分子量を測定したところ′○○でした」\nというような文章で書かれていることが多い",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 42,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "分子量"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0042_003",
+      "question": "その場合とは何ですか？",
+      "answer": ",たいてい次の3つの方法のどれかを用いて分子量を求めます",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 42,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "その場合"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0042_004",
+      "question": "与えられない場合とは何ですか？",
+      "answer": ",理論化学の知識を使う",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 42,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "与えられない場合"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0044_000",
+      "question": "式量を■倍すると分子量になるということは何ですか？",
+      "answer": ",組成式をん倍すれ\nば分子式になる",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "-30==:6",
+      "page": 44,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "式量を■倍すると分子量になるというこ"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0044_001",
+      "question": "「組成式」とは何ですか？",
+      "answer": ",「分子式」の最小構成比を表したものなので,\n「組成式」を何倍したら「分子式」になるのか′がわかればよいの",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "-30==:6",
+      "page": 44,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "「組成式」"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0044_002",
+      "question": "そのためにとは何ですか？",
+      "answer": "′「分子式の″体重″」が「組成式の″体重″」の何倍になつているか\nがわかればよい",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "-30==:6",
+      "page": 44,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "そのために"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0044_003",
+      "question": "① 式量を求める\n式量とは何ですか？",
+      "answer": ",組成式に含まれる元素の原子量を足し合わせたものでしたね(p.46)",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "-30==:6",
+      "page": 44,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "① 式量を求める\n式量"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0044_004",
+      "question": "組成式がCH20なので,式量とは何ですか？",
+      "answer": "12+1× 2+16=30\n② 分子量は式量(組威式の原子量の和)の何悟か?\n分子量を式量(組成式の原子量の和)で割ると′組成式を何倍すればよいかがわか\nります",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "-30==:6",
+      "page": 44,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "組成式がCH20なので,式量"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0044_005",
+      "question": "180■-30==:6\nということで,分子式とは何ですか？",
+      "answer": "(CH20)6=C6H1206",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "-30==:6",
+      "page": 44,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "180■-30==:6\nということで,分"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0044_006",
+      "question": "式量を■倍すると分子量になるということとは何ですか？",
+      "answer": ",組成式をん倍すれ\nば分子式になる",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "-30==:6",
+      "page": 44,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "式量を■倍すると分子量になるということ"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0044_007",
+      "question": "-30==:6とは何ですか？",
+      "answer": "ということで,分子式は(CH20)6=C6H1206であることがわかりました。",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "-30==:6",
+      "page": 44,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "-30==:6"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0044_008",
+      "question": "この式の意味を説明してください",
+      "answer": "CH₂0なので,式量は 12+1× 2+16=30",
+      "type": "formula",
+      "subject": "chemistry",
+      "chapter": "-30==:6",
+      "page": 44,
+      "difficulty": 2,
+      "tags": [
+        "公式"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0044_009",
+      "question": "この式の意味を説明してください",
+      "answer": "CH₂0)6=C6H1206であることがわかりました。",
+      "type": "formula",
+      "subject": "chemistry",
+      "chapter": "-30==:6",
+      "page": 44,
+      "difficulty": 2,
+      "tags": [
+        "公式"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0044_img",
+      "question": "この図が示している内容を説明してください",
+      "answer": "図を参照して理解してください",
+      "type": "graph",
+      "image_path": "images/p44_img0.png",
+      "subject": "chemistry",
+      "page": 44,
+      "difficulty": 2,
+      "tags": [
+        "図解"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0045_000",
+      "question": "この式の意味を説明してください",
+      "answer": "CH₂0)6=C6H1206",
+      "type": "formula",
+      "subject": "chemistry",
+      "chapter": "\"ど",
+      "page": 45,
+      "difficulty": 2,
+      "tags": [
+        "公式"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0046_000",
+      "question": "[三]組成式とは何ですか？",
+      "answer": "「含まれている元素の原子の個数比」を表している",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "枢|",
+      "page": 46,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "[三]組成式"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0046_001",
+      "question": "試料に含まれている水素原子の質量とは何ですか？",
+      "answer": ",H20の生成量をχ〔\ng〕とすると,\n″×百τ 〔\ng〕で計算できる",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "枢|",
+      "page": 46,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "試料に含まれている水素原子の質量"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0046_002",
+      "question": "υ〔\ng〕\n1\n16\nE \n試料に含まれている炭素原子の質量とは何ですか？",
+      "answer": ",C02の生成量をυ〔\ng〕とすると,\nυ×嬌〔\ng〕で計算できる",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "枢|",
+      "page": 46,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "υ〔\ng〕\n1\n16\nE \n試料に含まれ"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0046_003",
+      "question": "試料に含まれている酸素原子の質量とは何ですか？",
+      "answer": ",試料の全質量がz〔g〕だとすると,\nz― χ×ギ告―υ×\n1争〔\ng〕",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "枢|",
+      "page": 46,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "試料に含まれている酸素原子の質量"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0046_004",
+      "question": "試料に含まれている原子数の比率とは何ですか？",
+      "answer": ",\nCのmOI:Hのmol:0のmol=■枢|",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "枢|",
+      "page": 46,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "試料に含まれている原子数の比率"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0046_005",
+      "question": "この式の意味を説明してください",
+      "answer": "CのmOI:Hのmol:0のmol=■枢|",
+      "type": "formula",
+      "subject": "chemistry",
+      "chapter": "枢|",
+      "page": 46,
+      "difficulty": 2,
+      "tags": [
+        "公式"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0046_img",
+      "question": "この図が示している内容を説明してください",
+      "answer": "図を参照して理解してください",
+      "type": "graph",
+      "image_path": "images/p46_img0.png",
+      "subject": "chemistry",
+      "page": 46,
+      "difficulty": 2,
+      "tags": [
+        "図解"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0048_000",
+      "question": "C12345H24690と複雑でとは何ですか？",
+      "answer": "ありますが′ルナー燃料はCとHだけからなる有機化合物\nのよう",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 48,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "C12345H24690と複雑で"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0048_001",
+      "question": "Chapter 3でとは何ですか？",
+      "answer": "′この「炭化水素」の名前のつけかたについて勉強しましょう",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 48,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "Chapter 3で"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0048_002",
+      "question": "□ 有機化合物を分類する\n□ 分類ごとのルールにしたがつて名前をつける\nChapter 3でとは何ですか？",
+      "answer": "′炭化水素に名前をつける方法について勉強します",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 48,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "□ 有機化合物を分類する\n□ 分類ごとの"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0048_003",
+      "question": "特に′アルカン′アルケン′アルキンの名前のつけかたとは何ですか？",
+      "answer": "必ず習得してくださいね",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 48,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "特に′アルカン′アルケン′アルキンの名前"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0049_000",
+      "question": "ルナー燃料の分子式はとは何ですか？",
+      "answer": "C12345H24690",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "ルナー燃料の分子式は",
+      "page": 49,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "ルナー燃料の分子式は"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0050_000",
+      "question": "ここでとは何ですか？",
+      "answer": ",炭化水素に名前をつける方法について見ていきましょう",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 50,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "ここで"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0050_001",
+      "question": "まずとは何ですか？",
+      "answer": "′炭化水嘉を分類する必要があります",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 50,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "まず"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0050_002",
+      "question": "(動物や植物が分類ごとに命名されているのと同じですね)同じ物質群に分類され\nた炭化水素とは何ですか？",
+      "answer": ",共通点をもつています",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 50,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "(動物や植物が分類ごとに命名されているの"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0050_003",
+      "question": "でとは何ですか？",
+      "answer": ",具体的にどのように炭化水素を分類するかといいますと,次の2つについ\nて考えます",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 50,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "で"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0050_004",
+      "question": "Chapter 3でとは何ですか？",
+      "answer": "炭化水素の名前のつけかたについて見ていきますが,炭化水素の\n名前のつけかたがわかれば,他の有機化合物の名前もすぐにつけられるようにな\nりますよ",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 50,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "Chapter 3で"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0050_005",
+      "question": "炭化水素とは何ですか？",
+      "answer": ",炭素骨格の結合のしかたで4つに分類できる",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 50,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "炭化水素"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    }
+  ]
+}

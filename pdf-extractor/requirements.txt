@@ -1,0 +1,9 @@
+pdfminer.six==20221105
+PyMuPDF==1.23.8
+Pillow==10.1.0
+pytesseract==0.3.10
+pandas==2.1.4
+numpy==1.24.3
+opencv-python==4.8.1.78
+anthropic==0.8.0
+python-dotenv==1.0.0

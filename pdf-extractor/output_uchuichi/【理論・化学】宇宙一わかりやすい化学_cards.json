@@ -1,0 +1,3906 @@
+{
+  "metadata": {
+    "created_at": "2025-09-05T06:34:19.716478",
+    "source_pdf": "【理論・化学】宇宙一わかりやすい化学.pdf",
+    "totalCards": 231,
+    "version": "2.0"
+  },
+  "cards": [
+    {
+      "id": "uch_0002_000",
+      "question": "Chapter\n物質の成り立ちと\n構成とは何ですか？",
+      "answer": "じめに\n「世の中にあるものをすべて分類せよ!」\nこんなことをいわれたら′あなたならどうやつて分類しますか?\n硬いもの? 冷たいもの? 食べられるもの……・?\nいやいや′もっと厳格な分けかたがあります",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 2,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "Chapter\n物質の成り立ちと\n構成"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0002_001",
+      "question": "でとは何ですか？",
+      "answer": "どうやつて物質を分類するか,どうやつてそれらを分けるか?\n分類したものたちは′どんな性質をもつているのか?\nこんなことがわかるだけで,世の中がちよつと違つて見えてくるはず",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 2,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "で"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0004_000",
+      "question": "純物質というのとは何ですか？",
+      "answer": ",化学式1つで表せるもの",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 4,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "純物質というの"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0004_001",
+      "question": "一方′混合物というのとは何ですか？",
+      "answer": ",純物質がいくつか混ざつてできたもので,\n化学式を複数使わないと表せません",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 4,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "一方′混合物というの"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0004_002",
+      "question": "海水とは何ですか？",
+      "answer": "大雑把にいえば水H20と塩化ナトリウムNaCIなどが混ざったもの′\n空気は窒素N2と酸素02と二酸化炭素C02とアルゴンArなどが混ざつたもの",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 4,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "海水"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0004_003",
+      "question": "どうして純物質と混合物を区別するかというと,\n純物質にとは何ですか？",
+      "answer": "それぞれ決まつた性質があつて,\n化学はそれを調べていく学問だから",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 4,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "どうして純物質と混合物を区別するかという"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0004_004",
+      "question": "純物質がいくつか混ざつている混合物とは何ですか？",
+      "answer": "′\n純物質の割合によつて性質が変わつてきますので′\n学問の対象にはなりにくいの",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 4,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "純物質がいくつか混ざつている混合物"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0004_005",
+      "question": "純物質と混合物のあいだにとは何ですか？",
+      "answer": ",\n融点や沸点が一定か,一定でないかという大きな違いがあります",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 4,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "純物質と混合物のあいだに"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0004_006",
+      "question": ")\n純物質とは何ですか？",
+      "answer": "融点や沸点が一定で,混含物は―定ではありません",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 4,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        ")\n純物質"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0004_007",
+      "question": "融点や沸点とは何ですか？",
+      "answer": "′先ほどいつた「純物質の決まった性質」の1つで,\n純物質ごとに決まつているものなの",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 4,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "融点や沸点"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0004_008",
+      "question": "例えば′純物質である水の沸点とは何ですか？",
+      "answer": "100てと決まつていますが′\n水と食塩の混合物",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 4,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "例えば′純物質である水の沸点"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0004_009",
+      "question": "食塩水とは何ですか？",
+      "answer": ",\n混合の割合によつて沸点が異なるの",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 4,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "食塩水"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0004_img",
+      "question": "この図が示している内容を説明してください",
+      "answer": "図を参照して理解してください",
+      "type": "graph",
+      "image_path": "images/p4_img0.png",
+      "subject": "chemistry",
+      "page": 4,
+      "difficulty": 2,
+      "tags": [
+        "図解"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0005_img",
+      "question": "この図が示している内容を説明してください",
+      "answer": "図を参照して理解してください",
+      "type": "graph",
+      "image_path": "images/p5_img0.png",
+      "subject": "chemistry",
+      "page": 5,
+      "difficulty": 2,
+      "tags": [
+        "図解"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0006_000",
+      "question": "ココをおさえよう!\n混合物とは何ですか？",
+      "answer": "純物質に分けて考えなくてはいけない,ということはわかりました",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 6,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "ココをおさえよう!\n混合物"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0006_001",
+      "question": "でとは何ですか？",
+      "answer": "′その分離方法について勉強していきましょう",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 6,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "で"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0006_002",
+      "question": "ろ過で使用するろ紙にとは何ですか？",
+      "answer": "無数の穴が空いていますが′その大きさが絶妙′つまり\n液体は通しますが固体は通さないくらいの大きさなの",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 6,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "ろ過で使用するろ紙に"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0006_003",
+      "question": "ろ過とは何ですか？",
+      "answer": "′液体と「そこに溶けていない」固体を分離する方法",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 6,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "ろ過"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0006_004",
+      "question": "でとは何ですか？",
+      "answer": ",液体と「そこに溶けている」固体を分離するにはどうしたらよいのでしょ\nうか?\n次ページで見てみましょう",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 6,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "で"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0006_img",
+      "question": "この図が示している内容を説明してください",
+      "answer": "図を参照して理解してください",
+      "type": "graph",
+      "image_path": "images/p6_img0.png",
+      "subject": "chemistry",
+      "page": 6,
+      "difficulty": 2,
+      "tags": [
+        "図解"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0007_000",
+      "question": "混合物とは何ですか？",
+      "answer": "純物質に\n分けるのじゃ\n!\n物質",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 7,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "混合物"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0008_000",
+      "question": "蒸留とは何ですか？",
+      "answer": ",沸点が低い物質(=液体)と沸点が高い物質(=固体)を分離する方法なので,\nざつくり言えば,比較的温度調整がラクな操作",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 8,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "蒸留"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0008_001",
+      "question": "液体に溶けている固体とは何ですか？",
+      "answer": ",ろ過してもろ紙を通過してしまうので,分離するこ\nとができません",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 8,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "液体に溶けている固体"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0008_002",
+      "question": "常温で固体の物質とは何ですか？",
+      "answer": "一般に,とても沸点が高いため,ある程度高い温度まで上げても\n気体になることはありません",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 8,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "常温で固体の物質"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0008_003",
+      "question": "例えば,食塩水を水と食塩(=NaCl)に分離するとき\nに用いる方法も蒸留ですが,NaCiの沸点とは何ですか？",
+      "answer": "約1400° Cなので′食塩水を1400てとい\nう高温になるまで温めなければ′食塩が蒸発することはないの",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 8,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "例えば,食塩水を水と食塩(=NaCl)に"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0008_004",
+      "question": "分留とは何ですか？",
+      "answer": "このように′徐々に温度を上げていくことで,沸点の低い物質から順に\n取り出す方法なの",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 8,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "分留"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0008_005",
+      "question": "め\n蒸留と分留とは何ですか？",
+      "answer": "同じ装置を使うため違いがよくわからない′という人も多いよう",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 8,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "め\n蒸留と分留"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0008_006",
+      "question": "蒸留と分留とは何ですか？",
+      "answer": ",どちらも「沸点の違いを利用して分離する」という点では同じ",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 8,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "蒸留と分留"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0008_007",
+      "question": "蒸留ととは何ですか？",
+      "answer": ",沸点が低い物質(=液体)と沸点が高い物質(=固体)を分離する方法なので,\nざつくり言えば,比較的温度調整がラクな操作",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 8,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "蒸留と"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0008_008",
+      "question": "一方,分留とは何ですか？",
+      "answer": ",沸点が低い物質どうし(=沸点の違う液体Aと液体3)を分離する方法",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 8,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "一方,分留"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0008_009",
+      "question": "蒸留と違い`液体どうしとは何ですか？",
+      "answer": "沸点が近い場合もあるため′微妙な温度調整をする\n必要があります",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 8,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "蒸留と違い`液体どうし"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0009_000",
+      "question": "C\n田\n囲\n温度計\n④\n②液体とは何ですか？",
+      "answer": "フラスコの\n半分以下まで\n0\n①枝□付近に温度計の\n球部がくるように\n③沸騰石を\n入れる\n④冷却水は下側から\n上側へ流す\n⑤三角フラスコの□は\n密栓しない\n冷却水を流す向きと\n温度計の球部の位置に\n注意じゃ\n蒸留と分留の違い\n・蒸留は液体と固体の沸点の違いを利用し,\n液体を蒸発させた後に冷却して分離",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 9,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "C\n田\n囲\n温度計\n④\n②液体"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0009_001",
+      "question": "・分留とは何ですか？",
+      "answer": "液体と液体の沸点の違いを利用し,\n沸点の低い液体を蒸発させた後に冷却して分離",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 9,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "・分留"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0010_000",
+      "question": "固体Aと固体Bの分離をする場合でも′物質を熱して沸点を利用することは何ですか？",
+      "answer": "で\nきますが,高熱にしないといけないためとでも効率が悪い",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 10,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "固体Aと固体Bの分離をする場合でも′物質"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0010_001",
+      "question": "昇華性とは何ですか？",
+      "answer": ",固体から液体を経由せず直接気体になる性質のことで,ヨウ素が\n代表例",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 10,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "昇華性"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0010_002",
+      "question": "固体Aと固体Bの分離をする場合でも′物質を熱して沸点を利用することとは何ですか？",
+      "answer": "で\nきますが,高熱にしないといけないためとでも効率が悪い",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 10,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "固体Aと固体Bの分離をする場合でも′物質"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0010_003",
+      "question": "でとは何ですか？",
+      "answer": "どのような方法をとるかというと,次の2ステップで行います",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 10,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "で"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0010_004",
+      "question": "例えば「この白い粉末にとは何ですか？",
+      "answer": ",硝酸ナトリウムと,不純物の塩化ナトリウムが含\nまれている",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 10,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "例えば「この白い粉末に"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0010_005",
+      "question": "硝酸ナトリウムとは何ですか？",
+      "answer": "低温で水に溶けにくく′塩化ナトリウムは低温でも水に溶け\nるため,徐々に冷やしていくと′先に硝酸ナトリウムの結晶力\n)｀出てきます",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 10,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "硝酸ナトリウム"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0010_006",
+      "question": "このように再結晶とは何ですか？",
+      "answer": ",固体の溶解度と温度の関係を利用しています",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 10,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "このように再結晶"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0010_007",
+      "question": "昇華性ととは何ですか？",
+      "answer": ",固体から液体を経由せず直接気体になる性質のことで,ヨウ素が\n代表例",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 10,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "昇華性と"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0010_img",
+      "question": "この図が示している内容を説明してください",
+      "answer": "図を参照して理解してください",
+      "type": "graph",
+      "image_path": "images/p10_img0.png",
+      "subject": "chemistry",
+      "page": 10,
+      "difficulty": 2,
+      "tags": [
+        "図解"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0012_000",
+      "question": "分子間力とは何ですか？",
+      "answer": ",粒子(分子)どうしが互いに引き合おうとする力",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 12,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "分子間力"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0012_001",
+      "question": "一方,\n熱運動とは何ですか？",
+      "answer": ",粒子が熱エネルギーを得ることによつてガチヤガチヤとせわしなく\n動くことをいい,温度が上がるにつれて激しくなります",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 12,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "一方,\n熱運動"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0012_002",
+      "question": "000000●\n0000●\n000000000000000000000\nここからとは何ですか？",
+      "answer": "純物質の話をしていきましょう",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 12,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "000000●\n0000●\n000000"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0012_003",
+      "question": "まず知つておかなければいけないのとは何ですか？",
+      "answer": "′ほとんどの純物質は温度が上がるにつれ\nて「固体→液体→気体」と変化するということ",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 12,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "まず知つておかなければいけないの"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0012_004",
+      "question": "また,液体の状態を経由せずに直接「固体→気体」となる変化とは何ですか？",
+      "answer": "昇\n華(p.22)といいましたね",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 12,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "また,液体の状態を経由せずに直接「固体→"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0012_005",
+      "question": "24   Chapter l 物質の成り立ちと構成\n1-5 状態変化\n筆\n同じ物質でとは何ですか？",
+      "answer": ",国体よりも液体′液体よりも気体のほうが保有しているエネルギーが\n大きいので,状態変化には熱の出入りが不可欠なの",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 12,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "24   Chapter l 物質の成り"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0012_006",
+      "question": "物質の三態とは何ですか？",
+      "answer": "′分子間力と熱運動によつて決まります",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 12,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "物質の三態"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0012_007",
+      "question": "分子間力ととは何ですか？",
+      "answer": ",粒子(分子)どうしが互いに引き合おうとする力のこと",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 12,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "分子間力と"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0012_008",
+      "question": "一方,\n熱運動ととは何ですか？",
+      "answer": ",粒子が熱エネルギーを得ることによつてガチヤガチヤとせわしなく\n動くことをいい,温度が上がるにつれて激しくなります",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 12,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "一方,\n熱運動と"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0012_009",
+      "question": "粒子とは何ですか？",
+      "answer": "規則正しく並び,位置を変えずにその場で振動したり回転じ\nたりしています",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 12,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "粒子"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0012_010",
+      "question": "物質とは何ですか？",
+      "answer": "熱を加えると,「固体→液体→気体」と状態変化する",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 12,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "物質"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0014_000",
+      "question": "26   Chapter l 物質の成り立ちと構成\n物質の三態とは何ですか？",
+      "answer": ",温度によって変わることがわかりました",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 14,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "26   Chapter l 物質の成り"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0014_001",
+      "question": "でとは何ですか？",
+      "answer": "実際に氷を温め′温度と状態の関係を観察してみましょう",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 14,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "で"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0014_002",
+      "question": "0 氷を温めていくと,氷の温度とは何ですか？",
+      "answer": "徐々に上がつていきます",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 14,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "0 氷を温めていくと,氷の温度"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0014_003",
+      "question": "固体と液体が混じつた状態でとは何ですか？",
+      "answer": ",加えられた熱エネルギーは,固体の分子間\nの結合をゆるめて動けるようにし,液体に変化させるために優先的に使われ\nます",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 14,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "固体と液体が混じつた状態で"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0014_004",
+      "question": "よつて,温度とは何ですか？",
+      "answer": "…定のまま変わりません",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 14,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "よつて,温度"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0014_005",
+      "question": "0 固体が融けてすべてが液体になると′温度とは何ですか？",
+      "answer": "どんどん上がつていきます",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 14,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "0 固体が融けてすべてが液体になると′温"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0014_006",
+      "question": "沸点になると液体と気体が混じつた状態になるのですが,加えられた熱エネ\nルギ…とは何ですか？",
+      "answer": ",液体の分子間の結合を振り切つて自由に飛び回れるようにし,気\n体に変化させるために優先的に使われます",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 14,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "沸点になると液体と気体が混じつた状態にな"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0014_007",
+      "question": "よつて,温度とは何ですか？",
+      "answer": "…定のまま変わ\nりません",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 14,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "よつて,温度"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0014_008",
+      "question": "それとは何ですか？",
+      "answer": "′分\n子間の結合を振り切るのに必要な熱エネルギーのほうが大きいため",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 14,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "それ"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0014_009",
+      "question": "右ページのグラフとは何ですか？",
+      "answer": "よく問題に出るので′0～0がどのような状態なのか′答え\nられるようにしておきましょう",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 14,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "右ページのグラフ"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0014_img",
+      "question": "この図が示している内容を説明してください",
+      "answer": "図を参照して理解してください",
+      "type": "graph",
+      "image_path": "images/p14_img0.png",
+      "subject": "chemistry",
+      "page": 14,
+      "difficulty": 2,
+      "tags": [
+        "図解"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0015_000",
+      "question": "0(固体と液体),0(液体と気体)の場合\n熱エネルギーとは何ですか？",
+      "answer": "状態変化に優先的に使われるため,\n温度は一定のまま上がらない",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 15,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "0(固体と液体),0(液体と気体)の場合"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0016_000",
+      "question": "ココをおさえよう!\n元素とは何ですか？",
+      "answer": "′化学式の中に出てくる記号",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 16,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "ココをおさえよう!\n元素"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0016_001",
+      "question": "ココをおさえよう!\n元素ととは何ですか？",
+      "answer": "′化学式の中に出てくる記号のこと",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 16,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "ココをおさえよう!\n元素と"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0016_002",
+      "question": "純物質を構成している元素の種類が′ 1種類のときとは何ですか？",
+      "answer": "単体′\n2種類以上のときは化含物といいます",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 16,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "純物質を構成している元素の種類が′ 1種"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0016_img",
+      "question": "この図が示している内容を説明してください",
+      "answer": "図を参照して理解してください",
+      "type": "graph",
+      "image_path": "images/p16_img0.png",
+      "subject": "chemistry",
+      "page": 16,
+      "difficulty": 2,
+      "tags": [
+        "図解"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0018_000",
+      "question": "それとは何ですか？",
+      "answer": "「原子と元素の違い」と「単体と元素の違い」について,",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "子の",
+      "page": 18,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "それ"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0018_001",
+      "question": "・原子……原子とは何ですか？",
+      "answer": "「陽子」\n「電子」\n「中性子」からなる物質のことで,存在がわかつ\nているだけで250種類以上あります",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "子の",
+      "page": 18,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "・原子……原子"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0018_002",
+      "question": "例えば「陽子の数が6で中性子の数が6」\nの原子と「陽子の数が6\nで中性子の数が7」\nの原子とは何ですか？",
+      "answer": ",同じ「炭素」という元素",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "子の",
+      "page": 18,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "例えば「陽子の数が6で中性子の数が6」\n"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0018_003",
+      "question": "¬\n「\n次の下線部とは何ですか？",
+      "answer": ",単体と元素のどちらを意味しているでしよう?\n『骨にはカルシウムが含まれている』\nこのような問題が出たときは,下線部以外にも注目することが大事",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "子の",
+      "page": 18,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "¬\n「\n次の下線部"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0018_004",
+      "question": "骨というのとは何ですか？",
+      "answer": "′カルシウムを含む化合物からなります",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "子の",
+      "page": 18,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "骨というの"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0018_005",
+      "question": "よつて′カルシウムとは何ですか？",
+      "answer": "別\nの元素とも結合しているため,ここで|よ「元素」の意味で使われています",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "子の",
+      "page": 18,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "よつて′カルシウム"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0018_006",
+      "question": "子のとは何ですか？",
+      "answer": "数(=電子の数)が同じ原子は同―の元素と考えます。",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "子の",
+      "page": 18,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "子の"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0020_000",
+      "question": "同素体とは何ですか？",
+      "answer": "何か,説明することができる",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 20,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "同素体"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0020_001",
+      "question": "E]物質とは何ですか？",
+      "answer": "純物質と混合物のどちらかに分類できる",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 20,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "E]物質"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0020_002",
+      "question": "E]純物質とは何ですか？",
+      "answer": "化学式1つで表すことができる物質",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 20,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "E]純物質"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0020_003",
+      "question": "E]混合物とは何ですか？",
+      "answer": "純物質が混合してできたもの",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 20,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "E]混合物"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0020_004",
+      "question": "同素体ととは何ですか？",
+      "answer": "何か,説明することができる",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 20,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "同素体と"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0020_img",
+      "question": "この図が示している内容を説明してください",
+      "answer": "図を参照して理解してください",
+      "type": "graph",
+      "image_path": "images/p20_img0.png",
+      "subject": "chemistry",
+      "page": 20,
+      "difficulty": 2,
+      "tags": [
+        "図解"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0021_img",
+      "question": "この図が示している内容を説明してください",
+      "answer": "図を参照して理解してください",
+      "type": "graph",
+      "image_path": "images/p21_img0.png",
+      "subject": "chemistry",
+      "page": 21,
+      "difficulty": 2,
+      "tags": [
+        "図解"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0022_000",
+      "question": "ｊ\nず\nｊ\n∫\nｌ\n事\nｉ\n‥\nま\n〓\n守\n原子の構成と\nイオン化とは何ですか？",
+      "answer": "じめに\nChapter lでは′物質の分類と混合物を分離する方法について学びました",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 22,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "ｊ\nず\nｊ\n∫\nｌ\n事\nｉ\n‥\nま\n〓\n"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0022_001",
+      "question": "ここでとは何ですか？",
+      "answer": ",身の回りのすべての物質のもととなつている′\n原子についてお話ししましょう",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 22,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "ここで"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0022_002",
+      "question": "「原子とは何ですか？",
+      "answer": "どんな構造をしているの?」\n「原子はどうして種類ごとに違う性質をもつているの?」\n「原子はどうしてイオンになるの?」\nこの疑間に,答えていきましょう",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 22,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "「原子"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0024_000",
+      "question": "簸\n分子とは何ですか？",
+      "answer": "その物質の性質をもつ最小単位のものと思つてください",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 24,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "簸\n分子"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0024_001",
+      "question": "(質量数が違うということは何ですか？",
+      "answer": ",中性子の数が違うということ",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 24,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "(質量数が違うというこ"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0024_002",
+      "question": "原子核にとは何ですか？",
+      "answer": "陽子と中性子が入つていて′田子の数と電子の数は同じ",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 24,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "原子核に"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0024_003",
+      "question": "というのも′陽子とは何ですか？",
+      "answer": "正(十)の電荷を帯び,電子は負(― )の電荷を帯びているので,\nこの2つが打ち消し合って′全体として電荷を0の(電気を帯びていない)状態に\nする必要があるから",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 24,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "というのも′陽子"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0024_004",
+      "question": "簸\n分子ととは何ですか？",
+      "answer": "その物質の性質をもつ最小単位のものと思つてください",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 24,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "簸\n分子と"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0024_005",
+      "question": "例えばコップに\n入つた水とは何ですか？",
+      "answer": "最小にするとH20分子になります",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 24,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "例えばコップに\n入つた水"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0024_006",
+      "question": "H20分子とは何ですか？",
+      "answer": "水としての性質をもちます\nが,H原子とO原子に分かれると水としての性質はなくなります",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 24,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "H20分子"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0024_007",
+      "question": "原子を書き表すときにとは何ですか？",
+      "answer": ",以下の点に注意しましょう",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 24,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "原子を書き表すときに"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0024_008",
+      "question": "質量数をわざわざ書くのとは何ですか？",
+      "answer": "′同じ元素でも′質量数の違うものが存在するから",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 24,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "質量数をわざわざ書くの"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0024_009",
+      "question": "例えば′炭素にとは何ですか？",
+      "answer": ",1:Cや1:Cがあります",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 24,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "例えば′炭素に"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0024_010",
+      "question": "(質量数が違うということとは何ですか？",
+      "answer": ",中性子の数が違うということ",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 24,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "(質量数が違うということ"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0024_011",
+      "question": "原子とは何ですか？",
+      "answer": ",陽子と中性子でできた原子核と,その周りに電子を\nもつた構造になつている",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 24,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "原子"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0024_img",
+      "question": "この図が示している内容を説明してください",
+      "answer": "図を参照して理解してください",
+      "type": "graph",
+      "image_path": "images/p24_img0.png",
+      "subject": "chemistry",
+      "page": 24,
+      "difficulty": 2,
+      "tags": [
+        "図解"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0026_000",
+      "question": "※\n軌道とは何ですか？",
+      "answer": "電子の存在できる場所のことで,電子殻と呼びます",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "23  )と",
+      "page": 26,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "※\n軌道"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0026_001",
+      "question": "ココをおさえよう!\n次とは何ですか？",
+      "answer": ",原子に含まれている電子についてお話ししましょう",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "23  )と",
+      "page": 26,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "ココをおさえよう!\n次"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0026_002",
+      "question": "原則として,電子とは何ですか？",
+      "answer": "原子機の近くにいようとします",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "23  )と",
+      "page": 26,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "原則として,電子"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0026_003",
+      "question": "ですから,原子機にいちばん近い軌道から電子が埋まつていき,それ以降とは何ですか？",
+      "answer": "それ\nより外側の軌道でお母さんにいちばん近い軌道から,電子が埋まつていきます",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "23  )と",
+      "page": 26,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "ですから,原子機にいちばん近い軌道から電"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0026_004",
+      "question": "※\n軌道ととは何ですか？",
+      "answer": "電子の存在できる場所のことで,電子殻と呼びます",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "23  )と",
+      "page": 26,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "※\n軌道と"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0026_005",
+      "question": "電子殻にとは何ですか？",
+      "answer": ",原子核(お母さん)に近いところからK殻′ L殻,M殻′ N殻′・……\nという名前がついていて,それぞれ定員が2個′8個,18個,32個′・……\nとなっています",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "23  )と",
+      "page": 26,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "電子殻に"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0026_006",
+      "question": "田:)>電子殻に入れる電子の数とは何ですか？",
+      "answer": "内側から2れ\n(■  23  )と\n表すことができます\n例えば′窒素Nの原子番号は7なので,電子(子ども)の数も7個",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "23  )と",
+      "page": 26,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "田:)>電子殻に入れる電子の数"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0026_007",
+      "question": "このア個の電子(子ども)たちとは何ですか？",
+      "answer": ",競い合つて原子核(お母さん)の近くに行こう\nとします",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "23  )と",
+      "page": 26,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "このア個の電子(子ども)たち"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0026_008",
+      "question": "最初に電子が2個,原子核にいちばん近いK殻に入ったら,それ以上K殻にとは何ですか？",
+      "answer": "入れ\nないので,残りの電子殻でいちばん原子核に近いL殻に,残り5個の電子が入ります",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "23  )と",
+      "page": 26,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "最初に電子が2個,原子核にいちばん近いK"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0026_img",
+      "question": "この図が示している内容を説明してください",
+      "answer": "図を参照して理解してください",
+      "type": "graph",
+      "image_path": "images/p26_img0.png",
+      "subject": "chemistry",
+      "page": 26,
+      "difficulty": 2,
+      "tags": [
+        "図解"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0027_000",
+      "question": "磁\nゝ\nゆ\na)、2\nV―メ\n電子\n電子とは何ですか？",
+      "answer": "できるだけ\n原子核の近くに\nいようとするが……\n電子殻には\n定員がある\n電子殻\nK殻(2{固)\nL殻(8{固)\nM殻(18個)\n0窒\n素の場合\n電子\n原子核\nK殻に2個の電子が入り,\nL殻に5個の電子が入る",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "0",
+      "page": 27,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "磁\nゝ\nゆ\na)、2\nV―メ\n電子\n電子"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0027_001",
+      "question": "0とは何ですか？",
+      "answer": "内側の電子殻かられ=1,2,3,… …とす",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "0",
+      "page": 27,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "0"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0028_000",
+      "question": "が′お母さん(原子核)にとは何ですか？",
+      "answer": "1つだけ悩みごとがあります",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 28,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "が′お母さん(原子核)に"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0028_001",
+      "question": "実とは何ですか？",
+      "answer": "′いちばん外側の子ども(電子)の数が8個になつたほうが安定するの",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 28,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "実"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0028_002",
+      "question": "価電子というのとは何ですか？",
+      "answer": "最外殻にある電子とほぼ同じ意味",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 28,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "価電子というの"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0028_003",
+      "question": "まずとは何ですか？",
+      "answer": "周期表の右はじ′18族の原子",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 28,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "まず"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0028_004",
+      "question": "貴ガスとは何ですか？",
+      "answer": "最外殻電子数が8で安定なので(ヘリウムHeだけは最外殻電子数が2で安定)′\n単原子分子(1つの原子で安定して分子のようにふるまう原子)として存在できます",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 28,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "貴ガス"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0028_005",
+      "question": "なので,ヘリウムHe,ネオンNe′\nアルゴンArとは何ですか？",
+      "answer": ", 1つの原子で安定して存在します",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 28,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "なので,ヘリウムHe,ネオンNe′\nアル"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0028_006",
+      "question": "一方′貴ガス以外の原子とは何ですか？",
+      "answer": ",電子を放出したり′受け取つたりすることで貴ガス\nと同じ電子配置になり,安定しようとします",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 28,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "一方′貴ガス以外の原子"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0028_007",
+      "question": "貴ガスとは何ですか？",
+      "answer": "理想の家族なので,貴ガスの電子配置をマネしようとするの",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 28,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "貴ガス"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0028_008",
+      "question": "同様にBe,Mg′ Caなどの最外殻電子数が2の原子とは何ですか？",
+      "answer": ",電子を2個放出し,Be2+′\nM92+′\nca2+などの2価の陽イオンとなりますし′\n0,Sなどの最外殻電子数が6の原子は,電子を2個受け取り,02-′\ns2-などの2価の\n陰イオンになります",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 28,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "同様にBe,Mg′ Caなどの最外殻電子"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0028_009",
+      "question": "最外殻電子数が8個(K殻の場合とは何ですか？",
+      "answer": "2個)のとき,原子は安定す\nる",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 28,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "最外殻電子数が8個(K殻の場合"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0028_img",
+      "question": "この図が示している内容を説明してください",
+      "answer": "図を参照して理解してください",
+      "type": "graph",
+      "image_path": "images/p28_img0.png",
+      "subject": "chemistry",
+      "page": 28,
+      "difficulty": 2,
+      "tags": [
+        "図解"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0029_000",
+      "question": "貴ガス(18族)の家族たち\n一方,貴ガス以外の原子とは何ですか？",
+      "answer": ",貴ガスと同じ電子配置になろうとする",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 29,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "貴ガス(18族)の家族たち\n一方,貴ガス"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0030_000",
+      "question": "全部覚え\nる必要とは何ですか？",
+      "answer": "ありませんが,第3周期ぐらいまでは覚えておくとよいでしょう",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 30,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "全部覚え\nる必要"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0030_001",
+      "question": "これとは何ですか？",
+      "answer": "′原子番号が大きいほど,原子核からより遠い電子殻が最外殻となるから",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 30,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "これ"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0030_002",
+      "question": "同じ周期の場合′最外殻とは何ですか？",
+      "answer": "同じなのに,なぜ原子の半径が異なるのでしょうか?\nその理由は,原子番号が大きいほど′原子核にある陽子の数が増えるため′原子\n核が電子を引きつける力が強まるから",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 30,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "同じ周期の場合′最外殻"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0030_003",
+      "question": "18族の貴ガスを除く理由とは何ですか？",
+      "answer": ",貴ガスだけ基準の異なる方法でしか半径を測定できな\nいため",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 30,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "18族の貴ガスを除く理由"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0030_004",
+      "question": "イオンとは何ですか？",
+      "answer": "貴ガス(18族)と同じ電子配置になりたがるのでした",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 30,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "イオン"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0030_005",
+      "question": "Neと同じ電子配置の02-,F~,Na+,M92+の4つのイオンのイオン半径の大きさとは何ですか？",
+      "answer": "どのようになるでしょうか?\nこれも′原子核が電子を引きつける力を考えれば簡単",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 30,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "Neと同じ電子配置の02-,F~,Na+"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0030_006",
+      "question": "原子核にある陽子の数が多いほうが,電子を引きつける力が強くなつて半径とは何ですか？",
+      "answer": "小\nさくなるので′イオン半径はM92+<Na+<F~<02-となります",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 30,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "原子核にある陽子の数が多いほうが,電子を"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0030_007",
+      "question": "最外殻が同じ場合とは何ですか？",
+      "answer": "]陽子の数が多いほど電子を原子核に引\nきつける力が強くなるので,原子半径は小さくなる",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 30,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "最外殻が同じ場合"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0030_img",
+      "question": "この図が示している内容を説明してください",
+      "answer": "図を参照して理解してください",
+      "type": "graph",
+      "image_path": "images/p30_img0.png",
+      "subject": "chemistry",
+      "page": 30,
+      "difficulty": 2,
+      "tags": [
+        "図解"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0031_000",
+      "question": "同じ電子配置のイオンどうしでとは何ですか？",
+      "answer": ",陽子の数が多いほうが半径が小さくなる",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "□裂目",
+      "page": 31,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "同じ電子配置のイオンどうしで"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0031_img",
+      "question": "この図が示している内容を説明してください",
+      "answer": "図を参照して理解してください",
+      "type": "graph",
+      "image_path": "images/p31_img0.png",
+      "subject": "chemistry",
+      "page": 31,
+      "difficulty": 2,
+      "tags": [
+        "図解"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0032_000",
+      "question": "イオン化エネルギーとは何ですか？",
+      "answer": "′原子を1価のロイオンにする際に吸収されるエネ\nルギー",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 32,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "イオン化エネルギー"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0032_001",
+      "question": "イオン化エネルギーが大きいということは何ですか？",
+      "answer": ",1価の陽イオンになりにくいこ\nとを意味する",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 32,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "イオン化エネルギーが大きいというこ"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0032_002",
+      "question": "・電子親和力とは何ですか？",
+      "answer": ",原子を1価の阻イオンにする際に放出されるエネルギーの\nこと",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 32,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "・電子親和力"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0032_003",
+      "question": "・電子親和力が大きいということは何ですか？",
+      "answer": ",1価の陰イオンになりやすいことを意味\nする",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 32,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "・電子親和力が大きいというこ"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0032_004",
+      "question": "イオン化エネルギーと電子親和力の意味を忘れないためにとは何ですか？",
+      "answer": "① Eを打ち込むとe~が飛び出す,というイメージを頭に入\nれる",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 32,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "イオン化エネルギーと電子親和力の意味を忘"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0032_005",
+      "question": "② 主人公とは何ですか？",
+      "answer": "原子(M,X)なのでMもしくはXを左辺に書く",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 32,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "② 主人公"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0032_006",
+      "question": "イオン化エネルギーととは何ですか？",
+      "answer": "′原子を1価のロイオンにする際に吸収されるエネ\nルギーのこと",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 32,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "イオン化エネルギーと"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0032_007",
+      "question": "イオン化エネルギーが大きいということとは何ですか？",
+      "answer": ",1価の陽イオンになりにくいこ\nとを意味する",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 32,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "イオン化エネルギーが大きいということ"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0032_008",
+      "question": "・電子親和力ととは何ですか？",
+      "answer": ",原子を1価の阻イオンにする際に放出されるエネルギーの\nこと",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 32,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "・電子親和力と"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0032_009",
+      "question": "・電子親和力が大きいということとは何ですか？",
+      "answer": ",1価の陰イオンになりやすいことを意味\nする",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 32,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "・電子親和力が大きいということ"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0032_010",
+      "question": "この式の意味を説明してください",
+      "answer": "X+e~=X~+E(X:原",
+      "type": "formula",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 32,
+      "difficulty": 2,
+      "tags": [
+        "公式"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0032_img",
+      "question": "この図が示している内容を説明してください",
+      "answer": "図を参照して理解してください",
+      "type": "graph",
+      "image_path": "images/p32_img0.png",
+      "subject": "chemistry",
+      "page": 32,
+      "difficulty": 2,
+      "tags": [
+        "図解"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0033_000",
+      "question": "イオン化エネルギーが大きいということは何ですか？",
+      "answer": ",1価の\n陽イオンになりにくいことを意味する",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 33,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "イオン化エネルギーが大きいというこ"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0033_001",
+      "question": "・電子親和力とは何ですか？",
+      "answer": ",原子を1価の陰イオンにする際に\n放出されるエネルギー",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 33,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "・電子親和力"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0033_002",
+      "question": "電子親和力が大きいと\nいうことは何ですか？",
+      "answer": ",1価の陰イオンになりやすいことを意\n味する",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 33,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "電子親和力が大きいと\nいうこ"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0033_003",
+      "question": "イオン化エネルギーが大きいということとは何ですか？",
+      "answer": ",1価の\n陽イオンになりにくいことを意味する",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 33,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "イオン化エネルギーが大きいということ"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0033_004",
+      "question": "・電子親和力ととは何ですか？",
+      "answer": ",原子を1価の陰イオンにする際に\n放出されるエネルギーのこと",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 33,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "・電子親和力と"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0033_005",
+      "question": "電子親和力が大きいと\nいうこととは何ですか？",
+      "answer": ",1価の陰イオンになりやすいことを意\n味する",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 33,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "電子親和力が大きいと\nいうこと"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0033_006",
+      "question": "この式の意味を説明してください",
+      "answer": "M=M++e~― Eと表される。",
+      "type": "formula",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 33,
+      "difficulty": 2,
+      "tags": [
+        "公式"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0033_007",
+      "question": "この式の意味を説明してください",
+      "answer": "X+e~=X~+Eと表される。電子親和力が大きいと",
+      "type": "formula",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 33,
+      "difficulty": 2,
+      "tags": [
+        "公式"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0033_img",
+      "question": "この図が示している内容を説明してください",
+      "answer": "図を参照して理解してください",
+      "type": "graph",
+      "image_path": "images/p33_img0.png",
+      "subject": "chemistry",
+      "page": 33,
+      "difficulty": 2,
+      "tags": [
+        "図解"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0034_000",
+      "question": "厳密にとは何ですか？",
+      "answer": "原子を1価の陽イオンにするのに必要なエネルギーを第一イオン化エネル\nギーといい,2価の陽イオン′3価の陽イオンにするのに必要なエネルギーを第ニイ\nオン化エネルギー′第ニイオン化エネルギーといいます",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 34,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "厳密に"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0034_001",
+      "question": "受験でとは何ですか？",
+      "answer": "第一イオン化エネ\nルギーについてしか出題されないと考えてよいでしょう",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 34,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "受験で"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0034_002",
+      "question": "単に「イオン化エネルギー」\nと出てきたときとは何ですか？",
+      "answer": ",第一イオン化エネルギーのことだと思つてください",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 34,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "単に「イオン化エネルギー」\nと出てきたと"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0034_003",
+      "question": "慣習的にエネルギーEとは何ですか？",
+      "answer": "右辺に書くので,次のように直します",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 34,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "慣習的にエネルギーE"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0034_004",
+      "question": "M=M++e~―\nE\nイオン化エネルギーの大小についてとは何ですか？",
+      "answer": "′次のようにとらえてください",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 34,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "M=M++e~―\nE\nイオン化エネルギー"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0035_000",
+      "question": "この式の意味を説明してください",
+      "answer": "R覺=原子を1価の陽イオンにするため",
+      "type": "formula",
+      "subject": "chemistry",
+      "chapter": "⌒ン｀⌒´",
+      "page": 35,
+      "difficulty": 2,
+      "tags": [
+        "公式"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0036_000",
+      "question": "ということは何ですか？",
+      "answer": "′電子を1つ取り去るのに必要なエネルギーが大きくなるというこ\nと",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 36,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "というこ"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0036_001",
+      "question": "HeやArなどの貴ガスとは何ですか？",
+      "answer": ",イオン化エネルギーが小さい\nでしょうか′大きいでしようか?\n貴ガスは原子の状態のままで安定なので,1価の陽イオンにするには大きなエネ\nルギーが必要",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 36,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "HeやArなどの貴ガス"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0036_002",
+      "question": "一方′NaやKのようなアルカリ金属とは何ですか？",
+      "answer": ",1つの最外殻電子を放出して′理想の電\n子配置になりたいのでしたね(p.40)",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 36,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "一方′NaやKのようなアルカリ金属"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0036_003",
+      "question": "アルカリ金属とは何ですか？",
+      "answer": ",1価の陽イオンになりたいとムズムズしています",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 36,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "アルカリ金属"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0036_004",
+      "question": "tポイント①´同じ同期でとは何ですか？",
+      "answer": ",原子番号が増える(右にいく)につれ,イオン化エ\nネルギ…が大きくなる(電子を取り去りにくくなる)",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 36,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "tポイント①´同じ同期で"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0036_005",
+      "question": "ということとは何ですか？",
+      "answer": "′電子を1つ取り去るのに必要なエネルギーが大きくなるというこ\nと",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 36,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "ということ"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0036_006",
+      "question": "〔ポイント②\n同じ族でとは何ですか？",
+      "answer": ",原子番号が増える(下にいく)につれ,イオン化エネ\nルギーが小さくなる(電子を取り去りやすくなる)",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 36,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "〔ポイント②\n同じ族で"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0036_007",
+      "question": "同じ族でとは何ですか？",
+      "answer": ",原子番号が増えると最外殻が原子核から遠くなっていますね",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 36,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "同じ族で"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0036_008",
+      "question": "最外殻が遠いと原子核が電子を引つ張る力とは何ですか？",
+      "answer": "小さくなる(陽子の数も増えますが,\n電子が原子核から遠くなる影響のほうが大きい)ので,電子1個を取り去つて陽イ\nオンにするのに必要なエネルギーが少なくて済むようになります",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 36,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "最外殻が遠いと原子核が電子を引つ張る力"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0036_img",
+      "question": "この図が示している内容を説明してください",
+      "answer": "図を参照して理解してください",
+      "type": "graph",
+      "image_path": "images/p36_img0.png",
+      "subject": "chemistry",
+      "page": 36,
+      "difficulty": 2,
+      "tags": [
+        "図解"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0037_000",
+      "question": "00\nHeやArなどの貴ガスとは何ですか？",
+      "answer": "イオン化エネルギーが\n小さい? 大きい?\n貴ガスは原子の状態のままで安定なので,\n1価の陽イオンにするには大きなエネルギーが必要",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 37,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "00\nHeやArなどの貴ガス"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0038_000",
+      "question": "イオン化エネルギーでとは何ですか？",
+      "answer": "「エネルギーEを打ち込むと,e~が飛び出てくる」と考\nえましたね",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 38,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "イオン化エネルギーで"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0038_001",
+      "question": "電子親和力とは何ですか？",
+      "answer": "「1価の陰イオンX~にエネルギーEを打ち込むと,電子e~が飛び\n出してもとの原子Xに戻る」とイメージします",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 38,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "電子親和力"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0038_002",
+      "question": "だから,電子親和力の定義とは何ですか？",
+      "answer": "「原子が電子を受け取る際に放出するエネルギー」\nなの",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 38,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "だから,電子親和力の定義"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0038_003",
+      "question": "電子親和力が大きい=陰イオンを原子にするためにとは何ですか？",
+      "answer": "大きなエネルギーが必要=\n陰イオンの状態が安定する(陰イオンでいたい,原子になりたくない)\nFやCIは電子を1つ受け取つて陰イオンとなり,理想の電子配置になりたいので\nした",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 38,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "電子親和力が大きい=陰イオンを原子にする"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0038_004",
+      "question": "だからFや⊂!とは何ですか？",
+      "answer": "電子親和力が大きいということ",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 38,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "だからFや⊂!"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0038_005",
+      "question": "以上から,電子親和力を表したグラフとは何ですか？",
+      "answer": "右ページのように,FやCIで大きく′貴\nガスで小さくなるようなグラフになるの",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 38,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "以上から,電子親和力を表したグラフ"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0038_006",
+      "question": "この式の意味を説明してください",
+      "answer": "X~+E=X+e~)を",
+      "type": "formula",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 38,
+      "difficulty": 2,
+      "tags": [
+        "公式"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0038_img",
+      "question": "この図が示している内容を説明してください",
+      "answer": "図を参照して理解してください",
+      "type": "graph",
+      "image_path": "images/p38_img0.png",
+      "subject": "chemistry",
+      "page": 38,
+      "difficulty": 2,
+      "tags": [
+        "図解"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0039_000",
+      "question": "この式の意味を説明してください",
+      "answer": "CD=陰イオンを原子にするためには大きなエネルギー",
+      "type": "formula",
+      "subject": "chemistry",
+      "chapter": "1′ツ",
+      "page": 39,
+      "difficulty": 2,
+      "tags": [
+        "公式"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0039_img",
+      "question": "この図が示している内容を説明してください",
+      "answer": "図を参照して理解してください",
+      "type": "graph",
+      "image_path": "images/p39_img0.png",
+      "subject": "chemistry",
+      "page": 39,
+      "difficulty": 2,
+      "tags": [
+        "図解"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0040_000",
+      "question": "ハカセの\nヽCぐ\n52\n、  \nヽ  .とは何ですか？",
+      "answer": "な判\n＼Rト\n宇宙\n」レ\nーーヤビしい\nチェッタ\n“\n、\nル\n′\n\"\n′\nE \n原子核|よ陽子と中性子からできている",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 40,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "ハカセの\nヽCぐ\n52\n、  \nヽ  ."
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0040_001",
+      "question": "[三]原子番号=陽子の数=電子の数\n[三]質量数=陽子の数+中性子の数\n[三]同位体とは何ですか？",
+      "answer": ",原子番号が同じで,質量数が互いに異なる原子のこと",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 40,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "[三]原子番号=陽子の数=電子の数\n[三"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0040_002",
+      "question": "[三]電子殻とは何ですか？",
+      "answer": "内側からK殻, L殻,M殻といい,内側から電子が埋まる",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 40,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "[三]電子殻"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0040_003",
+      "question": "各電子殻にとは何ですか？",
+      "answer": ",入ることのできる電子の数が決まつている",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 40,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "各電子殻に"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0040_004",
+      "question": "[I]LiやNaやKとは何ですか？",
+      "answer": "陽イオンになりやすいので,イオン化エネルギーは小さい",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 40,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "[I]LiやNaやK"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0040_005",
+      "question": "[I]FやCIとは何ですか？",
+      "answer": "陰イオンになりやすいので,電子親和力は大きい",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 40,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "[I]FやCI"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0040_006",
+      "question": "[I]原子とは何ですか？",
+      "answer": ",中心に原子核,周りに電子がある",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 40,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "[I]原子"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0041_img",
+      "question": "この図が示している内容を説明してください",
+      "answer": "図を参照して理解してください",
+      "type": "graph",
+      "image_path": "images/p41_img0.png",
+      "subject": "chemistry",
+      "page": 41,
+      "difficulty": 2,
+      "tags": [
+        "図解"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0042_000",
+      "question": "〓\nｊ\n′\n主\n・\nChapter\n化学結合とは何ですか？",
+      "answer": "じめに\nChapter 2では原子のイオン化に電子が深く関わつていることを学習しました",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 42,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "〓\nｊ\n′\n主\n・\nChapter\n化学"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0042_001",
+      "question": "Chapter 3でとは何ですか？",
+      "answer": "′原子間のいろいろな結合や分子間の結びつきについて勉強して\nいきます",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 42,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "Chapter 3で"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0042_002",
+      "question": "こういつたお母さん(原子核)の性格とは何ですか？",
+      "answer": "元素ごとに決まっていて′\nそれを知ることで,共同体(分子)の人間関係(性質)がわかるようになります",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 42,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "こういつたお母さん(原子核)の性格"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0042_003",
+      "question": "また,子ども(電子)を自由電子にし,放任主義の子育てをする金属でとは何ですか？",
+      "answer": "′\nその結晶がどのような構造になつているのか′について学習していきます",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 42,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "また,子ども(電子)を自由電子にし,放任"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0042_004",
+      "question": "まずとは何ですか？",
+      "answer": "イオン結合と共有結合について学び′そして電子式や構造式の書きかたな\nど′基本的なことができるようにします",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 42,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "まず"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0042_img",
+      "question": "この図が示している内容を説明してください",
+      "answer": "図を参照して理解してください",
+      "type": "graph",
+      "image_path": "images/p42_img0.png",
+      "subject": "chemistry",
+      "page": 42,
+      "difficulty": 2,
+      "tags": [
+        "図解"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0044_000",
+      "question": "電子(子ども)を手放したNa+(ナトリ\nウムイオン)とは何ですか？",
+      "answer": "′電子(子ども)を受け取つたCI~(塩化物イオン)との間に′静電気(的\nな引)力(クーロンカ)を介したイオン結合を形成するの",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 44,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "電子(子ども)を手放したNa+(ナトリ\n"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0044_001",
+      "question": "金属元素と非金属元秦からなる化含物の多くとは何ですか？",
+      "answer": ",イオン結合からなります",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 44,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "金属元素と非金属元秦からなる化含物の多く"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0044_002",
+      "question": "(金属元素′非金属元素についてとは何ですか？",
+      "answer": ",巻頭の周期表でなんとなく見ておきましょう)\nイオンどうして化含物を形成するときは,化学式全体でイオンの価数が0になる\nように組成比を考えなくてはなりません",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 44,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "(金属元素′非金属元素について"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0044_003",
+      "question": "例えばNa十とcl― という1価のイオンどうしであればNaCIとなりますが,Ca2+と\nCI~でとは何ですか？",
+      "answer": "化学式全体のイオンの価数を0にするためCaC12となります",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 44,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "例えばNa十とcl― という1価のイオン"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0044_004",
+      "question": "(結晶の構造についてとは何ですか？",
+      "answer": ",Chapter 10で説明します)\nイオン結合は縮合が強いので,イオン結晶は融点・沸点が高いという性質があります",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 44,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "(結晶の構造について"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0044_005",
+      "question": "水の中でとは何ですか？",
+      "answer": "それぞれが陽イオンや陰イオンとしてバラバラになつて自由に動ける\nようになるので,電気を通すようになります",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 44,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "水の中で"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0044_006",
+      "question": "◎結晶とは何ですか？",
+      "answer": "電気を通さないが,加熱融解したり,水に溶かすと\n電気を通す(イオンに分かれるから)",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 44,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "◎結晶"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0044_img",
+      "question": "この図が示している内容を説明してください",
+      "answer": "図を参照して理解してください",
+      "type": "graph",
+      "image_path": "images/p44_img0.png",
+      "subject": "chemistry",
+      "page": 44,
+      "difficulty": 2,
+      "tags": [
+        "図解"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0045_000",
+      "question": "結晶とは何ですか？",
+      "answer": "電気を通さないが,水に溶かすと\n電気を通す(イオンに分かれるから)",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "〉",
+      "page": 45,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "結晶"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0045_img",
+      "question": "この図が示している内容を説明してください",
+      "answer": "図を参照して理解してください",
+      "type": "graph",
+      "image_path": "images/p45_img0.png",
+      "subject": "chemistry",
+      "page": 45,
+      "difficulty": 2,
+      "tags": [
+        "図解"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0046_000",
+      "question": "そんな原子どうしとは何ですか？",
+      "answer": "′電子を共有して,お互いの最外般電子数を8にしようとします",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 46,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "そんな原子どうし"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0046_001",
+      "question": "(水素とは何ですか？",
+      "answer": "最外殻電子数を2にしようとします)\n例えば水分子は′ 1つの酸素原子と2つの水素原子が電子を2個ずつ共有し合うこ\nとで′互いに安定な貴ガス配置となつています",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 46,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "(水素"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0046_002",
+      "question": "(イオン結合との違いを理解しておきましようね)\n水素原子と酸素原子の結合部分とは何ですか？",
+      "answer": "電子を1個ずつ出し合つて共有結合しており,これを\n単結合といいます",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 46,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "(イオン結合との違いを理解しておきましよ"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0046_003",
+      "question": "二重結合とは何ですか？",
+      "answer": "単結合に比べて強い\n結合をしています",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 46,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "二重結合"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0046_004",
+      "question": "窒素分子とは何ですか？",
+      "answer": "三重結合によつてできていますが,\nお察しの通り′二重結合よりも強い結合になつています",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 46,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "窒素分子"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0046_005",
+      "question": "共有結合とは何ですか？",
+      "answer": "大変強いため(子ども(電子)を共有しているので,離れ離れになりたく\nないの",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 46,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "共有結合"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0046_006",
+      "question": "共有緒合とは何ですか？",
+      "answer": ",イオン緒含よりも強い結合",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 46,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "共有緒合"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0047_000",
+      "question": "そうね\n0\n0\nもなりたいの\n子ども\nないけど\n頭いいなあ\nかわいい子どもとは何ですか？",
+      "answer": "手放せませんわ\n仲良く共有\nしましょ\n私たちの結合は\n強いわよ\nO\n0 0\n単結合より\nかわいい子どもを\n2人も共有して\nいるん",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 47,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "そうね\n0\n0\nもなりたいの\n子ども\nな"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0048_000",
+      "question": "共有結合とは何ですか？",
+      "answer": "′原子どうしが最外殻にある電子を出し合い′共有してできる結合で\nしたので′例えば水素原子2つと酸素原子1つが結合してできた水分子は′右ペー\nジのようにかくことができます",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 48,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "共有結合"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0048_001",
+      "question": "しかし,今までの原子の書きかたでとは何ですか？",
+      "answer": "′最外殻電子以外の電子も書く必要があり,\n見づらかつた",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 48,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "しかし,今までの原子の書きかたで"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0048_002",
+      "question": "電子式を書くにとは何ですか？",
+      "answer": "いくつかルールがあります",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 48,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "電子式を書くに"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0048_003",
+      "question": "これとは何ですか？",
+      "answer": "決まりごとなので覚えましょう",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 48,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "これ"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0048_004",
+      "question": "② まずとは何ですか？",
+      "answer": "隣り合わないように入つていく",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 48,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "② まず"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0048_005",
+      "question": "この決まりにしたがうと′H～Neの電子式とは何ですか？",
+      "answer": "右ページのようになりますね",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 48,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "この決まりにしたがうと′H～Neの電子式"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0048_006",
+      "question": "電子とは何ですか？",
+      "answer": "まずは隣り合わないように入るので,BeやOの電子配置には注意しましょう",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 48,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "電子"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0048_007",
+      "question": "(HとHeにとは何ですか？",
+      "answer": "1× 2個の席しかないことも覚えておきましょう)\n電子式を使うことで′共有結合の様子がとてもわかりやすくなります",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 48,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "(HとHeに"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0048_008",
+      "question": "共有結合ととは何ですか？",
+      "answer": "′原子どうしが最外殻にある電子を出し合い′共有してできる結合で\nしたので′例えば水素原子2つと酸素原子1つが結合してできた水分子は′右ペー\nジのようにかくことができます",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 48,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "共有結合と"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0048_img",
+      "question": "この図が示している内容を説明してください",
+      "answer": "図を参照して理解してください",
+      "type": "graph",
+      "image_path": "images/p48_img0.png",
+      "subject": "chemistry",
+      "page": 48,
+      "difficulty": 2,
+      "tags": [
+        "図解"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0049_img",
+      "question": "この図が示している内容を説明してください",
+      "answer": "図を参照して理解してください",
+      "type": "graph",
+      "image_path": "images/p49_img0.png",
+      "subject": "chemistry",
+      "page": 49,
+      "difficulty": 2,
+      "tags": [
+        "図解"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0050_000",
+      "question": "例えば共有している電子対が2対の場合とは何ですか？",
+      "answer": "二菫績含となるので\n2本の線で表すことになります",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 50,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "例えば共有している電子対が2対の場合"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0050_001",
+      "question": "また,共有している電子対が3対の場合とは何ですか？",
+      "answer": "二重結合となり,\n3本の線で表すことになるの",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 50,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "また,共有している電子対が3対の場合"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0050_002",
+      "question": "それでとは何ですか？",
+      "answer": ",アンモニアNH3はどのように表すことができるでしようか?\n① まずは′各原子の電子式を書きます",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 50,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "それで"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0050_003",
+      "question": "構造式でとは何ですか？",
+      "answer": "非共有電子対は省略します",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 50,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "構造式で"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0050_004",
+      "question": "Ｈ\nｏ\n日\nｄ\n「\n・\n日\n「\nｆ\nヽ\nｒ\nｏ\n・\nＬ\nロ\n構造式でとは何ですか？",
+      "answer": ",共有電子対は1本の線で示す",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 50,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "Ｈ\nｏ\n日\nｄ\n「\n・\n日\n「\nｆ\nヽ\n"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0050_img",
+      "question": "この図が示している内容を説明してください",
+      "answer": "図を参照して理解してください",
+      "type": "graph",
+      "image_path": "images/p50_img0.png",
+      "subject": "chemistry",
+      "page": 50,
+      "difficulty": 2,
+      "tags": [
+        "図解"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    }
+  ]
+}

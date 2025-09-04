@@ -137,7 +137,7 @@ export default function HomePage() {
             <h1 className="text-4xl font-bold text-gray-800 mb-2">
               ケミカルマスター
             </h1>
-            <p className="text-xl text-gray-600">化学・物理の高速学習アプリ</p>
+            <p className="text-xl text-gray-600">宇宙一わかりやすい化学の高速学習アプリ</p>
           </div>
 
           {/* 統計カード */}
@@ -175,40 +175,40 @@ export default function HomePage() {
             </div>
           </div>
 
-          {/* 科目別進捗 */}
-          <div className="grid md:grid-cols-2 gap-6 mb-8">
-            <div className="bg-white rounded-2xl shadow-lg p-6">
-              <div className="flex items-center justify-between mb-4">
-                <h3 className="text-lg font-semibold text-gray-800">化学</h3>
-                <span className="text-2xl font-bold text-blue-600">{stats.chemistryProgress}%</span>
+          {/* 化学分野別進捗 */}
+          <div className="bg-white rounded-2xl shadow-lg p-6 mb-8">
+            <h3 className="text-lg font-semibold text-gray-800 mb-4">化学分野別進捗</h3>
+            <div className="space-y-4">
+              <div>
+                <div className="flex justify-between mb-1">
+                  <span className="text-sm text-gray-600">理論化学</span>
+                  <span className="text-sm font-medium">36カード</span>
+                </div>
+                <div className="w-full bg-gray-200 rounded-full h-3 overflow-hidden">
+                  <div className="bg-gradient-to-r from-blue-400 to-blue-600 h-full rounded-full" style={{ width: '28%' }} />
+                </div>
               </div>
-              <div className="w-full bg-gray-200 rounded-full h-4 overflow-hidden">
-                <div
-                  className="bg-gradient-to-r from-blue-400 to-blue-600 h-full rounded-full transition-all duration-500"
-                  style={{ width: `${stats.chemistryProgress}%` }}
-                />
+              <div>
+                <div className="flex justify-between mb-1">
+                  <span className="text-sm text-gray-600">無機化学</span>
+                  <span className="text-sm font-medium">21カード</span>
+                </div>
+                <div className="w-full bg-gray-200 rounded-full h-3 overflow-hidden">
+                  <div className="bg-gradient-to-r from-green-400 to-green-600 h-full rounded-full" style={{ width: '16%' }} />
+                </div>
               </div>
-              <div className="mt-4 flex justify-between text-sm text-gray-600">
-                <span>理論・無機・有機</span>
-                <span>10,378 カード</span>
+              <div>
+                <div className="flex justify-between mb-1">
+                  <span className="text-sm text-gray-600">有機化学</span>
+                  <span className="text-sm font-medium">28カード</span>
+                </div>
+                <div className="w-full bg-gray-200 rounded-full h-3 overflow-hidden">
+                  <div className="bg-gradient-to-r from-purple-400 to-purple-600 h-full rounded-full" style={{ width: '22%' }} />
+                </div>
               </div>
             </div>
-
-            <div className="bg-white rounded-2xl shadow-lg p-6">
-              <div className="flex items-center justify-between mb-4">
-                <h3 className="text-lg font-semibold text-gray-800">物理</h3>
-                <span className="text-2xl font-bold text-purple-600">{stats.physicsProgress}%</span>
-              </div>
-              <div className="w-full bg-gray-200 rounded-full h-4 overflow-hidden">
-                <div
-                  className="bg-gradient-to-r from-purple-400 to-purple-600 h-full rounded-full transition-all duration-500"
-                  style={{ width: `${stats.physicsProgress}%` }}
-                />
-              </div>
-              <div className="mt-4 flex justify-between text-sm text-gray-600">
-                <span>力学・原子</span>
-                <span>7,065 カード</span>
-              </div>
+            <div className="mt-4 pt-4 border-t text-center">
+              <span className="text-sm text-gray-500">総カード数: 128枚</span>
             </div>
           </div>
 

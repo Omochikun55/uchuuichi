@@ -1,0 +1,2804 @@
+{
+  "metadata": {
+    "created_at": "2025-09-05T06:38:49.750958",
+    "source_pdf": "【無機・化学】宇宙一わかりやすい化学.pdf",
+    "totalCards": 166,
+    "version": "2.0"
+  },
+  "cards": [
+    {
+      "id": "uch_0001_img",
+      "question": "この図が示している内容を説明してください",
+      "answer": "図を参照して理解してください",
+      "type": "graph",
+      "image_path": "images/p1_img0.png",
+      "subject": "chemistry",
+      "page": 1,
+      "difficulty": 2,
+      "tags": [
+        "図解"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0002_000",
+      "question": "■\nChapter\n周期表とは何ですか？",
+      "answer": "じめに\n化学の教科書や資料集を開くと,見開きでよく見かける「周期表」",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "Chapter",
+      "page": 2,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "■\nChapter\n周期表"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0002_001",
+      "question": "きれいに色分けされたりとは何ですか？",
+      "answer": "しているけど′\n「なんだかごちゃごちゃしていてよくわからない!」\nそういつて′読み飛ばしている人も多いはず",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "Chapter",
+      "page": 2,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "きれいに色分けされたり"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0002_002",
+      "question": "日本地図とは何ですか？",
+      "answer": ",県や地域で色分けがされていますじ′\n北や南に行くにつれて気候も変わります",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "Chapter",
+      "page": 2,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "日本地図"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0002_img",
+      "question": "この図が示している内容を説明してください",
+      "answer": "図を参照して理解してください",
+      "type": "graph",
+      "image_path": "images/p2_img0.png",
+      "subject": "chemistry",
+      "page": 2,
+      "difficulty": 2,
+      "tags": [
+        "図解"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0003_img",
+      "question": "この図が示している内容を説明してください",
+      "answer": "図を参照して理解してください",
+      "type": "graph",
+      "image_path": "images/p3_img0.png",
+      "subject": "chemistry",
+      "page": 3,
+      "difficulty": 2,
+      "tags": [
+        "図解"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0004_000",
+      "question": "これは理論化学の復習になりますが′\n原子番号とは何ですか？",
+      "answer": "「原子中に含まれる隅子の数」と同じでしたね",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 4,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "これは理論化学の復習になりますが′\n原子"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0004_001",
+      "question": "(途中の元素を除いていますが′ これについてとは何ですか？",
+      "answer": "後ほどお話しします)\nこのような周期性を′元素の同期律といいます",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 4,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "(途中の元素を除いていますが′ これにつ"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0004_002",
+      "question": "吟\n同期的に現れる性質にとは何ですか？",
+      "answer": ",化学的性質′イオン化エネルギー,電子親和力′単体の沸\n点",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 4,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "吟\n同期的に現れる性質に"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0004_003",
+      "question": "これとは何ですか？",
+      "answer": "理論化学の復習になりますが′\n原子番号とは「原子中に含まれる隅子の数」と同じでしたね",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 4,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "これ"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0004_004",
+      "question": "またとは何ですか？",
+      "answer": ",「原子中に含まれる電子の数」とも同じ",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 4,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "また"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0004_img",
+      "question": "この図が示している内容を説明してください",
+      "answer": "図を参照して理解してください",
+      "type": "graph",
+      "image_path": "images/p4_img0.png",
+      "subject": "chemistry",
+      "page": 4,
+      "difficulty": 2,
+      "tags": [
+        "図解"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0005_img",
+      "question": "この図が示している内容を説明してください",
+      "answer": "図を参照して理解してください",
+      "type": "graph",
+      "image_path": "images/p5_img0.png",
+      "subject": "chemistry",
+      "page": 5,
+      "difficulty": 2,
+      "tags": [
+        "図解"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0006_000",
+      "question": "(価電子の数は′7の次は,8にならず0に戻ります)\nこれも理論化学の復習になりますが′\n価電子の数とは何ですか？",
+      "answer": ",いちばん外側の電子殻(最外殻)にある電子の数のことでした",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 6,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "(価電子の数は′7の次は,8にならず0に"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0006_001",
+      "question": "(価電子の数とは何ですか？",
+      "answer": "′7の次は,8にならず0に戻ります)\nこれも理論化学の復習になりますが′\n価電子の数とは,いちばん外側の電子殻(最外殻)にある電子の数のことでした",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 6,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "(価電子の数"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0006_002",
+      "question": "ただし′貴ガス(希ガス)とは何ですか？",
+      "answer": "イオン化(電子を失つたり受け取つたり)することがほ\nとんどないので′価電子の数は0とします",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 6,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "ただし′貴ガス(希ガス)"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0006_003",
+      "question": "でとは何ですか？",
+      "answer": "′なぜ価電子の数が決まると性質も決まるのでしょうか?\nそれは′化学変化というのは,原子どうしが衝突してその組合せが変化すること\nなので,原子の表面の状態(価電子の数)がどのようになつているかが′その原子\nの化学的性質に関係しているから",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 6,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "で"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0006_004",
+      "question": "まるで′おいしい果物とは何ですか？",
+      "answer": "表面を見ただけでわかるのに似ていますね",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 6,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "まるで′おいしい果物"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0006_img",
+      "question": "この図が示している内容を説明してください",
+      "answer": "図を参照して理解してください",
+      "type": "graph",
+      "image_path": "images/p6_img0.png",
+      "subject": "chemistry",
+      "page": 6,
+      "difficulty": 2,
+      "tags": [
+        "図解"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0007_000",
+      "question": "、タ\n価電子の数にとは何ですか？",
+      "answer": ",\n周期性があつて・\n価電子の数と性質には\n関係がある\nだから性質に\n周期性があるんだ\n!\n>く\n′ヽ\n化学変化\n化学変化は,原子どうしの\n衝突で起きるものだから,\n表面の状態(価電子の数)で\nその性質が決まる",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "あり)",
+      "page": 7,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "、タ\n価電子の数に"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0007_001",
+      "question": "あり)とは何ですか？",
+      "answer": "その元素の性質も決まるから。",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "あり)",
+      "page": 7,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "あり)"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0007_img",
+      "question": "この図が示している内容を説明してください",
+      "answer": "図を参照して理解してください",
+      "type": "graph",
+      "image_path": "images/p7_img0.png",
+      "subject": "chemistry",
+      "page": 7,
+      "difficulty": 2,
+      "tags": [
+        "図解"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0008_000",
+      "question": "(※ 1-4でくわしくお話しします)\nさて\n①\n②\n③\nつまり′縦の列に並ぶ元素どうしとは何ですか？",
+      "answer": "似たような性質を示すの",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 8,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "(※ 1-4でくわしくお話しします)\nさ"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0008_001",
+      "question": "族とは何ですか？",
+      "answer": ",1～18族まであり,\nHを除く1族元素をアルカリ金属′\n2族元素をアルカリ土類金属(Be,Mgはアルカリ土類金属に含めない場合があり\nます)′\n17族元素をハロゲン′\n18族元素を貴ガス(希ガス)といいます",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 8,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "族"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0008_002",
+      "question": "(それぞれの性質についてとは何ですか？",
+      "answer": "′後ほど解説していきますよ～)\nこのように,同族元素で周期表を区切るというのが\n「周期表の区切りかたパターン1」",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 8,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "(それぞれの性質について"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0008_003",
+      "question": "一方′横の列とは何ですか？",
+      "answer": "同期といい,1～7周期まであります",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 8,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "一方′横の列"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0008_img",
+      "question": "この図が示している内容を説明してください",
+      "answer": "図を参照して理解してください",
+      "type": "graph",
+      "image_path": "images/p8_img0.png",
+      "subject": "chemistry",
+      "page": 8,
+      "difficulty": 2,
+      "tags": [
+        "図解"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0009_img",
+      "question": "この図が示している内容を説明してください",
+      "answer": "図を参照して理解してください",
+      "type": "graph",
+      "image_path": "images/p9_img0.png",
+      "subject": "chemistry",
+      "page": 9,
+      "difficulty": 2,
+      "tags": [
+        "図解"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0010_000",
+      "question": "この3～12族の元素群を遷移元素といいます(12族の元素とは何ですか？",
+      "answer": "遷移元素に含める\n場合と含めない場合があります)",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 10,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "この3～12族の元素群を遷移元素といいま"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0010_001",
+      "question": ")\nなぜ周期性がないかというと′遷移元素とは何ですか？",
+      "answer": "価電子の数が変わらないため,\n結果として性質も似通つたものになるから",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 10,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        ")\nなぜ周期性がないかというと′遷移元素"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0010_002",
+      "question": "遷移元素でとは何ですか？",
+      "answer": ",原子番号が増しても′最外殻の電子の数は増加せず,\n内側の電子殻の電子の数が増加するため′価電子の数が変化しないの",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 10,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "遷移元素で"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0010_003",
+      "question": "先ほどいったように,同じ周期の典型元素とは何ですか？",
+      "answer": ",原子番号が増えるにしたがって価\n電子の数が増加するので,性質は異なつたものになります",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 10,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "先ほどいったように,同じ周期の典型元素"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0010_004",
+      "question": "そして′性質にとは何ですか？",
+      "answer": "周期性があるので,同族元素の性質はよく似たものになるので\nしたね",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 10,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "そして′性質に"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0010_img",
+      "question": "この図が示している内容を説明してください",
+      "answer": "図を参照して理解してください",
+      "type": "graph",
+      "image_path": "images/p10_img0.png",
+      "subject": "chemistry",
+      "page": 10,
+      "difficulty": 2,
+      "tags": [
+        "図解"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0011_img",
+      "question": "この図が示している内容を説明してください",
+      "answer": "図を参照して理解してください",
+      "type": "graph",
+      "image_path": "images/p11_img0.png",
+      "subject": "chemistry",
+      "page": 11,
+      "difficulty": 2,
+      "tags": [
+        "図解"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0012_000",
+      "question": "金属元素とは何ですか？",
+      "answer": ",BとA:の間から斜め右下に分けたときの,左側の元素群を指しま\nす",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 12,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "金属元素"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0012_001",
+      "question": "aa \naoaaaaaaaaa \naaaaaaaaa \naaaoaa \naaaaa\n今度とは何ですか？",
+      "answer": "周期表を,金属元素と非金属元素で分けてみましょう",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 12,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "aa \naoaaaaaaaaa \naaa"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0012_002",
+      "question": "金属元素というのとは何ですか？",
+      "answer": "′電気や熱をよく導くなど,いわゆる金属の性質を持つた元\n素のこと",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 12,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "金属元素というの"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0012_003",
+      "question": "金属元素ととは何ですか？",
+      "answer": ",BとA:の間から斜め右下に分けたときの,左側の元素群を指しま\nす",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 12,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "金属元素と"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0012_004",
+      "question": "(ただし′水素元素Hとは何ですか？",
+      "answer": ",金属としての性質を持たないので,金属元素からは除か\nれます)\n日本地図に例えると,沖縄&北海道と′それ以外の県を分けるのに似ていますね",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 12,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "(ただし′水素元素H"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0012_005",
+      "question": "(水素元素Hが,沖縄にあたると考えてください)\nまた′金属元事とは何ですか？",
+      "answer": "陽イオンになりやすく,\n左下に位置する元素ほど目性が強いという性質があります",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 12,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "(水素元素Hが,沖縄にあたると考えてくだ"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0012_006",
+      "question": "陽性というのとは何ですか？",
+      "answer": ",電子を放出して陽イオンになる性質のことをいいます",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 12,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "陽性というの"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0012_007",
+      "question": "これとは何ですか？",
+      "answer": "′日本地図の左下(南)に行くほど気温が高くなり′\n服(電子)を脱ぎやすく(放出しやすく)なるイメージ",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 12,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "これ"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0012_img",
+      "question": "この図が示している内容を説明してください",
+      "answer": "図を参照して理解してください",
+      "type": "graph",
+      "image_path": "images/p12_img0.png",
+      "subject": "chemistry",
+      "page": 12,
+      "difficulty": 2,
+      "tags": [
+        "図解"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0014_000",
+      "question": "陰性というのは′先ほど出てきた陽性とは何ですか？",
+      "answer": "逆の性質のことで,\n電子を受け取つて陰イオンになる性質のことをいいます",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 14,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "陰性というのは′先ほど出てきた陽性"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0014_001",
+      "question": "陰性というのとは何ですか？",
+      "answer": "′先ほど出てきた陽性とは逆の性質のことで,\n電子を受け取つて陰イオンになる性質のことをいいます",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 14,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "陰性というの"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0014_002",
+      "question": "これとは何ですか？",
+      "answer": ",日本地図の右上(北)に行くほど気温が低くなり′\n服を着たがるのに似ていますね",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 14,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "これ"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0014_003",
+      "question": "28   Chapter l 周期表\n1-6 金属元素と非金属元素(その2)\nめ\n遷移元素とは何ですか？",
+      "answer": "すべて金属元素で,非金属元素はすべて典型元素になつています",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 14,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "28   Chapter l 周期表\n1"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0014_img",
+      "question": "この図が示している内容を説明してください",
+      "answer": "図を参照して理解してください",
+      "type": "graph",
+      "image_path": "images/p14_img0.png",
+      "subject": "chemistry",
+      "page": 14,
+      "difficulty": 2,
+      "tags": [
+        "図解"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0015_000",
+      "question": "目とは何ですか？",
+      "answer": "灰色部分はすべて金属元素",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "|",
+      "page": 15,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "目"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0016_000",
+      "question": "(金属元素の酸化物で,塩基性酸化物でとは何ですか？",
+      "answer": "ないものは,p.34で扱います)\n一方′非金属元素の酸化物は酸性酸化物といいます",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 16,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "(金属元素の酸化物で,塩基性酸化物で"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0016_001",
+      "question": "さて,金属元素の酸化物を塩基性酸化物と呼ぶ理由とは何ですか？",
+      "answer": "① 水と反応して塩甚になつたり′\n② 酸と中和反応をするから",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 16,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "さて,金属元素の酸化物を塩基性酸化物と呼"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0016_002",
+      "question": "塩基性酸化物が酸と中和反応をするときとは何ですか？",
+      "answer": ",まず′先ほどの①のように,\n水と反応して塩基になつてから,醸と中和します",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 16,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "塩基性酸化物が酸と中和反応をするとき"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0016_img",
+      "question": "この図が示している内容を説明してください",
+      "answer": "図を参照して理解してください",
+      "type": "graph",
+      "image_path": "images/p16_img0.png",
+      "subject": "chemistry",
+      "page": 16,
+      "difficulty": 2,
+      "tags": [
+        "図解"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0018_000",
+      "question": "酸性酸化物が塩基と中和反応をするときとは何ですか？",
+      "answer": ",まず′先ほどのC)のように′\n水と反応して酸になつてから,塩墓と中和します",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 18,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "酸性酸化物が塩基と中和反応をするとき"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0018_001",
+      "question": "この式の意味を説明してください",
+      "answer": "X=0の部分に極性があり,こ",
+      "type": "formula",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 18,
+      "difficulty": 2,
+      "tags": [
+        "公式"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0018_img",
+      "question": "この図が示している内容を説明してください",
+      "answer": "図を参照して理解してください",
+      "type": "graph",
+      "image_path": "images/p18_img0.png",
+      "subject": "chemistry",
+      "page": 18,
+      "difficulty": 2,
+      "tags": [
+        "図解"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0020_000",
+      "question": "くわしくはp.216で学びますが′両性金属の元素とは何ですか？",
+      "answer": "AI′ Zn,Sn,Pbの\nこと\nを指し′両性元素とよぶこともあります",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 20,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "くわしくはp.216で学びますが′両性金"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0020_001",
+      "question": "実とは何ですか？",
+      "answer": "′酸にも塩基にも溶ける金属があります",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 20,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "実"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0020_002",
+      "question": "くわしくとは何ですか？",
+      "answer": "p.216で学びますが′両性金属の元素とはAI′ Zn,Sn,Pbの\nこと\nを指し′両性元素とよぶこともあります",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 20,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "くわしく"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0020_003",
+      "question": "これらの元素とは何ですか？",
+      "answer": ",金属元素に分類されますが,非金属元素との境界の近くに位置\nしているため′その酸化物は酸性酸化物の性質も兼ね備えているの",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 20,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "これらの元素"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0020_004",
+      "question": "(ちなみに′両性元素とは何ですか？",
+      "answer": "「ああスンナリ」AI′\nZn′\nSn′\nPbと覚えましょう)\nあ あ スンナリ\nさて′両性元素の酸化物",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 20,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "(ちなみに′両性元素"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0020_005",
+      "question": "が′ここに少量のCr203を含んだものとは何ですか？",
+      "answer": "ルビー\n(赤色),Fe203とTi02を含んだものはサフアイア(青色)と呼ばれ,鮮やかな色彩\nを呈する宝石になります",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 20,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "が′ここに少量のCr203を含んだもの"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0020_img",
+      "question": "この図が示している内容を説明してください",
+      "answer": "図を参照して理解してください",
+      "type": "graph",
+      "image_path": "images/p20_img0.png",
+      "subject": "chemistry",
+      "page": 20,
+      "difficulty": 2,
+      "tags": [
+        "図解"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0021_000",
+      "question": "ここまでやつたら\n両性元素については\n6でくわしくやるぞい\n両性元素とは何ですか？",
+      "answer": "?\n単体,酸化物,水酸化物がどれも酸",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 21,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "ここまでやつたら\n両性元素については\n6"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0021_001",
+      "question": "A1203にとは何ですか？",
+      "answer": "いくつかの結晶構造があり,その違いによつて\n酸や強塩基に溶けたり溶けなかったりするため",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 21,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "A1203に"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0021_002",
+      "question": "ここまでやつたら\n両性元素についてとは何ですか？",
+      "answer": "6でくわしくやるぞい\n両性元素とは?\n単体,酸化物,水酸化物がどれも酸",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 21,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "ここまでやつたら\n両性元素について"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0022_000",
+      "question": "36   Chapter l 周期表\n1-10 不動態\nAl,Fe,Niとは何ですか？",
+      "answer": ",濃硝酸に対して不動態となつて溶けない",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 22,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "36   Chapter l 周期表\n1"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0022_001",
+      "question": "不動態というのとは何ですか？",
+      "answer": ",酸と金属が反応する際に,\n酸によつて金属の表面に緻密な酸化被膜が形成され,\nそれ以上反応が進まなくなる状態のことを指します",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 22,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "不動態というの"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0022_002",
+      "question": "この不動態を特別視するのとは何ですか？",
+      "answer": ",\n「本来なら反応すると考えられるのに,例外的に反応が進まない」から",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 22,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "この不動態を特別視するの"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0022_003",
+      "question": "さて,酸と金属との反応とは何ですか？",
+      "answer": ",イオン化傾向に関係しているので′\n一度′イオン化傾向をおさらいしてみましょう",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 22,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "さて,酸と金属との反応"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0022_004",
+      "question": "イオン化傾向とは何ですか？",
+      "answer": ",\nLi′  K′  Ca′  Na′  iVig′  AI′  Zn, Fe′  Ni, Sn, Pb′\n[H2], Cu, Hg, Ag′  Pt′  Au\n(H2は金属ではない",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 22,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "イオン化傾向"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0022_005",
+      "question": "が,重要なのでイオン化傾向に含まれています)\nとなつており,H2よリイオン化傾向の大きい金属とは何ですか？",
+      "answer": ",基本的には酸(H+)と反応し,\n水素を発生します",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 22,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "が,重要なのでイオン化傾向に含まれていま"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0022_img",
+      "question": "この図が示している内容を説明してください",
+      "answer": "図を参照して理解してください",
+      "type": "graph",
+      "image_path": "images/p22_img0.png",
+      "subject": "chemistry",
+      "page": 22,
+      "difficulty": 2,
+      "tags": [
+        "図解"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0023_img",
+      "question": "この図が示している内容を説明してください",
+      "answer": "図を参照して理解してください",
+      "type": "graph",
+      "image_path": "images/p23_img0.png",
+      "subject": "chemistry",
+      "page": 23,
+      "difficulty": 2,
+      "tags": [
+        "図解"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0024_000",
+      "question": "しかし,濃硝酸や熱濃硫醸とは何ですか？",
+      "answer": "特別に,金属の表面に緻密な酸化機膜を作つてし\nまい,それ以上反応が進まなくなつてしまうの",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 24,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "しかし,濃硝酸や熱濃硫醸"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0024_001",
+      "question": "反応前(左辺)でとは何ですか？",
+      "answer": ",Feがイオン化しておらず′H2がH+としてイオン化していま\nしたが′FeのほうがH2に比べてイオン化傾向が大きいので′\n反応後(右辺)のように,Fe―→Fe2+′\n2H十_→H2となるの",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 24,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "反応前(左辺)で"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0024_002",
+      "question": "この理屈でいくと,例えばAI′\nFe′\nNiとは何ですか？",
+      "answer": "H2よりもイオン化傾向が大きいので,\n酸",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 24,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "この理屈でいくと,例えばAI′\nFe′\n"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0024_003",
+      "question": "しかし,濃硝酸や熱濃硫醸ととは何ですか？",
+      "answer": "特別に,金属の表面に緻密な酸化機膜を作つてし\nまい,それ以上反応が進まなくなつてしまうの",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 24,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "しかし,濃硝酸や熱濃硫醸と"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0024_004",
+      "question": "また,不動態を作る有名な金属とは何ですか？",
+      "answer": "Ai′\nFe′\nNiなので\n「酸に溶けることがある\nAI\nつて? ない!」\nFe      Ni\nで覚えましょう",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 24,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "また,不動態を作る有名な金属"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0024_img",
+      "question": "この図が示している内容を説明してください",
+      "answer": "図を参照して理解してください",
+      "type": "graph",
+      "image_path": "images/p24_img0.png",
+      "subject": "chemistry",
+      "page": 24,
+      "difficulty": 2,
+      "tags": [
+        "図解"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0025_000",
+      "question": "C\n同様に……以下の組合せでとは何ですか？",
+      "answer": ",AI,Fe,NIがイオン化し,\n濃硝酸や熱濃硫酸に溶けるはず",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 25,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "C\n同様に……以下の組合せで"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0025_001",
+      "question": "しかし……これらの組合せでとは何ですか？",
+      "answer": "不動態となり,金属は溶けない",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 25,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "しかし……これらの組合せで"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0026_000",
+      "question": "これが,不動態とは何ですか？",
+      "answer": "″逆″に,H2よりもイオン化傾向が小さい金属が酸と反応する\n場合のお話",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 26,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "これが,不動態"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0026_001",
+      "question": "具体的にとは何ですか？",
+      "answer": "′イオン化傾向における銅～銀について",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 26,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "具体的に"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0026_002",
+      "question": "①:Cu+2HCI X CuC12+H2\nしかし,酸化作用のある硝酸(希硝酸,濃硝酸)や熱濃硫酸にとは何ですか？",
+      "answer": "′\nH2ではない気体を発生して′溶けるの",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 26,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "①:Cu+2HCI X CuC12+H2"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0026_003",
+      "question": "一方′Cu―→Cu2+′ s6+_→s4+という反応が起きており′銅とは何ですか？",
+      "answer": "酸化され,S6+\nを含む熱濃硫酸は還元されています(酸化作用によつて相手を酸化した)",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 26,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "一方′Cu―→Cu2+′ s6+_→s4"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0026_004",
+      "question": "これが,不動態ととは何ですか？",
+      "answer": "″逆″に,H2よりもイオン化傾向が小さい金属が酸と反応する\n場合のお話",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 26,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "これが,不動態と"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0026_005",
+      "question": "Cu,Hg:Agとは何ですか？",
+      "answer": "H2よリイオン化傾向が小さいが,\n酸化作用のある酸(硝酸や熱濃硫酸)には溶ける",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 26,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "Cu,Hg:Ag"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0026_img",
+      "question": "この図が示している内容を説明してください",
+      "answer": "図を参照して理解してください",
+      "type": "graph",
+      "image_path": "images/p26_img0.png",
+      "subject": "chemistry",
+      "page": 26,
+      "difficulty": 2,
+      "tags": [
+        "図解"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0027_000",
+      "question": "しかし\n酸化作用のある酸(硝酸や熱濃硫酸)にとは何ですか？",
+      "answer": "溶ける\n!\n(ただし,H+が反応するわけではないので,H2は発生しない)\ncu_→cu2+,s6+… →s4+という反応が起き,\ncuはcu2+となつて,酸に溶けた",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "‐",
+      "page": 27,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "しかし\n酸化作用のある酸(硝酸や熱濃硫酸"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0028_000",
+      "question": "右図のように,金属と酸との反応とは何ですか？",
+      "answer": "′イオン化傾向と密接な関係があり,\n・H2よりもイオン化傾向の大きい金属は,基本的に酸と反応します",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 28,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "右図のように,金属と酸との反応"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0028_001",
+      "question": "輌□D\n例外として′AI′ Fe,Niとは何ですか？",
+      "answer": ",濃硝酸や熱濃硫酸には不動態となつて溶けません",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 28,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "輌□D\n例外として′AI′ Fe,Ni"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0028_002",
+      "question": "・H2よりもイオン化傾向の小さい金属とは何ですか？",
+      "answer": ",基本的に酸と反応しません",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 28,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "・H2よりもイオン化傾向の小さい金属"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0028_003",
+      "question": "CD\n例外として,Cu,Hg,Agとは何ですか？",
+      "answer": ",\n酸化作用のある硝酸(希硝酸′濃硝酸)や熱濃硫酸には反応する",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 28,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "CD\n例外として,Cu,Hg,Ag"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0028_img",
+      "question": "この図が示している内容を説明してください",
+      "answer": "図を参照して理解してください",
+      "type": "graph",
+      "image_path": "images/p28_img0.png",
+      "subject": "chemistry",
+      "page": 28,
+      "difficulty": 2,
+      "tags": [
+        "図解"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0030_000",
+      "question": "圧]原子番号=陽子の数=原子中の電子の数\n[:]貴ガスの価電子の数とは何ですか？",
+      "answer": "0\nE]同じ族に属する元素群を同族元素という",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "=ツ摯",
+      "page": 30,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "圧]原子番号=陽子の数=原子中の電子の数"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0030_001",
+      "question": "金属元素とは何ですか？",
+      "answer": "陽イオンになりやすく,周期表の左下に位置する元素ほど陽\n性が強い(つまり,電子を放出しやすい)",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "=ツ摯",
+      "page": 30,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "金属元素"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0030_002",
+      "question": "貴ガスを除く非金属元素とは何ですか？",
+      "answer": "陰イオンになりやすく,周期表の右上に位置\nする元素ほど陰性が強い(つまり,電子を受け取りやすい)",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "=ツ摯",
+      "page": 30,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "貴ガスを除く非金属元素"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0030_003",
+      "question": "E \n遷移元素とは何ですか？",
+      "answer": "すべて金属元素,非金属元素はすべて典型元素",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "=ツ摯",
+      "page": 30,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "E \n遷移元素"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0030_004",
+      "question": "E]金属元素の酸化物とは何ですか？",
+      "answer": "塩基性酸化物,非金属元素の酸化物は酸性酸化物",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "=ツ摯",
+      "page": 30,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "E]金属元素の酸化物"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0030_005",
+      "question": "AI,Zn,Sn,Pbを両性元素といい,その単体や酸化物,水酸化物とは何ですか？",
+      "answer": ",\n基本的に酸にも塩基にも溶ける",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "=ツ摯",
+      "page": 30,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "AI,Zn,Sn,Pbを両性元素といい,"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0030_006",
+      "question": "[I]AI,Fe,NIとは何ですか？",
+      "answer": "濃硝酸や熱濃硫酸に対して不動態となつて溶けない",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "=ツ摯",
+      "page": 30,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "[I]AI,Fe,NI"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0030_007",
+      "question": "[三]Cu,Hg,Agとは何ですか？",
+      "answer": ",酸化作用のある酸(硝酸や熱濃硫酸)には溶ける",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "=ツ摯",
+      "page": 30,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "[三]Cu,Hg,Ag"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0030_img",
+      "question": "この図が示している内容を説明してください",
+      "answer": "図を参照して理解してください",
+      "type": "graph",
+      "image_path": "images/p30_img0.png",
+      "subject": "chemistry",
+      "page": 30,
+      "difficulty": 2,
+      "tags": [
+        "図解"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0032_000",
+      "question": "Chapter\n″\n水素と貴ガスとは何ですか？",
+      "answer": "じめに\nそれでは,ここからは各元素の性質について解説していきましょう",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 32,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "Chapter\n″\n水素と貴ガス"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0032_001",
+      "question": "Chapter 2でとは何ですか？",
+      "answer": "′水素と貴ガスについて",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 32,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "Chapter 2で"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0032_002",
+      "question": "水素とは何ですか？",
+      "answer": ",その性質と製法について′覚えていきましょう",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 32,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "水素"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0032_003",
+      "question": "貴ガスとは何ですか？",
+      "answer": ",その性質について理解しましょう",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 32,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "貴ガス"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0032_004",
+      "question": "おやおや′右ページでとは何ですか？",
+      "answer": "なにやらユニークなキャラクターが出てきましたね",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 32,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "おやおや′右ページで"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0034_000",
+      "question": "無色・無奥の気体で′\n(人にとは何ですか？",
+      "answer": "気づかれないように……)\nすべての物質の中で最も軽く,密度が小さい分子",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 34,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "無色・無奥の気体で′\n(人に"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0034_001",
+      "question": "2H2+02~2H20\n(H2忍者が「ドロン」したあとにとは何ですか？",
+      "answer": ",水が残つちゃいます\n高温では,酸化物から酸素を奪う(還元性を持つ)ので,\n還元剤としても利用されます",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 34,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "2H2+02~2H20\n(H2忍者が「ド"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0036_000",
+      "question": "=lコをおさえよう\n!\n水素H2とは何ですか？",
+      "answer": "右ページのような装置を用い′亜鉛に希硫酸を加えて生成します",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 36,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "=lコをおさえよう\n!\n水素H2"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0036_001",
+      "question": "(先ほどいったように,水素H2とは何ですか？",
+      "answer": "水に溶けにくいので,水上置換で捕集します)\nZn+H2504~~→ZnS04+H2↑\n水素発生\n水素H2を生成する際に,キツプの装置と呼ばれる装置を使うこともあります",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 36,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "(先ほどいったように,水素H2"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0036_002",
+      "question": "この装置とは何ですか？",
+      "answer": ",(a)に希硫酸′(b)に亜鉛を入れ′水素を発生させます",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 36,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "この装置"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0036_003",
+      "question": "また′水素とは何ですか？",
+      "answer": "この他にも′ナトリウムNaの単体と水を反応させることによつて\nも得ることができます",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 36,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "また′水素"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0038_000",
+      "question": "価電子の数とは何ですか？",
+      "answer": "「反応に関わる電子数」",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 38,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "価電子の数"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0038_001",
+      "question": "(お坊さんとは何ですか？",
+      "answer": "1人でひつそりと暮らしているイメージ",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 38,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "(お坊さん"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0038_002",
+      "question": "よね)\nなぜこのように安定しているかというと′Heの最外殻電子とは何ですか？",
+      "answer": "2個,NeやArは8\n個で開殻構造になつているため安定で,他の原子と結合する必要がないから",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 38,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "よね)\nなぜこのように安定しているかとい"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0038_003",
+      "question": "価電子の数ととは何ですか？",
+      "answer": "「反応に関わる電子数」のこと",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 38,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "価電子の数と"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0038_004",
+      "question": "が,\n貴ガスとは何ですか？",
+      "answer": "安定しているため,他の原子とは反応しません",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 38,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "が,\n貴ガス"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0038_005",
+      "question": "◎Heの最外殻電子数とは何ですか？",
+      "answer": "2,Ne,Arの最外殻電子数は8(価電子\nの数は0)",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 38,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "◎Heの最外殻電子数"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0038_006",
+      "question": "貴ガスとは何ですか？",
+      "answer": "安定な電子配置をとるため,\n化合物にならず,単原子で安定的に存在する",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 38,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "貴ガス"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0038_img",
+      "question": "この図が示している内容を説明してください",
+      "answer": "図を参照して理解してください",
+      "type": "graph",
+      "image_path": "images/p38_img0.png",
+      "subject": "chemistry",
+      "page": 38,
+      "difficulty": 2,
+      "tags": [
+        "図解"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0039_000",
+      "question": "貴ガス(He,Ne,Arなど)とは何ですか？",
+      "answer": "お坊さん\n貴ガス\n(He, Ne,Ar…\n)\nC\n私は貴ガス坊主\n18族元素のことで,\nヘリウムHe,ネオンNe,アルゴンAr\nなどを指しています",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "ロロ",
+      "page": 39,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "貴ガス(He,Ne,Arなど)"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0039_001",
+      "question": "口いとは何ですか？",
+      "answer": "2-3貴ガスの性質 . 53",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "ロロ",
+      "page": 39,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "口い"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0040_000",
+      "question": "[王]H2とは何ですか？",
+      "answer": "最も軽く,密度が小さい",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "澤|",
+      "page": 40,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "[王]H2"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0040_001",
+      "question": "圧]H2とは何ですか？",
+      "answer": "空気中で点火するとよく燃え,水を生成する",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "澤|",
+      "page": 40,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "圧]H2"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0040_002",
+      "question": "[I]H2とは何ですか？",
+      "answer": "還元剤として利用される",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "澤|",
+      "page": 40,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "[I]H2"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0040_003",
+      "question": "[三]H2とは何ですか？",
+      "answer": "亜鉛に希硫酸を加えることで生成される",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "澤|",
+      "page": 40,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "[三]H2"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0040_004",
+      "question": "[三]H2とは何ですか？",
+      "answer": "ナトリウムの単体に水を反応させることで得ることができる",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "澤|",
+      "page": 40,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "[三]H2"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0040_005",
+      "question": "E \n貴ガスとは何ですか？",
+      "answer": "単原子分子として存在している",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "澤|",
+      "page": 40,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "E \n貴ガス"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0040_006",
+      "question": ")・ッタ躙鞣とは何ですか？",
+      "answer": "理解できたものに,懲2]チエックをつけよう。",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "澤|",
+      "page": 40,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        ")・ッタ躙鞣"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0042_000",
+      "question": "Chapter\nハロゲンとは何ですか？",
+      "answer": "じめに\nChapter 2では′水素と貴ガスについて学びました",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 42,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "Chapter\nハロゲン"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0042_001",
+      "question": "次とは何ですか？",
+      "answer": "特徴ある元素群「ハロゲン」について学びます",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 42,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "次"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0042_002",
+      "question": "右ページでとは何ですか？",
+      "answer": "怪盗ハロゲンが登場したよう",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 42,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "右ページで"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0042_003",
+      "question": "彼らとは何ですか？",
+      "answer": "どんな活躍をするのでしようか?\n丸暗記になりがちな元素の性質と製法を,\nイメージとたとえ話で解説していきましょう",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 42,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "彼ら"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0044_000",
+      "question": "ハログンとは何ですか？",
+      "answer": "同期表の17藤元素のことで′\nフッ素F′\n塩素Cl,臭素Br,ヨウ素Iなどを指します",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 44,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "ハログン"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0044_001",
+      "question": "ハログンととは何ですか？",
+      "answer": "同期表の17藤元素のことで′\nフッ素F′\n塩素Cl,臭素Br,ヨウ素Iなどを指します",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 44,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "ハログンと"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0044_002",
+      "question": "ハロゲンとは何ですか？",
+      "answer": "いずれも7個の価電子を持っていて,\n電子1個を奪い,1価の陰イオンになりやすい性質を持つています",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 44,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "ハロゲン"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0044_003",
+      "question": "(怪盗集団ハロゲンとは何ですか？",
+      "answer": "′e~を奪うことが得意",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 44,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "(怪盗集団ハロゲン"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0044_004",
+      "question": ")\nハロゲンの単体とは何ですか？",
+      "answer": "いずれも,F2,Ci2,Br2,12のように二原子分子で存在してい\nます",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 44,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        ")\nハロゲンの単体"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0044_005",
+      "question": "さて′ハロゲンとは何ですか？",
+      "answer": "いずれも電子e~を奪う力(酸化力)が強いの",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 44,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "さて′ハロゲン"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0044_006",
+      "question": "(「反応性」もこの順に大きくなります)\n黎\n酸化力がこの順になるのとは何ですか？",
+      "answer": "′ハロゲンは原子番号が小さいほど原子半径が小さく,最\n外殻電子が,原子核の正電荷から強く引きつけられやすいため′電子e~を引つ張る\n力がより強いから",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 44,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "(「反応性」もこの順に大きくなります)\n"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0044_img",
+      "question": "この図が示している内容を説明してください",
+      "answer": "図を参照して理解してください",
+      "type": "graph",
+      "image_path": "images/p44_img0.png",
+      "subject": "chemistry",
+      "page": 44,
+      "difficulty": 2,
+      "tags": [
+        "図解"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0045_img",
+      "question": "この図が示している内容を説明してください",
+      "answer": "図を参照して理解してください",
+      "type": "graph",
+      "image_path": "images/p45_img0.png",
+      "subject": "chemistry",
+      "page": 45,
+      "difficulty": 2,
+      "tags": [
+        "図解"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0046_000",
+      "question": "よつて′フッ素F2と塩化カリウムKCIが出会うと′\n(KCIとは何ですか？",
+      "answer": "KからCIが電子を1つ奪うことで成立している物質",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 46,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "よつて′フッ素F2と塩化カリウムKCIが"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0046_001",
+      "question": "2KBr+12→〈→2KI+Br2\nこのように,ハロゲンたちとは何ですか？",
+      "answer": "みんなお宝(電子e~)を奪う怪盗",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 46,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "2KBr+12→〈→2KI+Br2\nこの"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0046_002",
+      "question": "が\n彼らにとは何ですか？",
+      "answer": "歴然とした力関係が存在しているの",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 46,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "が\n彼らに"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0048_000",
+      "question": "分子間力が大きいということは何ですか？",
+      "answer": ",分子どうしをバラバラの状態(液体や気体)にす\nるのに′より多くの熱が必要になるということを表しています",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 48,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "分子間力が大きいというこ"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0048_001",
+      "question": "なので,常温において,12とは何ですか？",
+      "answer": "団体,Br2は液体,C12とF2は気体となつています",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 48,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "なので,常温において,12"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0048_002",
+      "question": "(C12やF2とは何ですか？",
+      "answer": "沸点が低いため′気体になつているの",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 48,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "(C12やF2"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0048_003",
+      "question": "融点が高くなるのとは何ですか？",
+      "answer": "′\n原子番号が大きくなるほど分子量が大きく,分子間力(フアンデルワールスカ)が\n大きくなるから",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 48,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "融点が高くなるの"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0048_004",
+      "question": "″分子量が大きいほど分子間力(フアンデルワールスカ)が大きい″というのとは何ですか？",
+      "answer": ",\n他の族でも一般的にそうなるので′覚えておきましょう",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 48,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "″分子量が大きいほど分子間力(フアンデル"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0048_005",
+      "question": "F2,C12,Br2,12といつた分子とは何ですか？",
+      "answer": ",それぞれ同種類の多量の分子どうしで集まって\nフツ素′塩素,臭素′ヨウ素として存在しています",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 48,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "F2,C12,Br2,12といつた分子"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0048_006",
+      "question": "その分子間にとは何ですか？",
+      "answer": "たらく結びつきが分子間力",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 48,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "その分子間に"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0048_007",
+      "question": "分子間力が大きいということとは何ですか？",
+      "answer": ",分子どうしをバラバラの状態(液体や気体)にす\nるのに′より多くの熱が必要になるということを表しています",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 48,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "分子間力が大きいということ"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0048_008",
+      "question": "八ロゲンの性質\n◎単体とは何ですか？",
+      "answer": "二原子分子で,有色で有毒な気体",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 48,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "八ロゲンの性質\n◎単体"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0048_009",
+      "question": "融点(分子間力):12>Bし>C:2>F2\nハロゲンの沸点や融点とは何ですか？",
+      "answer": ",原子番号が大きくなるにつれて高くなる",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 48,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "融点(分子間力):12>Bし>C:2>F"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0048_img",
+      "question": "この図が示している内容を説明してください",
+      "answer": "図を参照して理解してください",
+      "type": "graph",
+      "image_path": "images/p48_img0.png",
+      "subject": "chemistry",
+      "page": 48,
+      "difficulty": 2,
+      "tags": [
+        "図解"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0050_000",
+      "question": "(フッ素とは何ですか？",
+      "answer": "最も電子e~を盗む能力の高い怪盗だ! 彼の存在はきわめて有害!)\nゆ\nゆ\n』ηO幽彦―フッ素\nFの1生質\n酸化作用が最も強いということは,他の物質との反応性が大変強いということを表し\nており′つまり有害ということなの",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 50,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "(フッ素"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0050_001",
+      "question": "フッ素F2とは何ですか？",
+      "answer": ",特有のにおいをもつ淡黄色の気体",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 50,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "フッ素F2"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0050_002",
+      "question": "(逃げるときとは何ですか？",
+      "answer": "淡黄色のマントを翻して消える!)\nまた,水と激しく反応して酸素を発生し,フッ化水素HFとなります",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 50,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "(逃げるとき"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0050_003",
+      "question": "2F2+2H20~→4HF+02\n(水とは何ですか？",
+      "answer": "怪盗F2に見つかつたら最後",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 50,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "2F2+2H20~→4HF+02\n(水"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0050_004",
+      "question": "電子e~を奪われてしまうぞ1)\nなぜなら,ハロゲンと酸素の電気陰性度(電子e~の奪いやすさ)にとは何ですか？",
+      "answer": "′\nF>(0>Ci>Br>:\nという関係がある\n(『宇宙―わかりやすい高校化学 理論化学 改訂版』のp.70参照)\nため′フッ素F2は,H+と結びついてH20になつている02-から電子e~を奪つて02に\nし′自分自身はフッ化水素HFとなるの",
+      "type": "definition",
+      "subject": "chemistry",
+      "chapter": "一般",
+      "page": 50,
+      "difficulty": 1,
+      "tags": [
+        "定義",
+        "電子e~を奪われてしまうぞ1)\nなぜなら"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "uch_0050_img",
+      "question": "この図が示している内容を説明してください",
+      "answer": "図を参照して理解してください",
+      "type": "graph",
+      "image_path": "images/p50_img0.png",
+      "subject": "chemistry",
+      "page": 50,
+      "difficulty": 2,
+      "tags": [
+        "図解"
+      ],
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    }
+  ]
+}

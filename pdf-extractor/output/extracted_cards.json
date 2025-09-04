@@ -1,0 +1,116 @@
+{
+  "metadata": {
+    "created_at": "2025-09-05T06:28:00.895603",
+    "source": "/home/mochi/uchuichi-app/pdf-extractor/sample_text.txt",
+    "totalCards": 6,
+    "chemistryCards": 6,
+    "physicsCards": 0,
+    "version": "1.0"
+  },
+  "cards": [
+    {
+      "id": "text_0000",
+      "subject": "化学",
+      "chapter": "1.",
+      "type": "quick",
+      "question": "酸とは何ですか？",
+      "answer": "プロトン（H⁺）を与える物質",
+      "original_text": "\n酸とはプロトン（H⁺）を与える物質である",
+      "tags": [
+        "定義",
+        "酸"
+      ],
+      "difficulty": 1,
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "text_0001",
+      "subject": "化学",
+      "chapter": "1.",
+      "type": "quick",
+      "question": "塩基とは何ですか？",
+      "answer": "プロトン（H⁺）を受け取る物質",
+      "original_text": "\n塩基とはプロトン（H⁺）を受け取る物質である",
+      "tags": [
+        "定義",
+        "塩基"
+      ],
+      "difficulty": 1,
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "text_0002",
+      "subject": "化学",
+      "chapter": "1.",
+      "type": "quick",
+      "question": "このポイントについて説明してください",
+      "answer": "：酸と塩基は共役関係にあり、一方が酸として働けば、もう一方は塩基として働く。",
+      "tags": [
+        "重要",
+        "ポイント"
+      ],
+      "difficulty": 2,
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "text_0003",
+      "subject": "化学",
+      "chapter": "1.",
+      "type": "quick",
+      "question": "この内容で注意すべき点は？",
+      "answer": "この反応でHClは酸、H₂Oは塩基として働いている。",
+      "misconceptions": [
+        "この反応でHClは酸、H₂Oは塩基として働いている。"
+      ],
+      "tags": [
+        "注意",
+        "典型ミス"
+      ],
+      "difficulty": 3,
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "text_0004",
+      "subject": "化学",
+      "chapter": "1.",
+      "type": "application",
+      "question": "HClが水に溶ける反応を考える",
+      "answer": "\nHCl + H₂O → H₃O⁺ + Cl⁻\n\n注意：この反応でHClは酸、H₂Oは塩基として働いている。",
+      "tags": [
+        "例題",
+        "応用"
+      ],
+      "difficulty": 3,
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    },
+    {
+      "id": "text_0005",
+      "subject": "化学",
+      "chapter": "5.",
+      "type": "quick",
+      "question": "この内容で注意すべき点は？",
+      "answer": "近似が成立する条件は、電離度α << 1 である必要がある。",
+      "misconceptions": [
+        "近似が成立する条件は、電離度α << 1 である必要がある。"
+      ],
+      "tags": [
+        "注意",
+        "典型ミス"
+      ],
+      "difficulty": 3,
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0
+    }
+  ]
+}
