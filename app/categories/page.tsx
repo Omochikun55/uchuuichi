@@ -2,7 +2,7 @@
 
 import { useState, useEffect } from 'react';
 import Link from 'next/link';
-import { ArrowLeft, BookOpen, Brain, Atom, Flask, Zap, Calculator, Wave } from 'lucide-react';
+import { ArrowLeft, BookOpen, Brain, Atom, FlaskRound, Zap, Calculator, Waves } from 'lucide-react';
 
 interface Category {
   id: string;
@@ -40,7 +40,7 @@ export default function CategoriesPage() {
           id: 'chemistry-all',
           name: '化学（全体）',
           subject: 'chemistry',
-          icon: Flask,
+          icon: FlaskRound,
           color: 'from-blue-400 to-cyan-400',
           cardCount: chemCards.length,
           chapters: chemChapters.filter(Boolean)
@@ -94,7 +94,7 @@ export default function CategoriesPage() {
       const physicsChapterIcons: { [key: string]: any } = {
         '力学': Calculator,
         'エネルギー': Zap,
-        '波動': Wave,
+        '波動': Waves,
         '電磁気': Zap,
         '原子': Atom,
       };
