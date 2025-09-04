@@ -33,7 +33,7 @@ export default function CategoriesPage() {
       const categoryMap = new Map<string, Category>();
 
       // 化学カテゴリー
-      const chemChapters = [...new Set(cards.filter((c: FlashCard) => c.subject === 'chemistry').map((c: FlashCard) => c.chapter))];
+      const chemChapters = [...new Set(cards.filter((c: FlashCard) => c.subject === 'chemistry').map((c: FlashCard) => c.chapter))] as string[];
       const chemCards = cards.filter((c: FlashCard) => c.subject === 'chemistry');
       
       if (chemChapters.length > 0) {
@@ -44,12 +44,12 @@ export default function CategoriesPage() {
           icon: FlaskRound,
           color: 'from-blue-400 to-cyan-400',
           cardCount: chemCards.length,
-          chapters: chemChapters.filter(Boolean)
+          chapters: chemChapters.filter(Boolean) as string[]
         });
       }
 
       // 物理カテゴリー
-      const physChapters = [...new Set(cards.filter((c: FlashCard) => c.subject === 'physics').map((c: FlashCard) => c.chapter))];
+      const physChapters = [...new Set(cards.filter((c: FlashCard) => c.subject === 'physics').map((c: FlashCard) => c.chapter))] as string[];
       const physCards = cards.filter((c: FlashCard) => c.subject === 'physics');
       
       if (physChapters.length > 0) {
@@ -60,23 +60,23 @@ export default function CategoriesPage() {
           icon: Atom,
           color: 'from-purple-400 to-indigo-400',
           cardCount: physCards.length,
-          chapters: physChapters.filter(Boolean)
+          chapters: physChapters.filter(Boolean) as string[]
         });
       }
 
       // チャプター別カテゴリー（化学）
       const chemistryChapterIcons: { [key: string]: React.ComponentType<{ className?: string }> } = {
-        '物質の成り立ち': Flask,
+        '物質の成り立ち': FlaskRound,
         '物質の分離': Zap,
         '原子の構造': Atom,
         '化学反応': Brain,
-        '酸と塩基': Flask,
+        '酸と塩基': FlaskRound,
         '酸化還元': Zap,
         '物質量': Calculator,
-        '気体の性質': Flask,
+        '気体の性質': FlaskRound,
       };
 
-      chemChapters.forEach(chapter => {
+      chemChapters.forEach((chapter: string) => {
         if (chapter) {
           const chapterCards = cards.filter((c: FlashCard) => c.subject === 'chemistry' && c.chapter === chapter);
           categoryMap.set(`chem-${chapter}`, {
@@ -100,7 +100,7 @@ export default function CategoriesPage() {
         '原子': Atom,
       };
 
-      physChapters.forEach(chapter => {
+      physChapters.forEach((chapter: string) => {
         if (chapter) {
           const chapterCards = cards.filter((c: FlashCard) => c.subject === 'physics' && c.chapter === chapter);
           categoryMap.set(`phys-${chapter}`, {

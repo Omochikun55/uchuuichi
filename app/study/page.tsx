@@ -42,7 +42,7 @@ export default function StudyPage() {
     try {
       const response = await fetch('/learning-data.json');
       const data = await response.json();
-      const loadedCards = data.cards.map((card: FlashCard) => ({
+      const loadedCards: FlashCard[] = data.cards.map((card: Partial<FlashCard> & { lastReviewed?: string; nextReview?: string }) => ({
         ...card,
         lastReviewed: card.lastReviewed ? new Date(card.lastReviewed) : undefined,
         nextReview: card.nextReview ? new Date(card.nextReview) : undefined,
