@@ -1192,16 +1192,1639 @@
         "化学反応式",
         "基本概念"
       ]
+    },
+    {
+      "id": "text_0000",
+      "question": "酸とは何ですか？",
+      "answer": "プロトン（H⁺）を与える物質",
+      "type": "quick",
+      "difficulty": 1,
+      "subject": "化学",
+      "chapter": "1.",
+      "page": 1,
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0,
+      "tags": [
+        "定義",
+        "酸"
+      ]
+    },
+    {
+      "id": "text_0001",
+      "question": "塩基とは何ですか？",
+      "answer": "プロトン（H⁺）を受け取る物質",
+      "type": "quick",
+      "difficulty": 1,
+      "subject": "化学",
+      "chapter": "1.",
+      "page": 1,
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0,
+      "tags": [
+        "定義",
+        "塩基"
+      ]
+    },
+    {
+      "id": "text_0002",
+      "question": "このポイントについて説明してください",
+      "answer": "：酸と塩基は共役関係にあり、一方が酸として働けば、もう一方は塩基として働く。",
+      "type": "quick",
+      "difficulty": 2,
+      "subject": "化学",
+      "chapter": "1.",
+      "page": 1,
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0,
+      "tags": [
+        "重要",
+        "ポイント"
+      ]
+    },
+    {
+      "id": "text_0003",
+      "question": "この内容で注意すべき点は？",
+      "answer": "この反応でHClは酸、H₂Oは塩基として働いている。",
+      "type": "quick",
+      "difficulty": 3,
+      "subject": "化学",
+      "chapter": "1.",
+      "page": 1,
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0,
+      "tags": [
+        "注意",
+        "典型ミス"
+      ],
+      "misconceptions": [
+        "この反応でHClは酸、H₂Oは塩基として働いている。"
+      ]
+    },
+    {
+      "id": "text_0004",
+      "question": "HClが水に溶ける反応を考える",
+      "answer": "\nHCl + H₂O → H₃O⁺ + Cl⁻\n\n注意：この反応でHClは酸、H₂Oは塩基として働いている。",
+      "type": "application",
+      "difficulty": 3,
+      "subject": "化学",
+      "chapter": "1.",
+      "page": 1,
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0,
+      "tags": [
+        "例題",
+        "応用"
+      ]
+    },
+    {
+      "id": "text_0005",
+      "question": "この内容で注意すべき点は？",
+      "answer": "近似が成立する条件は、電離度α << 1 である必要がある。",
+      "type": "quick",
+      "difficulty": 3,
+      "subject": "化学",
+      "chapter": "5.",
+      "page": 1,
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0,
+      "tags": [
+        "注意",
+        "典型ミス"
+      ],
+      "misconceptions": [
+        "近似が成立する条件は、電離度α << 1 である必要がある。"
+      ]
+    },
+    {
+      "id": "uch_the_004_000",
+      "question": "純物質というのとは何ですか？",
+      "answer": ",化学式1つで表せるもの",
+      "type": "definition",
+      "difficulty": 1,
+      "subject": "chemistry",
+      "chapter": "理論化学",
+      "page": 4,
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0,
+      "tags": [
+        "理論化学",
+        "定義",
+        "純物質というの"
+      ]
+    },
+    {
+      "id": "uch_the_004_001",
+      "question": "一方′混合物というのとは何ですか？",
+      "answer": ",純物質がいくつか混ざつてできたもので, 化学式を複数使わないと表せません",
+      "type": "definition",
+      "difficulty": 1,
+      "subject": "chemistry",
+      "chapter": "理論化学",
+      "page": 4,
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0,
+      "tags": [
+        "理論化学",
+        "定義",
+        "一方′混合物というの"
+      ]
+    },
+    {
+      "id": "uch_the_004_003",
+      "question": "どうして純物質と混合物を区別するかというと, 純物質にとは何ですか？",
+      "answer": "それぞれ決まつた性質があつて, 化学はそれを調べていく学問だから",
+      "type": "definition",
+      "difficulty": 1,
+      "subject": "chemistry",
+      "chapter": "理論化学",
+      "page": 4,
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0,
+      "tags": [
+        "理論化学",
+        "定義",
+        "どうして純物質と混合物を区別するかという"
+      ]
+    },
+    {
+      "id": "uch_the_004_004",
+      "question": "純物質がいくつか混ざつている混合物とは何ですか？",
+      "answer": "′ 純物質の割合によつて性質が変わつてきますので′ 学問の対象にはなりにくいの",
+      "type": "definition",
+      "difficulty": 1,
+      "subject": "chemistry",
+      "chapter": "理論化学",
+      "page": 4,
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0,
+      "tags": [
+        "理論化学",
+        "定義",
+        "純物質がいくつか混ざつている混合物"
+      ]
+    },
+    {
+      "id": "uch_the_004_005",
+      "question": "純物質と混合物のあいだにとは何ですか？",
+      "answer": ", 融点や沸点が一定か,一定でないかという大きな違いがあります",
+      "type": "definition",
+      "difficulty": 1,
+      "subject": "chemistry",
+      "chapter": "理論化学",
+      "page": 4,
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0,
+      "tags": [
+        "理論化学",
+        "定義",
+        "純物質と混合物のあいだに"
+      ]
+    },
+    {
+      "id": "uch_the_004_006",
+      "question": ") 純物質とは何ですか？",
+      "answer": "融点や沸点が一定で,混含物は―定ではありません",
+      "type": "definition",
+      "difficulty": 1,
+      "subject": "chemistry",
+      "chapter": "理論化学",
+      "page": 4,
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0,
+      "tags": [
+        "理論化学",
+        "定義",
+        ")\n純物質"
+      ]
+    },
+    {
+      "id": "uch_the_004_007",
+      "question": "融点や沸点とは何ですか？",
+      "answer": "′先ほどいつた「純物質の決まった性質」の1つで, 純物質ごとに決まつているものなの",
+      "type": "definition",
+      "difficulty": 1,
+      "subject": "chemistry",
+      "chapter": "理論化学",
+      "page": 4,
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0,
+      "tags": [
+        "理論化学",
+        "定義",
+        "融点や沸点"
+      ]
+    },
+    {
+      "id": "uch_the_004_008",
+      "question": "例えば′純物質である水の沸点とは何ですか？",
+      "answer": "100てと決まつていますが′ 水と食塩の混合物",
+      "type": "definition",
+      "difficulty": 1,
+      "subject": "chemistry",
+      "chapter": "理論化学",
+      "page": 4,
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0,
+      "tags": [
+        "理論化学",
+        "定義",
+        "例えば′純物質である水の沸点"
+      ]
+    },
+    {
+      "id": "uch_the_004_009",
+      "question": "食塩水とは何ですか？",
+      "answer": ", 混合の割合によつて沸点が異なるの",
+      "type": "definition",
+      "difficulty": 1,
+      "subject": "chemistry",
+      "chapter": "理論化学",
+      "page": 4,
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0,
+      "tags": [
+        "理論化学",
+        "定義",
+        "食塩水"
+      ]
+    },
+    {
+      "id": "uch_the_006_000",
+      "question": "ココをおさえよう! 混合物とは何ですか？",
+      "answer": "純物質に分けて考えなくてはいけない,ということはわかりました",
+      "type": "definition",
+      "difficulty": 1,
+      "subject": "chemistry",
+      "chapter": "理論化学",
+      "page": 6,
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0,
+      "tags": [
+        "理論化学",
+        "定義",
+        "ココをおさえよう!\n混合物"
+      ]
+    },
+    {
+      "id": "uch_the_006_002",
+      "question": "ろ過で使用するろ紙にとは何ですか？",
+      "answer": "無数の穴が空いていますが′その大きさが絶妙′つまり 液体は通しますが固体は通さないくらいの大きさなの",
+      "type": "definition",
+      "difficulty": 1,
+      "subject": "chemistry",
+      "chapter": "理論化学",
+      "page": 6,
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0,
+      "tags": [
+        "理論化学",
+        "定義",
+        "ろ過で使用するろ紙に"
+      ]
+    },
+    {
+      "id": "uch_the_007_000",
+      "question": "混合物とは何ですか？",
+      "answer": "純物質に 分けるのじゃ ! 物質",
+      "type": "definition",
+      "difficulty": 1,
+      "subject": "chemistry",
+      "chapter": "理論化学",
+      "page": 7,
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0,
+      "tags": [
+        "理論化学",
+        "定義",
+        "混合物"
+      ]
+    },
+    {
+      "id": "uch_the_008_001",
+      "question": "液体に溶けている固体とは何ですか？",
+      "answer": ",ろ過してもろ紙を通過してしまうので,分離するこ とができません",
+      "type": "definition",
+      "difficulty": 1,
+      "subject": "chemistry",
+      "chapter": "理論化学",
+      "page": 8,
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0,
+      "tags": [
+        "理論化学",
+        "定義",
+        "液体に溶けている固体"
+      ]
+    },
+    {
+      "id": "uch_the_008_002",
+      "question": "常温で固体の物質とは何ですか？",
+      "answer": "一般に,とても沸点が高いため,ある程度高い温度まで上げても 気体になることはありません",
+      "type": "definition",
+      "difficulty": 1,
+      "subject": "chemistry",
+      "chapter": "理論化学",
+      "page": 8,
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0,
+      "tags": [
+        "理論化学",
+        "定義",
+        "常温で固体の物質"
+      ]
+    },
+    {
+      "id": "uch_the_008_003",
+      "question": "例えば,食塩水を水と食塩(=NaCl)に分離するとき に用いる方法も蒸留ですが,NaCiの沸点とは何ですか？",
+      "answer": "約1400° Cなので′食塩水を1400てとい う高温になるまで温めなければ′食塩が蒸発することはないの",
+      "type": "definition",
+      "difficulty": 1,
+      "subject": "chemistry",
+      "chapter": "理論化学",
+      "page": 8,
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0,
+      "tags": [
+        "理論化学",
+        "定義",
+        "例えば,食塩水を水と食塩(=NaCl)に"
+      ]
+    },
+    {
+      "id": "uch_the_008_005",
+      "question": "め 蒸留と分留とは何ですか？",
+      "answer": "同じ装置を使うため違いがよくわからない′という人も多いよう",
+      "type": "definition",
+      "difficulty": 1,
+      "subject": "chemistry",
+      "chapter": "理論化学",
+      "page": 8,
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0,
+      "tags": [
+        "理論化学",
+        "定義",
+        "め\n蒸留と分留"
+      ]
+    },
+    {
+      "id": "uch_the_008_006",
+      "question": "蒸留と分留とは何ですか？",
+      "answer": ",どちらも「沸点の違いを利用して分離する」という点では同じ",
+      "type": "definition",
+      "difficulty": 1,
+      "subject": "chemistry",
+      "chapter": "理論化学",
+      "page": 8,
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0,
+      "tags": [
+        "理論化学",
+        "定義",
+        "蒸留と分留"
+      ]
+    },
+    {
+      "id": "uch_the_008_007",
+      "question": "蒸留ととは何ですか？",
+      "answer": ",沸点が低い物質(=液体)と沸点が高い物質(=固体)を分離する方法なので, ざつくり言えば,比較的温度調整がラクな操作",
+      "type": "definition",
+      "difficulty": 1,
+      "subject": "chemistry",
+      "chapter": "理論化学",
+      "page": 8,
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0,
+      "tags": [
+        "理論化学",
+        "定義",
+        "蒸留と"
+      ]
+    },
+    {
+      "id": "uch_the_008_008",
+      "question": "一方,分留とは何ですか？",
+      "answer": ",沸点が低い物質どうし(=沸点の違う液体Aと液体3)を分離する方法",
+      "type": "definition",
+      "difficulty": 1,
+      "subject": "chemistry",
+      "chapter": "理論化学",
+      "page": 8,
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0,
+      "tags": [
+        "理論化学",
+        "定義",
+        "一方,分留"
+      ]
+    },
+    {
+      "id": "uch_the_008_009",
+      "question": "蒸留と違い`液体どうしとは何ですか？",
+      "answer": "沸点が近い場合もあるため′微妙な温度調整をする 必要があります",
+      "type": "definition",
+      "difficulty": 1,
+      "subject": "chemistry",
+      "chapter": "理論化学",
+      "page": 8,
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0,
+      "tags": [
+        "理論化学",
+        "定義",
+        "蒸留と違い`液体どうし"
+      ]
+    },
+    {
+      "id": "uch_ino_002_001",
+      "question": "きれいに色分けされたりとは何ですか？",
+      "answer": "しているけど′ 「なんだかごちゃごちゃしていてよくわからない!」 そういつて′読み飛ばしている人も多いはず",
+      "type": "definition",
+      "difficulty": 1,
+      "subject": "chemistry",
+      "chapter": "無機化学",
+      "page": 2,
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0,
+      "tags": [
+        "無機化学",
+        "定義",
+        "きれいに色分けされたり"
+      ]
+    },
+    {
+      "id": "uch_ino_002_002",
+      "question": "日本地図とは何ですか？",
+      "answer": ",県や地域で色分けがされていますじ′ 北や南に行くにつれて気候も変わります",
+      "type": "definition",
+      "difficulty": 1,
+      "subject": "chemistry",
+      "chapter": "無機化学",
+      "page": 2,
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0,
+      "tags": [
+        "無機化学",
+        "定義",
+        "日本地図"
+      ]
+    },
+    {
+      "id": "uch_ino_004_000",
+      "question": "これは理論化学の復習になりますが′ 原子番号とは何ですか？",
+      "answer": "「原子中に含まれる隅子の数」と同じでしたね",
+      "type": "definition",
+      "difficulty": 1,
+      "subject": "chemistry",
+      "chapter": "無機化学",
+      "page": 4,
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0,
+      "tags": [
+        "無機化学",
+        "定義",
+        "これは理論化学の復習になりますが′\n原子"
+      ]
+    },
+    {
+      "id": "uch_ino_004_001",
+      "question": "(途中の元素を除いていますが′ これについてとは何ですか？",
+      "answer": "後ほどお話しします) このような周期性を′元素の同期律といいます",
+      "type": "definition",
+      "difficulty": 1,
+      "subject": "chemistry",
+      "chapter": "無機化学",
+      "page": 4,
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0,
+      "tags": [
+        "無機化学",
+        "定義",
+        "(途中の元素を除いていますが′ これにつ"
+      ]
+    },
+    {
+      "id": "uch_ino_004_002",
+      "question": "吟 同期的に現れる性質にとは何ですか？",
+      "answer": ",化学的性質′イオン化エネルギー,電子親和力′単体の沸 点",
+      "type": "definition",
+      "difficulty": 1,
+      "subject": "chemistry",
+      "chapter": "無機化学",
+      "page": 4,
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0,
+      "tags": [
+        "無機化学",
+        "定義",
+        "吟\n同期的に現れる性質に"
+      ]
+    },
+    {
+      "id": "uch_ino_006_000",
+      "question": "(価電子の数は′7の次は,8にならず0に戻ります) これも理論化学の復習になりますが′ 価電子の数とは何ですか？",
+      "answer": ",いちばん外側の電子殻(最外殻)にある電子の数のことでした",
+      "type": "definition",
+      "difficulty": 1,
+      "subject": "chemistry",
+      "chapter": "無機化学",
+      "page": 6,
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0,
+      "tags": [
+        "無機化学",
+        "定義",
+        "(価電子の数は′7の次は,8にならず0に"
+      ]
+    },
+    {
+      "id": "uch_ino_006_001",
+      "question": "(価電子の数とは何ですか？",
+      "answer": "′7の次は,8にならず0に戻ります) これも理論化学の復習になりますが′ 価電子の数とは,いちばん外側の電子殻(最外殻)にある電子の数のことでした",
+      "type": "definition",
+      "difficulty": 1,
+      "subject": "chemistry",
+      "chapter": "無機化学",
+      "page": 6,
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0,
+      "tags": [
+        "無機化学",
+        "定義",
+        "(価電子の数"
+      ]
+    },
+    {
+      "id": "uch_ino_006_002",
+      "question": "ただし′貴ガス(希ガス)とは何ですか？",
+      "answer": "イオン化(電子を失つたり受け取つたり)することがほ とんどないので′価電子の数は0とします",
+      "type": "definition",
+      "difficulty": 1,
+      "subject": "chemistry",
+      "chapter": "無機化学",
+      "page": 6,
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0,
+      "tags": [
+        "無機化学",
+        "定義",
+        "ただし′貴ガス(希ガス)"
+      ]
+    },
+    {
+      "id": "uch_ino_006_004",
+      "question": "まるで′おいしい果物とは何ですか？",
+      "answer": "表面を見ただけでわかるのに似ていますね",
+      "type": "definition",
+      "difficulty": 1,
+      "subject": "chemistry",
+      "chapter": "無機化学",
+      "page": 6,
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0,
+      "tags": [
+        "無機化学",
+        "定義",
+        "まるで′おいしい果物"
+      ]
+    },
+    {
+      "id": "uch_ino_007_000",
+      "question": "、タ 価電子の数にとは何ですか？",
+      "answer": ", 周期性があつて・ 価電子の数と性質には 関係がある だから性質に 周期性があるんだ ! >く ′ヽ 化学変化 化学変化は,原子どうしの 衝突で起きるものだから, 表面の状態(価電子の数)で その性質が決まる",
+      "type": "definition",
+      "difficulty": 1,
+      "subject": "chemistry",
+      "chapter": "無機化学",
+      "page": 7,
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0,
+      "tags": [
+        "無機化学",
+        "定義",
+        "、タ\n価電子の数に"
+      ]
+    },
+    {
+      "id": "uch_ino_007_001",
+      "question": "あり)とは何ですか？",
+      "answer": "その元素の性質も決まるから。",
+      "type": "definition",
+      "difficulty": 1,
+      "subject": "chemistry",
+      "chapter": "無機化学",
+      "page": 7,
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0,
+      "tags": [
+        "無機化学",
+        "定義",
+        "あり)"
+      ]
+    },
+    {
+      "id": "uch_ino_008_000",
+      "question": "(※ 1-4でくわしくお話しします) さて ① ② ③ つまり′縦の列に並ぶ元素どうしとは何ですか？",
+      "answer": "似たような性質を示すの",
+      "type": "definition",
+      "difficulty": 1,
+      "subject": "chemistry",
+      "chapter": "無機化学",
+      "page": 8,
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0,
+      "tags": [
+        "無機化学",
+        "定義",
+        "(※ 1-4でくわしくお話しします)\nさ"
+      ]
+    },
+    {
+      "id": "uch_ino_008_002",
+      "question": "(それぞれの性質についてとは何ですか？",
+      "answer": "′後ほど解説していきますよ～) このように,同族元素で周期表を区切るというのが 「周期表の区切りかたパターン1」",
+      "type": "definition",
+      "difficulty": 1,
+      "subject": "chemistry",
+      "chapter": "無機化学",
+      "page": 8,
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0,
+      "tags": [
+        "無機化学",
+        "定義",
+        "(それぞれの性質について"
+      ]
+    },
+    {
+      "id": "uch_ino_008_003",
+      "question": "一方′横の列とは何ですか？",
+      "answer": "同期といい,1～7周期まであります",
+      "type": "definition",
+      "difficulty": 1,
+      "subject": "chemistry",
+      "chapter": "無機化学",
+      "page": 8,
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0,
+      "tags": [
+        "無機化学",
+        "定義",
+        "一方′横の列"
+      ]
+    },
+    {
+      "id": "uch_ino_010_000",
+      "question": "この3～12族の元素群を遷移元素といいます(12族の元素とは何ですか？",
+      "answer": "遷移元素に含める 場合と含めない場合があります)",
+      "type": "definition",
+      "difficulty": 1,
+      "subject": "chemistry",
+      "chapter": "無機化学",
+      "page": 10,
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0,
+      "tags": [
+        "無機化学",
+        "定義",
+        "この3～12族の元素群を遷移元素といいま"
+      ]
+    },
+    {
+      "id": "uch_ino_010_001",
+      "question": ") なぜ周期性がないかというと′遷移元素とは何ですか？",
+      "answer": "価電子の数が変わらないため, 結果として性質も似通つたものになるから",
+      "type": "definition",
+      "difficulty": 1,
+      "subject": "chemistry",
+      "chapter": "無機化学",
+      "page": 10,
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0,
+      "tags": [
+        "無機化学",
+        "定義",
+        ")\nなぜ周期性がないかというと′遷移元素"
+      ]
+    },
+    {
+      "id": "uch_ino_010_002",
+      "question": "遷移元素でとは何ですか？",
+      "answer": ",原子番号が増しても′最外殻の電子の数は増加せず, 内側の電子殻の電子の数が増加するため′価電子の数が変化しないの",
+      "type": "definition",
+      "difficulty": 1,
+      "subject": "chemistry",
+      "chapter": "無機化学",
+      "page": 10,
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0,
+      "tags": [
+        "無機化学",
+        "定義",
+        "遷移元素で"
+      ]
+    },
+    {
+      "id": "uch_ino_010_003",
+      "question": "先ほどいったように,同じ周期の典型元素とは何ですか？",
+      "answer": ",原子番号が増えるにしたがって価 電子の数が増加するので,性質は異なつたものになります",
+      "type": "definition",
+      "difficulty": 1,
+      "subject": "chemistry",
+      "chapter": "無機化学",
+      "page": 10,
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0,
+      "tags": [
+        "無機化学",
+        "定義",
+        "先ほどいったように,同じ周期の典型元素"
+      ]
+    },
+    {
+      "id": "uch_ino_010_004",
+      "question": "そして′性質にとは何ですか？",
+      "answer": "周期性があるので,同族元素の性質はよく似たものになるので したね",
+      "type": "definition",
+      "difficulty": 1,
+      "subject": "chemistry",
+      "chapter": "無機化学",
+      "page": 10,
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0,
+      "tags": [
+        "無機化学",
+        "定義",
+        "そして′性質に"
+      ]
+    },
+    {
+      "id": "uch_ino_012_000",
+      "question": "金属元素とは何ですか？",
+      "answer": ",BとA:の間から斜め右下に分けたときの,左側の元素群を指しま す",
+      "type": "definition",
+      "difficulty": 1,
+      "subject": "chemistry",
+      "chapter": "無機化学",
+      "page": 12,
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0,
+      "tags": [
+        "無機化学",
+        "定義",
+        "金属元素"
+      ]
+    },
+    {
+      "id": "uch_org_002_001",
+      "question": "が 有機化学を勉強する目的ととは何ですか？",
+      "answer": "一体何でしょうか? ルナー燃料を探しに,地球にやつてきたハカセたち",
+      "type": "definition",
+      "difficulty": 1,
+      "subject": "chemistry",
+      "chapter": "有機化学",
+      "page": 2,
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0,
+      "tags": [
+        "有機化学",
+        "定義",
+        "が\n有機化学を勉強する目的と"
+      ]
+    },
+    {
+      "id": "uch_org_002_002",
+      "question": "しかし′ この量でとは何ですか？",
+      "answer": "少量すぎて月を救うことはできないよう",
+      "type": "definition",
+      "difficulty": 1,
+      "subject": "chemistry",
+      "chapter": "有機化学",
+      "page": 2,
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0,
+      "tags": [
+        "有機化学",
+        "定義",
+        "しかし′ この量で"
+      ]
+    },
+    {
+      "id": "uch_org_002_003",
+      "question": "「一体′ルナ…燃料とは何ですか？",
+      "answer": "どんな物質なんじやろうか",
+      "type": "definition",
+      "difficulty": 1,
+      "subject": "chemistry",
+      "chapter": "有機化学",
+      "page": 2,
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0,
+      "tags": [
+        "有機化学",
+        "定義",
+        "「一体′ルナ…燃料"
+      ]
+    },
+    {
+      "id": "uch_org_004_001",
+      "question": "有機化合物の特徴 炭素の特徴 有機化合物の書き表しかた この本を読み終える頃にとは何ですか？",
+      "answer": "「次のような操作を行つたところ,以下のような反応をした",
+      "type": "definition",
+      "difficulty": 1,
+      "subject": "chemistry",
+      "chapter": "有機化学",
+      "page": 4,
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0,
+      "tags": [
+        "有機化学",
+        "定義",
+        "有機化合物の特徴\n炭素の特徴\n有機化合物"
+      ]
+    },
+    {
+      "id": "uch_org_005_000",
+      "question": "19 = 、 ヽ ノ ゴール その有機化合物とは何ですか？",
+      "answer": "一体何なのかを突き止めること ヽ ． ・ ′ す ずは基礎となる ジヤーン ルナー燃料も 一体どんな物質 なんでしょう CH3COOH ■, ' H ワ ． つ ． ＋ Ｉ Ｌ Ｈ Ｉ Ｃ Ｉ Ｃ 一 Ｈ Ｃ 千 Ｉ Ｌ ,tま 一 一 ・ ・ ‐ ・ O C) ZOfcr/>lzfu?fiq ること ・有機化合物の特徴 ・炭素の特徴 0有機化合物の書",
+      "type": "definition",
+      "difficulty": 1,
+      "subject": "chemistry",
+      "chapter": "有機化学",
+      "page": 5,
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0,
+      "tags": [
+        "有機化学",
+        "定義",
+        "19\n=  \n、\nヽ ノ\nゴール\nその有"
+      ]
+    },
+    {
+      "id": "uch_org_006_000",
+      "question": "勒 例外として,CO′ C02,炭酸塩(CaC03など)′ シアン化物(KCNなど)とは何ですか？",
+      "answer": "有機化合物 ではなく,無機物質に分類することになっています",
+      "type": "definition",
+      "difficulty": 1,
+      "subject": "chemistry",
+      "chapter": "有機化学",
+      "page": 6,
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0,
+      "tags": [
+        "有機化学",
+        "定義",
+        "勒\n例外として,CO′ C02,炭酸塩("
+      ]
+    },
+    {
+      "id": "uch_org_006_001",
+      "question": "無機化学とは何ですか？",
+      "answer": "すでに勉強したと思いますが′そこではたくさんの元素(原子の種類) が出てきて, 「その元素の単体や化含物の性質を1つひとつ覚えていくこと」 が最も大事なポイントでした",
+      "type": "definition",
+      "difficulty": 1,
+      "subject": "chemistry",
+      "chapter": "有機化学",
+      "page": 6,
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0,
+      "tags": [
+        "有機化学",
+        "定義",
+        "無機化学"
+      ]
+    },
+    {
+      "id": "uch_org_006_002",
+      "question": "一方′有機化学でとは何ですか？",
+      "answer": ",限られた数の元素しか出てきませんが, (炭素C,水素H′ 酸素0′ 窒素N′ 硫黄S, リンP′ 塩素CI′ 臭素Brなど) これらを組合せたり′結びつきかたを変えることで′1億種類もの化合物となり ます",
+      "type": "definition",
+      "difficulty": 1,
+      "subject": "chemistry",
+      "chapter": "有機化学",
+      "page": 6,
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0,
+      "tags": [
+        "有機化学",
+        "定義",
+        "一方′有機化学で"
+      ]
+    },
+    {
+      "id": "uch_org_006_003",
+      "question": "ここでとは何ですか？",
+      "answer": ",とにかく「有機化合物は,限られた元素の組合せかたや結合のしかた でさまざまな物質になる」ということを理解していただけたらOK",
+      "type": "definition",
+      "difficulty": 1,
+      "subject": "chemistry",
+      "chapter": "有機化学",
+      "page": 6,
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0,
+      "tags": [
+        "有機化学",
+        "定義",
+        "ここで"
+      ]
+    },
+    {
+      "id": "uch_org_007_000",
+      "question": "CO,C02,炭酸塩, シアン化物とは何ですか？",
+      "answer": "炭素を含むが 無機物質に 分類されるぞい =炭素Cを含む化合物 ■ ■ ご 、 =炭素Cを含まない物質 無機化学…さまざま が出てくる 圃膠熙 0 無機物質 無機化学を 一緒に学んだ ニャンタローは 澤鞣翁 いぜ ′ t==′ 元気かな ・ 一 一 ２ 一 ３ 一 ・ ４ 一 ５ 一 ６ 一 ７ 一 一 一 二 ● 一 一 2He lH =B tC 7N 、0 ,F |",
+      "type": "definition",
+      "difficulty": 1,
+      "subject": "chemistry",
+      "chapter": "有機化学",
+      "page": 7,
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0,
+      "tags": [
+        "有機化学",
+        "定義",
+        "CO,C02,炭酸塩,\nシアン化物"
+      ]
+    },
+    {
+      "id": "uch_org_008_000",
+      "question": "化学反応とは何ですか？",
+      "answer": ",物質そのものが変化する反応",
+      "type": "definition",
+      "difficulty": 1,
+      "subject": "chemistry",
+      "chapter": "有機化学",
+      "page": 8,
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0,
+      "tags": [
+        "有機化学",
+        "定義",
+        "化学反応"
+      ]
+    },
+    {
+      "id": "uch_org_008_001",
+      "question": "【理由】 有機化合物中の結合の大部分とは何ですか？",
+      "answer": ",結びつきが比較的強い共有結合",
+      "type": "definition",
+      "difficulty": 1,
+      "subject": "chemistry",
+      "chapter": "有機化学",
+      "page": 8,
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0,
+      "tags": [
+        "有機化学",
+        "定義",
+        "【理由】\n有機化合物中の結合の大部分"
+      ]
+    },
+    {
+      "id": "uch_org_008_002",
+      "question": "化学反応ととは何ですか？",
+      "answer": ",物質そのものが変化する反応",
+      "type": "definition",
+      "difficulty": 1,
+      "subject": "chemistry",
+      "chapter": "有機化学",
+      "page": 8,
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0,
+      "tags": [
+        "有機化学",
+        "定義",
+        "化学反応と"
+      ]
+    },
+    {
+      "id": "uch_org_008_003",
+      "question": "化学反応が起こるときとは何ですか？",
+      "answer": ",原子どうしの結合が切れて′新たな原子の組合せがで きるので′結合を切るのにたくさんのエネルギーが必要な共有結合をもつ有機化 合物は,その分′化学反応に時間がかかつてしまうの",
+      "type": "definition",
+      "difficulty": 1,
+      "subject": "chemistry",
+      "chapter": "有機化学",
+      "page": 8,
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0,
+      "tags": [
+        "有機化学",
+        "定義",
+        "化学反応が起こるとき"
+      ]
+    },
+    {
+      "id": "uch_org_008_004",
+      "question": "一方′無機物質とは何ですか？",
+      "answer": ",イオン結合や金属結合′配位結合など,共有結合より弱い結 合でできているものが多いため′反応速度は有機化合物に比べて速くなります",
+      "type": "definition",
+      "difficulty": 1,
+      "subject": "chemistry",
+      "chapter": "有機化学",
+      "page": 8,
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0,
+      "tags": [
+        "有機化学",
+        "定義",
+        "一方′無機物質"
+      ]
+    },
+    {
+      "id": "uch_org_008_005",
+      "question": "・有機化合物とは何ですか？",
+      "answer": ",水に溶けにくく,有機溶媒に溶けやすい",
+      "type": "definition",
+      "difficulty": 1,
+      "subject": "chemistry",
+      "chapter": "有機化学",
+      "page": 8,
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0,
+      "tags": [
+        "有機化学",
+        "定義",
+        "・有機化合物"
+      ]
+    },
+    {
+      "id": "uch_org_010_001",
+      "question": "【理由】 前のページでとは何ですか？",
+      "answer": ",原子どうしの結びつきに注目しましたが, ここでは′分子どうしの結びつきに注目します",
+      "type": "definition",
+      "difficulty": 1,
+      "subject": "chemistry",
+      "chapter": "有機化学",
+      "page": 10,
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0,
+      "tags": [
+        "有機化学",
+        "定義",
+        "【理由】\n前のページで"
+      ]
+    },
+    {
+      "id": "uch_org_010_002",
+      "question": "無機物質の多くとは何ですか？",
+      "answer": "′分子どうしがイオン結含(結びつきが比較的強い)によつてイ オン結晶となっていますが′有機化合物では,主に分子どうしの分子間力(結び つきが比較的弱い)による′分子結晶からなるものが多い",
+      "type": "definition",
+      "difficulty": 1,
+      "subject": "chemistry",
+      "chapter": "有機化学",
+      "page": 10,
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0,
+      "tags": [
+        "有機化学",
+        "定義",
+        "無機物質の多く"
+      ]
+    },
+    {
+      "id": "uch_org_010_003",
+      "question": "緒議)>無 機物質である金属とは何ですか？",
+      "answer": ",金属結合による結晶構造をとつています",
+      "type": "definition",
+      "difficulty": 1,
+      "subject": "chemistry",
+      "chapter": "有機化学",
+      "page": 10,
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0,
+      "tags": [
+        "有機化学",
+        "定義",
+        "緒議)>無\n機物質である金属"
+      ]
+    },
+    {
+      "id": "uch_org_010_004",
+      "question": "結合の強さにとは何ですか？",
+      "answer": "次のような大小関係がありましたね・",
+      "type": "definition",
+      "difficulty": 1,
+      "subject": "chemistry",
+      "chapter": "有機化学",
+      "page": 10,
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0,
+      "tags": [
+        "有機化学",
+        "定義",
+        "結合の強さに"
+      ]
+    },
+    {
+      "id": "uch_the_032_010",
+      "question": "この式の意味を説明してください",
+      "answer": "X+e~=X~+E(X:原",
+      "type": "formula",
+      "difficulty": 2,
+      "subject": "chemistry",
+      "chapter": "理論化学",
+      "page": 32,
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0,
+      "tags": [
+        "理論化学",
+        "公式"
+      ]
+    },
+    {
+      "id": "uch_the_033_006",
+      "question": "この式の意味を説明してください",
+      "answer": "M=M++e~― Eと表される。",
+      "type": "formula",
+      "difficulty": 2,
+      "subject": "chemistry",
+      "chapter": "理論化学",
+      "page": 33,
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0,
+      "tags": [
+        "理論化学",
+        "公式"
+      ]
+    },
+    {
+      "id": "uch_the_033_007",
+      "question": "この式の意味を説明してください",
+      "answer": "X+e~=X~+Eと表される。電子親和力が大きいと",
+      "type": "formula",
+      "difficulty": 2,
+      "subject": "chemistry",
+      "chapter": "理論化学",
+      "page": 33,
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0,
+      "tags": [
+        "理論化学",
+        "公式"
+      ]
+    },
+    {
+      "id": "uch_the_035_000",
+      "question": "この式の意味を説明してください",
+      "answer": "R覺=原子を1価の陽イオンにするため",
+      "type": "formula",
+      "difficulty": 2,
+      "subject": "chemistry",
+      "chapter": "理論化学",
+      "page": 35,
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0,
+      "tags": [
+        "理論化学",
+        "公式"
+      ]
+    },
+    {
+      "id": "uch_the_038_006",
+      "question": "この式の意味を説明してください",
+      "answer": "X~+E=X+e~)を",
+      "type": "formula",
+      "difficulty": 2,
+      "subject": "chemistry",
+      "chapter": "理論化学",
+      "page": 38,
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0,
+      "tags": [
+        "理論化学",
+        "公式"
+      ]
+    },
+    {
+      "id": "uch_the_039_000",
+      "question": "この式の意味を説明してください",
+      "answer": "CD=陰イオンを原子にするためには大きなエネルギー",
+      "type": "formula",
+      "difficulty": 2,
+      "subject": "chemistry",
+      "chapter": "理論化学",
+      "page": 39,
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0,
+      "tags": [
+        "理論化学",
+        "公式"
+      ]
+    },
+    {
+      "id": "uch_ino_018_001",
+      "question": "この式の意味を説明してください",
+      "answer": "X=0の部分に極性があり,こ",
+      "type": "formula",
+      "difficulty": 2,
+      "subject": "chemistry",
+      "chapter": "無機化学",
+      "page": 18,
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0,
+      "tags": [
+        "無機化学",
+        "公式"
+      ]
+    },
+    {
+      "id": "uch_org_007_001",
+      "question": "この式の意味を説明してください",
+      "answer": "CH₂♀=CH~CH₂",
+      "type": "formula",
+      "difficulty": 2,
+      "subject": "chemistry",
+      "chapter": "有機化学",
+      "page": 7,
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0,
+      "tags": [
+        "有機化学",
+        "公式"
+      ]
+    },
+    {
+      "id": "uch_org_033_002",
+      "question": "この式の意味を説明してください",
+      "answer": "CH₂なら,12+1× 2=14",
+      "type": "formula",
+      "difficulty": 2,
+      "subject": "chemistry",
+      "chapter": "有機化学",
+      "page": 33,
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0,
+      "tags": [
+        "有機化学",
+        "公式"
+      ]
+    },
+    {
+      "id": "uch_org_036_006",
+      "question": "この式の意味を説明してください",
+      "answer": "H₂0の質量×fき=Hの質量,C02の質量×",
+      "type": "formula",
+      "difficulty": 2,
+      "subject": "chemistry",
+      "chapter": "有機化学",
+      "page": 36,
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0,
+      "tags": [
+        "有機化学",
+        "公式"
+      ]
+    },
+    {
+      "id": "uch_org_040_004",
+      "question": "この式の意味を説明してください",
+      "answer": "Hのmol:Cのmol:0のmol=ぅユ",
+      "type": "formula",
+      "difficulty": 2,
+      "subject": "chemistry",
+      "chapter": "有機化学",
+      "page": 40,
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0,
+      "tags": [
+        "有機化学",
+        "公式"
+      ]
+    },
+    {
+      "id": "uch_org_041_000",
+      "question": "この式の意味を説明してください",
+      "answer": "IH C O=キ:ザ:雫",
+      "type": "formula",
+      "difficulty": 2,
+      "subject": "chemistry",
+      "chapter": "有機化学",
+      "page": 41,
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0,
+      "tags": [
+        "有機化学",
+        "公式"
+      ]
+    },
+    {
+      "id": "uch_org_044_008",
+      "question": "この式の意味を説明してください",
+      "answer": "CH₂0なので,式量は 12+1× 2+16=30",
+      "type": "formula",
+      "difficulty": 2,
+      "subject": "chemistry",
+      "chapter": "有機化学",
+      "page": 44,
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0,
+      "tags": [
+        "有機化学",
+        "公式"
+      ]
+    },
+    {
+      "id": "uch_org_044_009",
+      "question": "この式の意味を説明してください",
+      "answer": "CH₂0)6=C6H1206であることがわかりました。",
+      "type": "formula",
+      "difficulty": 2,
+      "subject": "chemistry",
+      "chapter": "有機化学",
+      "page": 44,
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0,
+      "tags": [
+        "有機化学",
+        "公式"
+      ]
+    },
+    {
+      "id": "uch_org_045_000",
+      "question": "この式の意味を説明してください",
+      "answer": "CH₂0)6=C6H1206",
+      "type": "formula",
+      "difficulty": 2,
+      "subject": "chemistry",
+      "chapter": "有機化学",
+      "page": 45,
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0,
+      "tags": [
+        "有機化学",
+        "公式"
+      ]
+    },
+    {
+      "id": "uch_the_004_img",
+      "question": "この図が示している内容を説明してください",
+      "answer": "図を参照して理解してください",
+      "type": "graph",
+      "difficulty": 2,
+      "subject": "chemistry",
+      "chapter": "理論化学",
+      "page": 4,
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0,
+      "tags": [
+        "理論化学",
+        "図解"
+      ],
+      "image_path": "images/p4_img0.png"
+    },
+    {
+      "id": "uch_the_005_img",
+      "question": "この図が示している内容を説明してください",
+      "answer": "図を参照して理解してください",
+      "type": "graph",
+      "difficulty": 2,
+      "subject": "chemistry",
+      "chapter": "理論化学",
+      "page": 5,
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0,
+      "tags": [
+        "理論化学",
+        "図解"
+      ],
+      "image_path": "images/p5_img0.png"
+    },
+    {
+      "id": "uch_the_006_img",
+      "question": "この図が示している内容を説明してください",
+      "answer": "図を参照して理解してください",
+      "type": "graph",
+      "difficulty": 2,
+      "subject": "chemistry",
+      "chapter": "理論化学",
+      "page": 6,
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0,
+      "tags": [
+        "理論化学",
+        "図解"
+      ],
+      "image_path": "images/p6_img0.png"
+    },
+    {
+      "id": "uch_the_010_img",
+      "question": "この図が示している内容を説明してください",
+      "answer": "図を参照して理解してください",
+      "type": "graph",
+      "difficulty": 2,
+      "subject": "chemistry",
+      "chapter": "理論化学",
+      "page": 10,
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0,
+      "tags": [
+        "理論化学",
+        "図解"
+      ],
+      "image_path": "images/p10_img0.png"
+    },
+    {
+      "id": "uch_the_014_img",
+      "question": "この図が示している内容を説明してください",
+      "answer": "図を参照して理解してください",
+      "type": "graph",
+      "difficulty": 2,
+      "subject": "chemistry",
+      "chapter": "理論化学",
+      "page": 14,
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0,
+      "tags": [
+        "理論化学",
+        "図解"
+      ],
+      "image_path": "images/p14_img0.png"
+    },
+    {
+      "id": "uch_the_016_img",
+      "question": "この図が示している内容を説明してください",
+      "answer": "図を参照して理解してください",
+      "type": "graph",
+      "difficulty": 2,
+      "subject": "chemistry",
+      "chapter": "理論化学",
+      "page": 16,
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0,
+      "tags": [
+        "理論化学",
+        "図解"
+      ],
+      "image_path": "images/p16_img0.png"
+    },
+    {
+      "id": "uch_the_020_img",
+      "question": "この図が示している内容を説明してください",
+      "answer": "図を参照して理解してください",
+      "type": "graph",
+      "difficulty": 2,
+      "subject": "chemistry",
+      "chapter": "理論化学",
+      "page": 20,
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0,
+      "tags": [
+        "理論化学",
+        "図解"
+      ],
+      "image_path": "images/p20_img0.png"
+    },
+    {
+      "id": "uch_the_021_img",
+      "question": "この図が示している内容を説明してください",
+      "answer": "図を参照して理解してください",
+      "type": "graph",
+      "difficulty": 2,
+      "subject": "chemistry",
+      "chapter": "理論化学",
+      "page": 21,
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0,
+      "tags": [
+        "理論化学",
+        "図解"
+      ],
+      "image_path": "images/p21_img0.png"
+    },
+    {
+      "id": "uch_the_024_img",
+      "question": "この図が示している内容を説明してください",
+      "answer": "図を参照して理解してください",
+      "type": "graph",
+      "difficulty": 2,
+      "subject": "chemistry",
+      "chapter": "理論化学",
+      "page": 24,
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0,
+      "tags": [
+        "理論化学",
+        "図解"
+      ],
+      "image_path": "images/p24_img0.png"
+    },
+    {
+      "id": "uch_the_026_img",
+      "question": "この図が示している内容を説明してください",
+      "answer": "図を参照して理解してください",
+      "type": "graph",
+      "difficulty": 2,
+      "subject": "chemistry",
+      "chapter": "理論化学",
+      "page": 26,
+      "reviewCount": 0,
+      "correctCount": 0,
+      "confidence": 0,
+      "tags": [
+        "理論化学",
+        "図解"
+      ],
+      "image_path": "images/p26_img0.png"
     }
   ],
   "metadata": {
-    "totalCards": 70,
+    "totalCards": 161,
     "subjects": [
       "chemistry",
       "physics"
     ],
     "lastUpdated": "2025-09-04",
-    "chemistryCards": 43,
+    "chemistryCards": 128,
     "physicsCards": 27
   }
 }
