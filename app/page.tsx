@@ -135,9 +135,9 @@ export default function HomePage() {
         <div className="max-w-6xl mx-auto">
           <div className="text-center mb-8">
             <h1 className="text-4xl font-bold text-gray-800 mb-2">
-              宇宙一わかりやすい
+              ケミカルマスター
             </h1>
-            <p className="text-xl text-gray-600">高速学習アプリ</p>
+            <p className="text-xl text-gray-600">化学・物理の高速学習アプリ</p>
           </div>
 
           {/* 統計カード */}
