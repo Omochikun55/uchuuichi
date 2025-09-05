@@ -39,3 +39,15 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# PDF files
+/PDF/
+*.pdf
+
+# Extraction outputs
+/pdf-extractor/output*/
+/pdf-extractor/*.json
+
+# Python
+__pycache__/
+*.py[cod]
